@@ -1,0 +1,3009 @@
+AAS1020 Claudrena Harold;Danielle Wingfield;Noel Stringham
+AAS2224 Lisa Shutt
+AAS2559 Latasha Levy;Anne Rotich
+AAS3500 Njelle Hamilton;Giuliana Perrone;Talitha Le;Pamela Reynolds
+AAS3749 Lisa Shutt
+AAS4080 Claudrena Harold
+AAS4500 Claudrena Harold
+AAS4501 Andrew Kahrl
+AAS4993 Lisa Shutt;Maurice Apprey;Claudrena Harold;Anne Rotich;Pamela Reynolds
+MATH1110 Stephen Hardy
+MATH1140 Ala Abdelbaki
+MATH1160 Irina Timchenko
+MATH1190 Sue He
+MATH1210 Kristin Courtney;Christopher Leonard;Aleksander Morgan;Alessandro De;Mark Lewers;Gabriel Islambouli;Matthew Feller;Daniel Franz;Robert Williams;Bogdan Krstic
+MATH1220 John Berman;Joshua Campbell;Huy Dang;Brian Thomas;Matthew Gagne;Daniel Nkemzi;Hankyung Ko;Mark Schrecengost;Chun Ju;Liaosha Xu;Ala Abdelbaki
+MATH1310 Kin Hei;Thomas Sale;Michael Reeks
+MATH1320 James Phillips;Paul Bourdon;Eloisa Rebelo;Scott Atkinson
+MATH2310 Scott Slinker;Ian Runnels;Andrew Obus;Gonzalo Alfredo;Xiang Wan
+MATH3000 Luis Nunez;Christopher Kok
+MATH3100 Zoran Grujic;Mikhail Ershov;John Imbrie
+MATH3250 Aseel Farhat;Kelsey Goodin
+MATH3255 Paul Bourdon;Mariano Echeverria
+MATH3310 Christopher Ramsey;Nicholas Kuhn
+MATH3315 Andrei Rapinchuk;Andrew Kobin
+MATH3340 Ira Herbst
+MATH3350 Yen Do
+MATH3351 Lloyd West;Bulent Tosun
+MATH3354 Zezhou Zhang;Luis Nunez;Mikhail Ershov
+MATH4110 Hans Gromoll
+MATH4140 Hans Gromoll
+MATH4220 Ira Herbst
+MATH4652 Weiqiang Wang
+MATH4660 Weiqiang Wang
+MATH4840 Vyacheslav Krushkal
+MATH5100 Zoran Grujic;Mikhail Ershov;John Imbrie
+MATH5330 Bulent Tosun
+MATH5340 Ira Herbst
+MATH5654 Zezhou Zhang;Luis Nunez;Mikhail Ershov
+MATH5700 Peter Abramenko
+MATH7010 Thomas Mark
+MATH7310 Tai Melcher
+MATH7752 Benjamin Webster
+MATH7754 Peter Abramenko
+MATH7800 Thomas Mark
+MATH8310 David Sherman
+MATH8380 Leonid Petrov
+MATH8410 Yen Do
+MATH8559 Vyacheslav Krushkal
+MATH8630 Andrew Obus
+MATH8750 Frank Quinn
+MATH8850 Luis Pereira
+MATH8851 Thomas Koberda
+MATH9250 Zoran Grujic
+MATH9310 David Sherman
+MATH9360 Leonid Petrov
+MATH9410 Andrei Rapinchuk
+MATH9450 John Imbrie
+MATH9559 Luis Nunez
+MATH9800 Nicholas Kuhn
+MATH9820 Thomas Mark
+MATH9950 Mikhail Ershov
+MATH9995 Thomas Mark;Vyacheslav Krushkal;Weiqiang Wang;Brian Parshall;Andrew Obus;Irena Lasiecka;David Sherman;Craig Huneke
+MATH9998 Zoran Grujic
+MATH9999 Weiqiang Wang;Zoran Grujic;Roberto Triggiani;Michael Hill;Craig Huneke;Nicholas Kuhn;Hans Gromoll;Peter Abramenko;Brian Parshall;Thomas Mark;Mikhail Ershov;Abdelmalek Abdesselam;Tai Melcher;David Sherman;Andrei Rapinchuk;Lawrence Thomas;Andrew Obus
+ANTH1010 Giancarlo Rolando
+ANTH1050 Ira Bashkow;Xinyan Peng;Dionisios Kavadias
+ANTH2280 Carrie Douglass
+ANTH2285 China Scherz
+ANTH2320 Dannah Dennis
+ANTH2360 Roy Wagner
+ANTH2365 Carrie Douglass
+ANTH2410 Ellen Contini;Grace Reynolds
+ANTH2420 Alison Broach
+ANTH2430 Lise Dobrin;Nicholas Piccinini
+ANTH2500 Jacqueline Cieslak
+ANTH2559 Herman Shugart
+ANTH2589 Adria Laviolette
+ANTH2590 Kathleen Weston;Roberto Armengol
+ANTH2820 Patricia Wattenmaker;Kyle Edwards
+ANTH3020 Jeffrey Hantman
+ANTH3129 John Shepherd
+ANTH3130 John Shepherd
+ANTH3240 Ravindra Khare
+ANTH3310 China Scherz
+ANTH3325 Kathleen Weston
+ANTH3340 Frederick Damon
+ANTH3370 George Mentore
+ANTH3395 Roy Wagner
+ANTH3450 Eve Danziger
+ANTH3870 Jeffrey Hantman
+ANTH3890 Stephen Plog
+ANTH4591 Ravindra Khare;George Mentore
+ANTH4840 Fraser Neiman
+ANTH4993 Jeffrey Hantman;Stephen Plog;Fraser Neiman;Roy Wagner;Richard Handler;Patricia Wattenmaker;Ira Bashkow;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;George Mentore;John Shepherd;Kathleen Weston;Rachel Most;Allison Alexy;Caren Freeman;James Igoe;China Scherz;Margaret Smith;Edith Turner
+ANTH4998 Allison Alexy;Ira Bashkow;Jeffrey Hantman;Yarimar Bonilla;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Richard Handler;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;George Mentore;Stephen Plog;John Shepherd;Roy Wagner;Patricia Wattenmaker;Kathleen Weston;James Igoe;Rachel Most;Fraser Neiman;China Scherz;Margaret Smith;Edith Turner
+ANTH4999 Rachel Most;George Mentore;Ira Bashkow;Richard Handler;Jeffrey Hantman;Yarimar Bonilla;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;Stephen Plog;John Shepherd;Roy Wagner;Patricia Wattenmaker;Kathleen Weston;James Igoe;Allison Alexy;Fraser Neiman;China Scherz;Margaret Smith;Edith Turner
+ANTH5220 Frederick Damon
+ANTH5360 Richard Merkel
+ANTH5401 Ellen Contini
+ANTH5440 Lise Dobrin
+ANTH5490 Daniel Lefkowitz
+ANTH5590 Roberto Armengol;James Igoe;Edith Turner
+ANTH5808 Patricia Wattenmaker
+ANTH5885 Adria Laviolette
+ANTH7020 James Igoe
+ANTH7040 Ira Bashkow
+ANTH7129 John Shepherd
+ANTH7130 John Shepherd
+ANTH7370 George Mentore
+ANTH7450 Eve Danziger
+ANTH7840 Fraser Neiman
+ANTH8998 Ira Bashkow;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Gertrude Fraser;Richard Handler;Jeffrey Hantman;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;George Mentore;Rachel Most;Stephen Plog;John Shepherd;Roy Wagner;Patricia Wattenmaker;Kathleen Weston;Allison Alexy;James Igoe;Fraser Neiman;China Scherz;Margaret Smith;Edith Turner
+ANTH8999 Allison Alexy;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Gertrude Fraser;Richard Handler;Jeffrey Hantman;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;George Mentore;Rachel Most;Stephen Plog;John Shepherd;Roy Wagner;Patricia Wattenmaker;Kathleen Weston;James Igoe;Fraser Neiman;China Scherz;Margaret Smith;Edith Turner
+ANTH9010 Ira Bashkow;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Gertrude Fraser;Richard Handler;Jeffrey Hantman;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;George Mentore;Rachel Most;Stephen Plog;John Shepherd;Roy Wagner;Patricia Wattenmaker;Kathleen Weston;Richard Merkel;Allison Alexy;James Igoe;Fraser Neiman;China Scherz;Margaret Smith;Edith Turner
+ANTH9020 Ira Bashkow;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Gertrude Fraser;Richard Handler;Jeffrey Hantman;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;George Mentore;Rachel Most;Stephen Plog;John Shepherd;Roy Wagner;Patricia Wattenmaker;Kathleen Weston;Allison Alexy;James Igoe;Fraser Neiman;China Scherz;Margaret Smith;Edith Turner
+ANTH9050 Daniel Lefkowitz
+ANTH9998 Allison Alexy;Ira Bashkow;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Gertrude Fraser;Richard Handler;Jeffrey Hantman;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;George Mentore;Rachel Most;Stephen Plog;China Scherz;John Shepherd;Roy Wagner;Patricia Wattenmaker;Kathleen Weston;James Igoe;Fraser Neiman;Margaret Smith;Edith Turner
+ANTH9999 Ira Bashkow;Ellen Contini;Frederick Damon;Eve Danziger;Lise Dobrin;Carrie Douglass;Gertrude Fraser;Richard Handler;Jeffrey Hantman;Ravindra Khare;Adria Laviolette;Daniel Lefkowitz;Susan Mc;George Mentore;Stephen Plog;John Shepherd;Roy Wagner;Patricia Wattenmaker;Kathleen Weston;Allison Alexy;James Igoe;China Scherz;Rachel Most;Fraser Neiman;Margaret Smith;Edith Turner
+SWAH1020 Anne Rotich
+MDST2000 Nicholas Rubin
+MDST2010 Christopher Ali;Stephanie Doktor;Stacie Thyrion;Charles Wright
+MDST2280 Douglas Blackmon
+MDST2305 Elliot Majerczyk
+MDST2559 Coy Barefoot
+MDST2700 Charles Kelly
+MDST2810 Walter Korte
+MDST3050 Jennifer Petersen
+MDST3102 Siva Vaidhyanathan
+MDST3106 Aniko Bodroghkozy
+MDST3115 William Little
+MDST3140 Paul Freedman;Chelsea Goforth;Alexander Pennington;Nicholas Jacobs;Anthony Sparacino
+MDST3202 Jane Friedman
+MDST3280 Douglas Blackmon
+MDST3310 John Hamilton
+MDST3402 Bruce Williams
+MDST3406 Bruce Williams
+MDST3407 Shilpa Dave
+MDST3504 Benedetta Lomi
+MDST3559 Siva Vaidhyanathan;Michael Wellmon;Emily Blout;Wyatt Andrews;Anna Keefe;Aynne Kokas
+MDST3630 William Little
+MDST3706 Aynne Kokas
+MDST3800 William Little
+MDST3840 Walter Korte
+MDST3900 William Little
+MDST4010 Christopher Ali;Andre Cavalcante;Siva Vaidhyanathan;Andrea Press;William Little;Bruce Williams
+MDST4108 Hector Amaya
+MDST4109 Aniko Bodroghkozy
+MDST4660 William Little
+MDST4701 Andre Cavalcante
+MDST4704 Christopher Ali
+MDST4802 William Reifenberger
+MDST4960 Jennifer Petersen;Bruce Williams;Siva Vaidhyanathan;John Hamilton;Michael Wellmon;Andrea Press;William Little;Christopher Ali
+ARAD1550 George Sampson
+ARAD3550 George Sampson
+ARAD5200 George Sampson
+ARAH8095 Louis Nelson;Tyler Smith;Daniel Ehnbom;John Dobbins;Cammy Brothers;Sheila Crane;Daniel Bluestone;Lisa Reilly;Richard Wilson;Yunsheng Huang;Paul Barolsky;Francesca Fiorani;Lawrence Goedde;Sarah Betzer;Anastasia Dakouri;Douglas Fordham;Carmenita Higginbotham;Maurie Mc;Eric Ramirez;Elizabeth Turner;Christa Robbins;Foteini Kondyli;Amanda Phillips;Dorothy Wong
+ARAH8695 John Dobbins;Paul Barolsky;Bruce Boucher;Sarah Betzer;Daniel Bluestone;Cammy Brothers;Sheila Crane;Anastasia Dakouri;Daniel Ehnbom;Francesca Fiorani;Douglas Fordham;Lawrence Goedde;Carmenita Higginbotham;Yunsheng Huang;Maurie Mc;Louis Nelson;Eric Ramirez;Lisa Reilly;Tyler Smith;Elizabeth Turner;Richard Wilson;Christa Robbins;Foteini Kondyli;Amanda Phillips;Dorothy Wong
+ARAH8998 Paul Barolsky;Bruce Boucher;Sarah Betzer;Daniel Bluestone;Cammy Brothers;Sheila Crane;Anastasia Dakouri;John Dobbins;Daniel Ehnbom;Francesca Fiorani;Douglas Fordham;Lawrence Goedde;Carmenita Higginbotham;Yunsheng Huang;Maurie Mc;Louis Nelson;Eric Ramirez;Lisa Reilly;Tyler Smith;Foteini Kondyli;Elizabeth Turner;Richard Wilson;Christa Robbins;Amanda Phillips;Dorothy Wong
+ARAH8999 Paul Barolsky;Bruce Boucher;Sarah Betzer;Daniel Bluestone;Cammy Brothers;Sheila Crane;Anastasia Dakouri;John Dobbins;Daniel Ehnbom;Francesca Fiorani;Douglas Fordham;Lawrence Goedde;Carmenita Higginbotham;Yunsheng Huang;Maurie Mc;Louis Nelson;Eric Ramirez;Lisa Reilly;Tyler Smith;Elizabeth Turner;Richard Wilson;Christa Robbins;Foteini Kondyli;Amanda Phillips;Dorothy Wong
+ARAH9510 Foteini Kondyli
+ARAH9520 Cammy Brothers
+ARAH9535 Douglas Fordham
+ARAH9545 Elizabeth Turner
+ARAH9995 Eric Ramirez;Paul Barolsky;Bruce Boucher;Sarah Betzer;Daniel Bluestone;Cammy Brothers;Sheila Crane;Anastasia Dakouri;John Dobbins;Francesca Fiorani;Douglas Fordham;Lawrence Goedde;Carmenita Higginbotham;Yunsheng Huang;Maurie Mc;Louis Nelson;Lisa Reilly;Tyler Smith;John Summers;Elizabeth Turner;Richard Wilson;Dorothy Wong;Foteini Kondyli;Amanda Phillips;Christa Robbins;Claire Raymond
+ARAH9998 Paul Barolsky;Bruce Boucher;Sarah Betzer;Daniel Bluestone;Cammy Brothers;Sheila Crane;Anastasia Dakouri;John Dobbins;Daniel Ehnbom;Francesca Fiorani;Douglas Fordham;Lawrence Goedde;Carmenita Higginbotham;Yunsheng Huang;Maurie Mc;Louis Nelson;Eric Ramirez;Lisa Reilly;Tyler Smith;Elizabeth Turner;Richard Wilson;Christa Robbins;Foteini Kondyli;Amanda Phillips;Dorothy Wong
+ARAH9999 Paul Barolsky;Bruce Boucher;Sarah Betzer;Daniel Bluestone;Cammy Brothers;Sheila Crane;Anastasia Dakouri;John Dobbins;Daniel Ehnbom;Francesca Fiorani;Douglas Fordham;Lawrence Goedde;Carmenita Higginbotham;Yunsheng Huang;Maurie Mc;Louis Nelson;Eric Ramirez;Lisa Reilly;Tyler Smith;Christa Robbins;Elizabeth Turner;Richard Wilson;Dorothy Wong;Shiqiao Li
+ARTH1052 Lawrence Goedde;Elizabeth Doe;Erik Harrington
+ARTH1500 Tyler Smith
+ARTH1505 Carmenita Higginbotham;Eric Hupe;Alicia Caticha
+ARTH2052 Anastasia Dakouri;Sean Tennant;Elizabeth Dwyer
+ARTH2054 John Dobbins;Robert Gorham
+ARTH2252 Paul Barolsky
+ARTH2354 Douglas Fordham
+ARTH2471 Christa Robbins;Justin Greenlee;Jennifer Camp
+ARTH2491 Claire Raymond
+ARTH2961 Amanda Phillips
+ARTH3559 Yoav Peled;Shiqiao Li
+ARTH3591 Elizabeth Turner;Dorothy Wong;Sarah Betzer;Foteini Kondyli
+ARTH3861 Dorothy Wong
+ARTH3993 Dorothy Wong;Anastasia Dakouri;Amanda Phillips;John Dobbins;Elizabeth Turner;Claire Raymond
+ARTH4051 Sarah Betzer;Lucie Stylianopoulos
+ARTH4591 Anastasia Dakouri;Paul Barolsky;Amanda Phillips;Melissa Love;Christa Robbins;Louis Nelson
+ARTH4952 Melissa Love
+ARTH4999 Sarah Betzer;Anastasia Dakouri;Lawrence Goedde;Foteini Kondyli;Douglas Fordham;Eric Ramirez;Tyler Smith;Carmenita Higginbotham;John Dobbins;Sheila Crane;Lisa Reilly;Paul Barolsky;Claire Raymond;Elizabeth Turner
+ARTH5559 Cammy Brothers
+ARTS2110 Theophile Mullen
+ARTS2112 Theophile Mullen
+ARTS2220 Dana Ollestad
+ARTS2222 Dana Ollestad
+ARTS2372 Kevin Everson
+ARTS2559 Mark Dion
+ARTS2580 William Bennett
+ARTS2610 Amy Chan;Alyssa Pheobus;Elizabeth Schoyer;Lena Capps;Barbara Bernstein
+ARTS2620 Amy Chan
+ARTS2670 Akemi Rollando
+ARTS2672 Akemi Rollando
+ARTS2710 Megan Marlatt
+ARTS2712 Philip Geiger
+ARTS2810 William Bennett
+ARTS2812 William Bennett
+ARTS3112 William Wylie
+ARTS3222 Dana Ollestad
+ARTS3372 Kevin Everson
+ARTS3672 Dean Dass
+ARTS3712 Philip Geiger
+ARTS3812 William Bennett
+ARTS4112 William Wylie
+ARTS4222 Dana Ollestad
+ARTS4372 Kevin Everson
+ARTS4452 Dean Dass
+ARTS4672 Dean Dass
+ARTS4712 Megan Marlatt
+ARTS4812 William Bennett
+ARTS4900 Lydia Moyer;Akemi Rollando;William Bennett;Kevin Everson;Dean Dass;Megan Marlatt;William Wylie;Philip Geiger
+ARTS5900 William Bennett;Mark Dion
+ARAB1020 Dima Hanna;Bilal Maanaki;Abir Abyad
+ARAB2020 Suad Mohamed
+ARAB3019 Suad Mohamed
+ARAB3020 Bilal Maanaki
+ARAB3559 Nizar Hermes
+ARAB3672 Mohammed Sawaie
+ARAB4020 Mohammed Sawaie
+ARAB4993 Bilal Maanaki
+ARAB5020 Bilal Maanaki
+ARAB5420 Mohammed Sawaie
+ARAB5559 Nizar Hermes
+ARAB5850 Suad Mohamed
+ARAB6672 Mohammed Sawaie
+ARAB8993 Mohammed Sawaie
+ARTR3290 Hanadi Al
+ARTR3559 Rami Koujah
+ARTR5290 Hanadi Al
+HEBR1020 Zvi Gilboa
+HEBR1420 Gregory Goering
+HEBR2020 Zvi Gilboa
+HEBR2420 Blaire French
+HEBR3020 Sharon Cop
+HEBR4993 Zvi Gilboa
+HEBR8993 Zvi Gilboa
+HIND1020 Griffith Chaussee
+HIND2020 Ashok Rajput
+HIND2060 Ashok Rajput
+HIND3019 Ashok Rajput
+HIND3020 Ashok Rajput
+HIND4993 Ashok Rajput
+HIND5020 Ashok Rajput
+MESA2559 Lisa Goff
+MESA2700 William Harrop
+MESA3559 Shankar Nair
+MESA4559 Lisa Goff
+MESA4993 Ashok Rajput
+MESA4999 Hanadi Al
+MESA5559 Shankar Nair
+MESA8993 Shawn Lyons
+MESA8995 Hanadi Al
+MEST3559 Zvi Gilboa;Sahar Allamezade
+MEST4991 Nizar Hermes
+PERS1020 Mahshad Mohit
+PERS1060 Mahshad Mohit
+PERS2020 Mahshad Mohit
+PERS3020 Farzaneh Milani
+PERS4993 Farzaneh Milani;Mahshad Mohit
+SANS2020 James Pierce
+SANS3026 James Pierce
+SANS6020 James Pierce
+SANS6026 James Pierce
+SAST2559 Murad Khan
+SAST3559 Katarina Turpeinen
+SAST4993 Geeta Patel
+URDU2020 Griffith Chaussee
+URDU3020 Griffith Chaussee
+URDU5020 Griffith Chaussee
+ASTR1210 Trinh Thuan;Remy Indebetouw
+ASTR1220 William Saslaw;Shane Davis
+ASTR1260 Roger Chevalier
+ASTR1270 Kelsey Johnson
+ASTR1280 Edward Murphy
+ASTR1610 Paul Seidelmann
+ASTR2120 Craig Sarazin;Dominic Pesce
+ASTR3130 Michael Skrutskie
+ASTR3420 Robin Garrod
+ASTR3460 William Saslaw
+ASTR3480 John Hawley
+ASTR3880 Alan Howard
+ASTR4140 Nitya Kallivayalil
+ASTR4993 Michael Skrutskie;Shane Davis;Aaron Evans;Robin Garrod;Kelsey Johnson;Nitya Kallivayalil;Steven Majewski;Scott Ransom;Craig Sarazin;Paul Seidelmann;Anne Skrutskie;Anthony Remijan
+ASTR4998 Philip Arras;James Braatz;Shane Davis;Kelsey Johnson;Nitya Kallivayalil;Steven Majewski;Scott Ransom;Anthony Remijan;Craig Sarazin;Anne Skrutskie;Michael Skrutskie;Edward Murphy;Paul Seidelmann;Robert Johnson
+ASTR5610 Steven Majewski
+ASTR6210 Trinh Thuan
+ASTR6220 Shane Davis
+ASTR9995 Philip Arras;Crystal Brogan;Aaron Evans;Kelsey Johnson;Steven Majewski;Scott Ransom;Nitya Kallivayalil
+ASTR9999 Philip Arras;Roger Chevalier;Aaron Evans;Remy Indebetouw;Kelsey Johnson;Steven Majewski;Scott Ransom;Craig Sarazin;William Saslaw;Michael Skrutskie;Mark Lacy;Brian Mason;James Braatz;Anthony Remijan;Robert Johnson;Dana Balser
+MUBD2601 Andrew Koch
+MUEN2600 Andrew Koch
+MUEN2690 Michelle Kisliuk
+MUEN3610 Kate Arnold;Peter Spaar;Ayn Balija;Daniel Sender;David Sariti;Adam Carter;Elizabeth Roberts;Shawn Earle;Kelly Sulick;Aaron Hill;Christopher Buchanan;Nathaniel Lee
+MUEN3620 William Pease
+MUEN3630 Elizabeth Roberts;Mary Ambrose;Kelly Sulick;Aaron Hill;Shawn Earle;Christopher Buchanan;Peter Spaar;Michael Rosensky;Jeffrey Decker;John Mayhood;Daniel Sender;David Sariti;Ayn Balija;Adam Carter;Nathaniel Lee
+MUEN3640 Joel Rubin
+MUEN3645 Elizabeth Flood
+MUEN3650 Michael Slon
+MUEN3651 Michael Slon
+MUEN3670 David Sariti
+MUEN3690 Michelle Kisliuk
+MUEN4690 Michelle Kisliuk
+MUPF1150 Andrew Koch
+MUPF2110 Randall Ball;Pamela Beasley;Margaret Park;Brenda Patterson;Christian Owens
+MUPF2111 Randall Ball;Pamela Beasley;Margaret Park;Brenda Patterson;Christian Owens
+MUPF2120 Kelly Gross;John Mayhood;Barbara Moore;Mimi Tung;Clarence Taylor
+MUPF2121 Kelly Gross;John Mayhood;Barbara Moore;Mimi Tung;Clarence Taylor
+MUPF2130 Barbara Moore
+MUPF2131 Barbara Moore
+MUPF2140 Ayn Balija;Adam Carter;David Sariti;Daniel Sender;Peter Spaar
+MUPF2141 Ayn Balija;Adam Carter;David Sariti;Daniel Sender;Peter Spaar
+MUPF2150 Jeffrey Decker;Aaron Hill;Shawn Earle;Elizabeth Roberts;Kelly Sulick
+MUPF2151 Jeffrey Decker;Aaron Hill;Shawn Earle;Elizabeth Roberts;Kelly Sulick
+MUPF2160 Nathaniel Lee;Christopher Buchanan;Mary Ambrose
+MUPF2161 Nathaniel Lee;Christopher Buchanan;Mary Ambrose
+MUPF2170 Robert Jospe
+MUPF2171 Robert Jospe
+MUPF2180 Anastasia Jellison;Michael Rosensky
+MUPF2181 Anastasia Jellison;Michael Rosensky;Gregory Howard
+MUPF3110 Randall Ball;Pamela Beasley;Margaret Park;Brenda Patterson;Christian Owens
+MUPF3120 Kelly Gross;John Mayhood;Barbara Moore;Mimi Tung;Clarence Taylor
+MUPF3140 Ayn Balija;Adam Carter;David Sariti;Daniel Sender;Peter Spaar
+MUPF3150 Jeffrey Decker;Aaron Hill;Shawn Earle;Elizabeth Roberts;Kelly Sulick
+MUPF3160 Nathaniel Lee;Christopher Buchanan;Mary Ambrose
+MUPF3170 Robert Jospe
+MUPF3180 Anastasia Jellison;Michael Rosensky
+MUPF3190 Adam Larrabee
+MUPF3960 Mimi Tung;Daniel Sender
+MUPF4940 Pamela Beasley;Randall Ball
+MUSI1010 Tanner Greene
+MUSI1070 Mark Brill
+MUSI1310 Jeffrey Decker;Paul Turowski;Kevin Davis
+MUSI1993 Edward Coffey;Scott Deveaux;Bonnie Gordon;Michelle Kisliuk;Andrew Koch;Fred Maus;William Pease;Michael Puri;Joel Rubin;Judith Shatin;Michael Slon;Kate Arnold;Richard Will;Christopher Burtner;Nomi Dave;Karl Miller;Luke Dahl;Noel Lobley;Peter Bussigel
+MUSI2070 Karl Miller;Kyle Chattleton;Victoria Clark;Justin Mueller
+MUSI2120 Scott Deveaux;Aldona Dye;Maxwell Tfirn;Stephanie Gunst
+MUSI2302 Craig Comen
+MUSI2304 John Mayhood
+MUSI2306 Michael Rosensky
+MUSI2340 Robert Jospe
+MUSI2342 Robert Jospe
+MUSI2370 Edward Coffey;Ryan Maguire
+MUSI2700 Nomi Dave;Jarek Ervin
+MUSI2993 Edward Coffey;Scott Deveaux;Bonnie Gordon;Michelle Kisliuk;Andrew Koch;Fred Maus;William Pease;Michael Puri;Joel Rubin;Judith Shatin;Michael Slon;Kate Arnold;Richard Will;Christopher Burtner;Nomi Dave;Karl Miller;Luke Dahl;Noel Lobley;Peter Bussigel
+MUSI3030 Michael Puri
+MUSI3040 Victor Szabo
+MUSI3050 Karl Miller;Fred Maus
+MUSI3090 Michelle Kisliuk
+MUSI3310 Aaron Stepp;Steven Lewis
+MUSI3320 Fred Maus
+MUSI3332 Adam Carter
+MUSI3334 Kristina Warren
+MUSI3336 Christopher Luna
+MUSI3380 Judith Shatin
+MUSI3400 Christopher Burtner
+MUSI3559 Peter Bussigel;Victor Szabo
+MUSI3993 Edward Coffey;Scott Deveaux;Bonnie Gordon;Michelle Kisliuk;Andrew Koch;Fred Maus;William Pease;Michael Puri;Joel Rubin;Judith Shatin;Michael Slon;Kate Arnold;Richard Will;Christopher Burtner;Nomi Dave;Karl Miller;Luke Dahl;Noel Lobley;Peter Bussigel
+MUSI4510 Joel Rubin
+MUSI4520 Bonnie Gordon
+MUSI4525 Noel Lobley
+MUSI4535 Peter Bussigel
+MUSI4543 Edward Coffey;Eli Stine
+MUSI4545 Luke Dahl
+MUSI4559 Peter Bussigel
+MUSI4720 Kate Arnold
+MUSI4760 Michael Slon
+MUSI4993 Edward Coffey;Scott Deveaux;Bonnie Gordon;Michelle Kisliuk;Andrew Koch;Fred Maus;William Pease;Michael Puri;Joel Rubin;Judith Shatin;Michael Slon;Kate Arnold;Richard Will;Noel Lobley;Christopher Burtner;Nomi Dave;Karl Miller;Luke Dahl
+MUSI7519 Bonnie Gordon
+MUSI7525 Noel Lobley
+MUSI7526 Nomi Dave
+MUSI7540 Luke Dahl
+MUSI7559 Peter Bussigel
+MUSI7582 Judith Shatin;Christopher Burtner;Edward Coffey
+MUSI7583 Judith Shatin
+MUSI8820 Edward Coffey;Judith Shatin;Christopher Burtner
+MUSI8840 Christopher Burtner;Edward Coffey;Judith Shatin
+MUSI8910 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Karl Miller;Luke Dahl;Noel Lobley;Peter Bussigel
+MUSI8920 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Karl Miller;Luke Dahl;Noel Lobley;Peter Bussigel
+MUSI8960 Edward Coffey;Scott Deveaux;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Nomi Dave;Richard Will;Christopher Burtner;Karl Miller;Luke Dahl;Noel Lobley
+MUSI8993 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Karl Miller;Luke Dahl;William Pease;Noel Lobley
+MUSI8998 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Karl Miller
+MUSI8999 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Karl Miller;Luke Dahl;Noel Lobley
+MUSI9010 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will
+MUSI9910 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Karl Miller;Luke Dahl;Noel Lobley
+MUSI9920 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Karl Miller;Luke Dahl;Noel Lobley
+MUSI9940 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Bonnie Gordon;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Karl Miller;Luke Dahl;Noel Lobley
+MUSI9998 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Bonnie Gordon;Joel Rubin;Karl Miller;Luke Dahl;Noel Lobley
+MUSI9999 Christopher Burtner;Edward Coffey;Scott Deveaux;Nomi Dave;Michelle Kisliuk;Fred Maus;Michael Puri;Judith Shatin;Richard Will;Bonnie Gordon;Luke Dahl;Noel Lobley;Karl Miller
+BIOL1040 Douglas Taylor
+BIOL1060 Selina Noramly
+BIOL1080 Deforest Mellon
+BIOL2040 Colleen Ingram;Jessica Cooper;Akinleye Olajide;Keith Kozminski;Bridget Cullinane
+BIOL2200 Matthew Volny;Bridget Cullinane;Colleen Ingram;Jessica Cooper;Keith Kozminski;Akinleye Olajide
+BIOL3010 Claire Cronmiller;Adam Huckaby
+BIOL3020 Edmund Brodie
+BIOL3040 Sarah Kucenas
+BIOL3120 Martin Wu
+BIOL3150 David Kittlesen
+BIOL3180 Michael Timko
+BIOL3240 David Kittlesen
+BIOL3250 Masashi Kawasaki
+BIOL3420 Mark Kopeny;Laurence Frabotta;John Leonard
+BIOL3559 Jessica Connelly
+BIOL4005 Only Professor
+BIOL4040 George Bloom;Eric Swanson
+BIOL4230 William Pearson
+BIOL4250 Claire Cronmiller
+BIOL4280 Jay Hirsh
+BIOL4310 Ignacio Provencio
+BIOL4320 Christopher Deppmann
+BIOL4365 Ali Guler
+BIOL4390 David Kittlesen
+BIOL4460 Herman Shugart
+BIOL4660 Ali Guler
+BIOL4770 Keith Kozminski
+BIOL4820 Jay Hirsh
+BIOL4900 Paul Adler;Janis Antonovics;George Bloom;Edmund Brodie;Barry Condron;Claire Cronmiller;Christopher Deppmann;Fred Diehl;Laura Galloway;Robert Grainger;Jay Hirsh;Masashi Kawasaki;Raymond Keller;Mark Kopeny;Keith Kozminski;Robert Kretsinger;Sarah Kucenas;Deforest Mellon;Michael Menaker;Ignacio Provencio;Deborah Roach;Dorothy Schafer;Douglas Taylor;Michael Timko;Martin Wu
+BIOL4910 Jay Hirsh
+BIOL4920 Jay Hirsh
+BIOL7230 William Pearson
+BIOL7280 Jay Hirsh
+BIOL7310 Ignacio Provencio
+BIOL7320 Christopher Deppmann
+BIOL7993 Paul Adler;Janis Antonovics;George Bloom;Edmund Brodie;Barry Condron;Robert Cox;Claire Cronmiller;Christopher Deppmann;Laura Galloway;Robert Grainger;Masashi Kawasaki;Raymond Keller;Mark Kopeny;Keith Kozminski;Robert Kretsinger;Sarah Kucenas;Deforest Mellon;Michael Menaker;Ignacio Provencio;Deborah Roach;Dorothy Schafer;Douglas Taylor;Michael Timko;Martin Wu
+BIOL8070 Douglas Taylor
+BIOL8250 Robert Cox
+BIOL8870 Paul Adler
+BIOL8999 Paul Adler;Janis Antonovics;George Bloom;Edmund Brodie;Barry Condron;Robert Cox;Claire Cronmiller;Christopher Deppmann;Laura Galloway;Roberto Gomez;Robert Grainger;Jay Hirsh;Masashi Kawasaki;Raymond Keller;Mark Kopeny;Keith Kozminski;Robert Kretsinger;Sarah Kucenas;Deforest Mellon;Michael Menaker;Ignacio Provencio;Deborah Roach;Dorothy Schafer;Douglas Taylor;Martin Wu
+BIOL9920 Barry Condron
+BIOL9995 Paul Adler;Janis Antonovics;George Bloom;Edmund Brodie;Barry Condron;Robert Cox;Claire Cronmiller;Christopher Deppmann;Laura Galloway;Roberto Gomez;Robert Grainger;Jay Hirsh;Masashi Kawasaki;Raymond Keller;Mark Kopeny;Keith Kozminski;Robert Kretsinger;Sarah Kucenas;Deforest Mellon;Michael Menaker;Ignacio Provencio;Deborah Roach;Dorothy Schafer;Douglas Taylor;Michael Timko;Martin Wu
+BIOL9998 Paul Adler;Janis Antonovics;George Bloom;Edmund Brodie;Barry Condron;Robert Cox;Claire Cronmiller;Christopher Deppmann;Laura Galloway;Robert Grainger;Jay Hirsh;Masashi Kawasaki;Raymond Keller;Mark Kopeny;Keith Kozminski;Robert Kretsinger;Sarah Kucenas;Deforest Mellon;Michael Menaker;Ignacio Provencio;Deborah Roach;Dorothy Schafer;Douglas Taylor;Michael Timko;Martin Wu
+BIOL9999 Paul Adler;Janis Antonovics;George Bloom;Edmund Brodie;Barry Condron;Robert Cox;Claire Cronmiller;Christopher Deppmann;Laura Galloway;Roberto Gomez;Robert Grainger;Jay Hirsh;Masashi Kawasaki;Raymond Keller;Mark Kopeny;Keith Kozminski;Sarah Kucenas;Manuel Lerdau;Deforest Mellon;Michael Menaker;Ignacio Provencio;Deborah Roach;Dorothy Schafer;Douglas Taylor;Michael Timko;Martin Wu;Sarah Siegrist;Ali Guler;Jennifer Guler;Cristian Danna;Alan Bergland
+HBIO4820 Michael Timko
+HBIO4960 Michael Timko
+HBIO4999 Michael Timko
+PHIL1000 Ross Cameron;Peter Tan;James Darcy
+PHIL1410 Corin Fox
+PHIL1730 Loren Lomasky;Andrew Morgan;Andrew Garland;Matthew Andler
+PHIL1740 Rebecca Stangl;Jonathan Barker;Kirra Hyde;Nazim Adakli
+PHIL2060 Alan Simmons;Yan Nok;Willie Brannock;Anthony Boese;Aaron Gray
+PHIL2120 Antonia Lolordo;John Mahlan
+PHIL2420 Ross Cameron;Nicholas Rimell;Andrei Marasoiu;Adam Tiller
+PHIL2450 Paul Humphreys
+PHIL2510 Erin Eaker
+PHIL3120 Daniel Devereux
+PHIL3170 Walter Ott
+PHIL3310 Elizabeth Barnes
+PHIL3330 Brie Gertler
+PHIL3500 Joshua Schwartz
+PHIL3650 Paul Nedelisky
+PHIL3651 Jordan Thomson
+PHIL3710 Talbot Brewer
+PHIL3780 James Mumford
+PHIL3999 Loren Lomasky
+PHIL4020 William Hasselberger
+PHIL4500 Jorge Secada
+PHIL4990 Daniel Devereux
+PHIL4993 Rebecca Stangl
+PHIL4995 Ross Cameron;Antonia Lolordo
+PHIL4999 Rebecca Stangl;Harold Langsam;Alan Simmons;Trenton Merricks;Antonia Lolordo
+PHIL7501 Elizabeth Barnes
+PHIL7530 Walter Ott
+PHIL7540 Elizabeth Barnes
+PHIL7575 Paul Humphreys
+PHIL7770 Alan Simmons
+PHIL7995 Antonia Lolordo
+PHIL8530 Jorge Secada
+PHIL8540 Rebecca Stangl
+PHIL9998 Antonia Lolordo
+PHIL9999 Antonia Lolordo;Loren Lomasky;Trenton Merricks;Paul Humphreys;Alan Simmons;Daniel Devereux;Talbot Brewer;Ross Cameron;Rebecca Stangl;Walter Ott;Harold Langsam;Elizabeth Barnes;Brie Gertler;Jorge Secada
+CHEM1400 Lindsay Wheeler
+CHEM1420 Hoitung Leung
+CHEM1421 Jan Dean
+CHEM1620 David Metcalf
+CHEM1621 Jan Dean
+CHEM1820 Laura Serbulea
+CHEM1821 Laura Serbulea
+CHEM2321 Hoitung Leung
+CHEM2350 Richard Sundberg
+CHEM2420 Glenn Mc;Cassandra Fraser;Laura Serbulea
+CHEM2421 Donald Hunt
+CHEM2620 Michael Hilinski
+CHEM2621 Timothy Macdonald
+CHEM2820 Kateri Du
+CHEM3420 David Metcalf
+CHEM3721 Barbara Venton
+CHEM3821 Brooks Pate
+CHEM3920 James Demas
+CHEM3951 Linda Columbus;James Landers
+CHEM3961 Linda Columbus
+CHEM4420 James Landers
+CHEM4421 Linda Columbus
+CHEM4951 Linda Columbus
+CHEM4961 Linda Columbus
+CHEM5120 Glenn Mc
+CHEM5250 Eric Herbst
+CHEM5320 Lin Pu
+CHEM5380 Michal Sabat
+CHEM5420 Cameron Mura
+CHEM5430 Andreas Gahlmann
+CHEM5731 James Demas
+CHEM7020 Kevin Lehmann
+CHEM9110 Walter Harman
+CHEM9150 James Demas
+CHEM9160 Michael Hilinski
+CHEM9170 Eric Herbst
+CHEM9180 Robin Garrod
+CHEM9210 Brooks Pate
+CHEM9220 Kateri Du
+CHEM9230 Donald Hunt
+CHEM9310 Timothy Macdonald
+CHEM9330 Glenn Mc
+CHEM9410 David Cafiso
+CHEM9420 John Bushweller
+CHEM9440 Charles Grisham
+CHEM9460 Cassandra Fraser
+CHEM9610 Lin Pu
+CHEM9630 James Landers
+CHEM9650 Sergei Egorov
+CHEM9720 Rebecca Pompano
+CHEM9740 Andreas Gahlmann
+CHEM9750 Barbara Venton
+CHEM9790 Kevin Lehmann
+CHEM9820 Linda Columbus
+CHEM9850 Thomas Gunnoe
+CHEM9880 Cameron Mura
+CHEM9999 David Cafiso;Linda Columbus;James Demas;Kateri Du;Sergei Egorov;Cassandra Fraser;Andreas Gahlmann;Robin Garrod;Charles Grisham;Thomas Gunnoe;Walter Harman;Eric Herbst;Michael Hilinski;Donald Hunt;James Landers;Kevin Lehmann;Timothy Macdonald;Glenn Mc;Cameron Mura;Brooks Pate;Rebecca Pompano;Lin Pu;Barbara Venton
+PHYS1020 Robert Group
+PHYS1060 Matthew Shields
+PHYS1110 Gordon Cates
+PHYS1425 Harry Thacker
+PHYS1429 Maxim Bychkov;Kyun Woo;Jing Luo;Adam Zec;Chun Hung
+PHYS1720 Stefan Baessler
+PHYS2020 Robert Hirosky;Nilanga Liyanage
+PHYS2040 Jongsoo Yoon;John Matter
+PHYS2415 Blaine Norum;Stephen Thornton
+PHYS2419 Maxim Bychkov
+PHYS2620 Peter Arnold
+PHYS2640 Richard Marshall;Dat Duong;Aaron Wegner
+PHYS2660 Christopher Neu
+PHYS3040 Jongsoo Yoon
+PHYS3120 Bellave Shivaram
+PHYS3180 Bellave Shivaram
+PHYS3250 Xiaochao Zheng
+PHYS3420 Chi Yan
+PHYS3660 Kent Paschke
+PHYS3993 Peter Arnold;Stefan Baessler;Louis Bloomfield;Gordon Cates;Bradley Cox;Donald Crabb;Utpal Chatterjee;Donal Day;Michael Fowler;Thomas Gallagher;Robert Group;Robert Hirosky;Pham Hung;Robert Jones;Israel Klich;Eugene Kolomeisky;Kevin Lehmann;Simonetta Liuti;Nilanga Liyanage;Despo Louca;Richard Marshall;Christopher Neu;Blaine Norum;Kent Paschke;Olivier Pfister;Dinko Pocanic;Joseph Poon;Charles Sackett;Bellave Shivaram;Harry Thacker;Stephen Thornton;Diana Vaman;Mark Williams;Stuart Wolf;Jongsoo Yoon;Xiaochao Zheng;Chi Yan;Krishni Wijesooriya;Marija Vucelja
+PHYS3995 Peter Arnold;Stefan Baessler;Louis Bloomfield;Gordon Cates;Bradley Cox;Donald Crabb;Utpal Chatterjee;Donal Day;Michael Fowler;Thomas Gallagher;Robert Group;Robert Hirosky;Pham Hung;Robert Jones;Israel Klich;Eugene Kolomeisky;Kevin Lehmann;Simonetta Liuti;Nilanga Liyanage;Despo Louca;Richard Marshall;Christopher Neu;Blaine Norum;Kent Paschke;Olivier Pfister;Dinko Pocanic;Joseph Poon;Charles Sackett;Bellave Shivaram;Harry Thacker;Stephen Thornton;Diana Vaman;Mark Williams;Jongsoo Yoon;Xiaochao Zheng;Chi Yan;Krishni Wijesooriya;Marija Vucelja
+PHYS5240 Pham Hung
+PHYS5320 Charles Sackett
+PHYS6060 Richard Lindgren
+PHYS6253 Richard Lindgren
+PHYS6310 Stephen Thornton
+PHYS6410 Stephen Thornton
+PHYS7210 Israel Klich
+PHYS7420 Michael Fowler
+PHYS7620 Eugene Kolomeisky
+PHYS7995 Peter Arnold;Stefan Baessler;Louis Bloomfield;Gordon Cates;Bradley Cox;Donald Crabb;Utpal Chatterjee;Donal Day;Michael Fowler;Thomas Gallagher;Robert Group;Robert Hirosky;Pham Hung;Robert Jones;Israel Klich;Eugene Kolomeisky;Kevin Lehmann;Simonetta Liuti;Nilanga Liyanage;Despo Louca;Richard Marshall;Christopher Neu;Blaine Norum;Kent Paschke;Olivier Pfister;Dinko Pocanic;Joseph Poon;Charles Sackett;Bellave Shivaram;Harry Thacker;Stephen Thornton;Diana Vaman;Mark Williams;Jongsoo Yoon;Xiaochao Zheng;Chi Yan;Marija Vucelja
+PHYS8220 Charles Sackett
+PHYS8610 Utpal Chatterjee
+PHYS8750 Bradley Cox
+PHYS8880 Olivier Pfister
+PHYS8999 Peter Arnold;Stefan Baessler;Louis Bloomfield;Gordon Cates;Bradley Cox;Donald Crabb;Utpal Chatterjee;Donal Day;Michael Fowler;Thomas Gallagher;Robert Group;Robert Hirosky;Pham Hung;Robert Jones;Israel Klich;Eugene Kolomeisky;Kevin Lehmann;Simonetta Liuti;Nilanga Liyanage;Despo Louca;Christopher Neu;Blaine Norum;Kent Paschke;Olivier Pfister;Dinko Pocanic;Joseph Poon;Charles Sackett;Bellave Shivaram;Harry Thacker;Stephen Thornton;Diana Vaman;Robert Weikle;Mark Williams;Jongsoo Yoon;Xiaochao Zheng;Leonid Zhigilei;Chi Yan;Marija Vucelja
+PHYS9020 Kent Paschke
+PHYS9998 Stefan Baessler;Louis Bloomfield;Gordon Cates;Bradley Cox;Donald Crabb;Utpal Chatterjee;Donal Day;Michael Fowler;Thomas Gallagher;Robert Group;Peter Arnold;Robert Hirosky;Pham Hung;Robert Jones;Israel Klich;Eugene Kolomeisky;Kevin Lehmann;Simonetta Liuti;Nilanga Liyanage;Despo Louca;Christopher Neu;Blaine Norum;Kent Paschke;Olivier Pfister;Dinko Pocanic;Joseph Poon;Charles Sackett;Bellave Shivaram;Harry Thacker;Stephen Thornton;Diana Vaman;Robert Weikle;Mark Williams;Jongsoo Yoon;Xiaochao Zheng;Leonid Zhigilei;Bijoy Kundu;Chi Yan;Marija Vucelja
+PHYS9999 Peter Arnold;Stefan Baessler;Louis Bloomfield;Gordon Cates;Bradley Cox;Donald Crabb;Utpal Chatterjee;Donal Day;Michael Fowler;Thomas Gallagher;Robert Group;Robert Hirosky;Pham Hung;Robert Jones;Israel Klich;Eugene Kolomeisky;Kevin Lehmann;Simonetta Liuti;Nilanga Liyanage;Despo Louca;Christopher Neu;Blaine Norum;Kent Paschke;Olivier Pfister;Dinko Pocanic;Joseph Poon;Charles Sackett;Bellave Shivaram;Harry Thacker;Stephen Thornton;Diana Vaman;Robert Weikle;Mark Williams;Jongsoo Yoon;Xiaochao Zheng;Leonid Zhigilei;Raul Baragiola;Bijoy Kundu;Chi Yan;Marija Vucelja;Stuart Wolf
+CLAS2020 Karen Myers;Peter Moench;Sarah Teets
+CLAS2040 Bradford Hays;Evan Waters;Megan Bowen;Timothy Brannelly
+CLAS3100 Courtney Evans
+CLAS4993 Jane Crawford
+GREE1020 Jon Mikalson;Nicholas Rich;Adam Gross
+GREE2020 Paul Kovacs
+GREE2240 John Dillery
+GREE3040 Paul Kovacs
+GREE4993 Jenny Clay
+GREE4999 Bradford Hays
+GREE5180 John Dillery
+GREE5559 Coulter George
+GREE8998 Coulter George
+GREE9998 Coulter George
+GREE9999 Jon Mikalson;Jenny Clay;John Dillery
+LATI1020 Jane Crawford;Rebecca Frank;Brett Evans;Kevin Scahill
+LATI2010 Jennifer Lafleur;Hilary Bouxsein
+LATI2020 Matthew Pincus;Joseph Zehner;Mary Gilbert
+LATI3090 Bradford Hays
+LATI3160 Coulter George
+LATI4010 Anthony Woodman
+LATI4999 Bradford Hays
+LATI5110 Anthony Woodman
+LATI5559 Jane Crawford;Anthony Woodman
+LATI5993 Anthony Woodman
+LATI8998 Coulter George
+LATI9998 Coulter George
+LATI9999 Bradford Hays;Jenny Clay;Anthony Woodman;Jane Crawford;Karen Myers;John Miller
+PLAD2222 Lynn Sanders
+PLAD4961 Peter Furia
+PLAD4990 Gerard Alexander
+PLAD7500 Jeffery Jenkins;David Waldner
+PLAD7750 Jeffery Jenkins
+PLAD8310 Jonathan Kropko
+PLAD8500 Jonathan Kropko
+PLAD8750 Jeffery Jenkins
+PLAD8900 Sonal Pandya
+PLAP1010 David Klein;James Todd
+PLAP2250 John York;Shilo Brooks
+PLAP2500 Craig Volden;Nicole Pankiewicz;Stephen Bragaw
+PLAP3140 Paul Freedman;Chelsea Goforth;Alexander Pennington;Nicholas Jacobs;Anthony Sparacino
+PLAP3190 David Klein
+PLAP3310 Sidney Milkis
+PLAP3350 Stephen Bragaw
+PLAP3500 Kenneth Stroupe;Ethan Alexander;Evan Pivonka;Carah Ong
+PLAP3700 Lynn Sanders
+PLAP3810 David Klein
+PLAP4150 Nicholas Winter
+PLAP4180 Paul Freedman
+PLAP4450 Charles Kromkowski
+PLAP4500 Lucila Figueroa;Vivian Thomson
+PLAP4990 Sidney Milkis
+PLAP4999 Gerard Alexander
+PLAP5993 Sidney Milkis;Kenneth Stroupe;Jeffery Jenkins
+PLAP6500 Eric Patashnik
+PLAP7010 Jeffery Jenkins
+PLAP8998 Jeffery Jenkins
+PLAP8999 Jeffery Jenkins
+PLAP9998 Jeffery Jenkins
+PLAP9999 Jeffery Jenkins
+PLCP1500 Herman Schwartz;Veronica Vos;Jeremiah Rozman
+PLCP3110 Gerard Alexander;Carolyn Coberly;Geoffrey Gordon
+PLCP3120 Herman Schwartz
+PLCP3210 Allen Lynch
+PLCP3500 Alan Dugger;Emily Blout;Daniel Gingerich;Elizabeth Kaknes
+PLCP4060 Deborah Boucoyannis
+PLCP4200 Carol Mershon
+PLCP4201 Carol Mershon
+PLCP4500 Deborah Boucoyannis;Robert Fatton
+PLCP4652 John Echeverri
+PLCP4810 Robert Fatton
+PLCP4999 Gerard Alexander
+PLCP5993 Carol Mershon;Jonah Schulhofer;John Echeverri
+PLCP7500 Denise Walsh;Philip Potter
+PLCP8500 David Waldner
+PLCP8998 Jeffery Jenkins
+PLCP8999 Jeffery Jenkins
+PLCP9998 Jeffery Jenkins
+PLCP9999 Jeffery Jenkins
+PLIR1010 Spencer Bakich
+PLIR3310 Michael Smith;Carl Huang;Jennifer Simons;Abigail Post
+PLIR3500 Gerard White;Erwan Lagadec;Philip Potter;Paromita Sen;Aycan Katitas;Yu Jin
+PLIR3610 Karl Pfefferkorn
+PLIR4150 Dale Copeland
+PLIR4410 Sonal Pandya
+PLIR4500 Allen Lynch;Erwan Lagadec
+PLIR4990 Todd Sechser
+PLIR4999 Gerard Alexander
+PLIR5710 Brantly Womack
+PLIR5810 Brantly Womack
+PLIR5993 David Leblang;Allen Lynch;Philip Potter
+PLIR7500 Philip Potter
+PLIR8639 Dale Copeland
+PLIR8998 Jeffery Jenkins
+PLIR8999 Jeffery Jenkins
+PLIR9998 Jeffery Jenkins
+PLIR9999 Jeffery Jenkins
+PLPT1010 Colin Bird;Brittany Leach;Harrison Frye;Ross Mittiga;Alexander Welch
+PLPT2500 Colin Kielty
+PLPT3020 Stephen White;Jingcai Ying;Andrew Gates
+PLPT3030 Murad Idris;Daniel Henry
+PLPT3500 Jordan Thomson
+PLPT4031 George Klosko
+PLPT4050 Colin Bird
+PLPT4070 George Klosko
+PLPT4200 Katharine Balfour
+PLPT4305 James Savage
+PLPT4500 Murad Idris
+PLPT4999 Gerard Alexander
+PLPT5010 Stephen White
+PLPT5993 Colin Bird
+PLPT7220 James Savage
+PLPT8998 Jeffery Jenkins
+PLPT8999 Jeffery Jenkins
+PLPT9998 Jeffery Jenkins
+PLPT9999 Jeffery Jenkins
+DANC2210 Dinah Gray
+DANC2430 Kimberly Mata
+DANC3220 Dinah Gray
+DANC3300 Kimberly Mata
+DANC3400 Kathryn Schetlick
+DANC3590 Kimberly Mata
+DANC3620 Kimberly Mata
+DANC3650 Kathryn Schetlick
+DANC4993 Kimberly Mata
+DRAM1010 Cady Garey
+DRAM1020 Colleen Kelly
+DRAM1210 Hilary Landowski
+DRAM2010 Gweneth West
+DRAM2020 Carolyn Demanelis;Colleen Kelly;Alexandra Deglise
+DRAM2080 Lavahn Hoh
+DRAM2130 Steven Spera;Matthew Ishee;Fabian Garcia
+DRAM2210 Christopher Rybitski
+DRAM2230 Steven Bidleras
+DRAM2232 Rachel Rauscher
+DRAM2250 Rachel Rauscher
+DRAM2310 Marcy Linton
+DRAM2330 Haley Tynes;Kaitlin Sikes
+DRAM2430 Leonard Grissom;Theresa Davis
+DRAM2620 Michael Rasbury
+DRAM2630 Michael Rasbury
+DRAM2810 Walter Korte
+DRAM3080 Leonard Grissom
+DRAM3210 Thomas Bloom
+DRAM3410 David Dalton
+DRAM3430 Colleen Kelly
+DRAM3450 Robert Chapel
+DRAM3559 Mona Kasra
+DRAM3600 Denise Stewart
+DRAM3651 David Dalton
+DRAM3652 Holly Mc
+DRAM3653 Holly Mc
+DRAM3720 Leonard Grissom
+DRAM3840 Walter Korte
+DRAM4030 Charlotte Black
+DRAM4110 Richard Kennedy
+DRAM4310 Gweneth West
+DRAM4410 Richard Warner
+DRAM4490 Marianne Kubik
+DRAM4590 Theresa Davis
+DRAM4591 Jody Kielbasa
+DRAM4592 Theresa Davis
+DRAM4593 Richard Warner;Theresa Davis;Leonard Grissom
+DRAM4594 David Dalton
+DRAM4595 Mary Burke
+DRAM4597 Richard Kennedy
+DRAM4598 Richard Kennedy;Steven Warner
+DRAM4730 Leonard Grissom
+DRAM4910 Robert Chapel
+DRAM4993 Leonard Grissom;Michael Rasbury;Marcy Linton;Mona Kasra;Theresa Davis;Cady Garey;David Dalton
+DRAM5710 Leonard Grissom
+DRAM7070 Leonard Grissom
+DRAM7480 Leonard Grissom
+DRAM7620 Michael Rasbury
+DRAM7690 Steven Warner
+DRAM7993 Colleen Kelly;Mona Kasra
+DRAM8100 Charlotte Black
+DRAM8140 Richard Kennedy
+DRAM8190 Richard Kennedy
+DRAM8330 Gweneth West
+DRAM8360 Gweneth West
+DRAM8380 Marcy Linton
+DRAM8390 Marcy Linton;Gweneth West
+DRAM8420 Marianne Kubik
+DRAM8460 Colleen Kelly
+DRAM8993 Richard Warner;Colleen Kelly
+DRAM8998 Colleen Kelly
+DRAM9060 Colleen Kelly
+DRAM9170 Richard Kennedy
+DRAM9240 Thomas Bloom
+DRAM9430 Mary Burke
+DRAM9480 Leonard Grissom
+DRAM9501 Thomas Bloom
+DRAM9998 Lavahn Hoh
+DRAM9999 Thomas Bloom
+PHS3130 Aaron Pannone
+PHS3620 Schaeffer Somers
+PHS3825 Paige Hornsby
+PHS4559 Jessica Zarnegar
+PHS5380 Robert Leonard
+PHS5451 Jason Lyman
+PHS5500 Stephen Rich
+PHS5620 Schaeffer Somers
+PHS5701 Robert Meyer
+PHS5825 Paige Hornsby
+PHS5960 Ruth Bernheim;Rupa Valdez;Robert Meyer;Armando Bolmey;Schaeffer Somers
+PHS7001 Timothy Mc
+PHS7015 Jeanita Richardson
+PHS7020 Kristen Wells
+PHS7090 Tanya Wanchek
+PHS7100 Carolyn Engelhard
+PHS7102 Rajesh Balkrishnan
+PHS7110 Thomas Guterbock
+PHS7120 George Stukenborg
+PHS7146 Thomas Massaro
+PHS7210 Aaron Pannone
+PHS7310 Denise Bonds
+PHS7365 Wendy Novicoff
+PHS7370 Jennifer Lobo
+PHS7380 Robert Leonard
+PHS7410 Aaron Pannone
+PHS7470 Armando Bolmey
+PHS7559 Richard Bonnie
+PHS7610 Jeanita Richardson
+PHS7840 Jean Eby
+PHS8900 Paige Hornsby
+PHS8930 Paige Hornsby
+PHS8950 Paul Targonski
+PHS8960 Ruth Bernheim;Tanya Wanchek;Aaron Pannone;Jeanita Richardson;Jennifer Lobo;Kristen Wells;Wendy Novicoff;Rajesh Balkrishnan;Paige Hornsby;George Stukenborg;Schaeffer Somers;Robert Meyer
+PHS8999 Ruth Bernheim
+PHSE5700 Lois Shepherd
+PHSE5960 Mary Marshall;Donna Chen
+PHSE8960 Mary Marshall;Donna Chen
+CHIN1020 Ran Zhao;Shuishui Long
+CHIN2020 Shuishui Long;Jie Zhu
+CHIN2060 Jie Zhu
+CHIN3020 Shuishui Long;Hsin Liang;Ran Zhao
+CHIN3025 Ran Zhao
+CHIN4020 Hsin Liang
+CHIN4030 Hsin Liang
+CHIN4060 Jie Zhu
+CHIN4993 Charles Laughlin;Jie Zhu;Shuishui Long
+CHIN5200 Charles Laughlin
+CHIN8993 Ran Zhao
+CHTR3020 Charles Laughlin
+CHTR3132 Anne Kinney
+CHTR4559 Mark Metcalf
+CHTR4991 Charles Laughlin
+CHTR5020 Charles Laughlin
+CHTR5132 Anne Kinney
+EALC4999 Michiko Wilson
+EAST3559 Benedetta Lomi
+EAST4991 Benedetta Lomi
+EAST4999 Benedetta Lomi
+EAST5559 Benedetta Lomi
+JAPN1020 Mieko Kawai;Tomomi Sato
+JAPN2020 Tomoko Marshall
+JAPN3020 Tomomi Sato
+JAPN3025 Tomomi Sato
+JAPN4559 Mieko Kawai
+JAPN4710 Gustav Heldt
+JAPN4993 Michiko Wilson
+JPTR3020 Michiko Wilson
+JPTR3100 Gustav Heldt
+JPTR3559 Michiko Wilson
+JPTR3620 Benedetta Lomi
+JPTR4991 Michiko Wilson
+JPTR5020 Michiko Wilson
+JPTR5100 Gustav Heldt
+JPTR5620 Benedetta Lomi
+KOR1020 Yoon Hwa
+KOR2020 Yoon Hwa
+KOR3015 Yoon Hwa
+KOR3020 Yoon Hwa
+KRTR3390 Susie Kim
+KRTR3800 Susie Kim
+KRTR5390 Susie Kim
+KRTR5800 Susie Kim
+TBTN1020 Tsetan Nepali
+TBTN2020 Tsetan Nepali
+TBTN3030 Tenzin Thosam
+TBTN3040 Tenzin Thosam
+TBTN8020 Tsetan Nepali
+TBTN8021 Tsetan Nepali
+TBTN8030 Tenzin Thosam
+TBTN8040 Tenzin Thosam
+TBTN8060 Tenzin Thosam
+TBTN8993 Tenzin Thosam
+PSYC1010 Chad Dodson
+PSYC2100 Cedric Williams
+PSYC2150 Vikram Jaswal
+PSYC2210 Chad Meliza
+PSYC2400 Francis Mc
+PSYC2600 Timothy Wilson;Frederick Smyth
+PSYC2601 Adi Shaked;Brandon Ng;Charles Ebersole;Jane Tucker
+PSYC2700 Amrisha Vaish
+PSYC3005 Frederick Smyth;Sierra Eisen;Lindsay Juarez;Katrina Lancaster;Robert Moulder;Doyle Hazel;Laura Getz
+PSYC3006 Karen Schmidt;Rebecca Weast;Claire La;Steven Scheid;Erin Maresh;Jason Sumontha;Anup Gampa;Meret Hofer;Alexander Schiller;Xin Tong;Erin Westgate;Hyewon Choi;Tammi Walker
+PSYC3410 Robert Emery
+PSYC3425 Timothy Salthouse
+PSYC3435 Daniel Willingham
+PSYC3559 Jessica Connelly;Edward Diener
+PSYC3590 Joseph Allen;Steven Boker;John Bonvillian;Peter Brunjes;Gerald Clore;James Coan;Benjamin Converse;Chad Dodson;Robert Emery;Alev Erisir;David Hill;Vikram Jaswal;Michael Kubovy;Angeline Lillard;Patricia Llewellyn;James Morris;Brian Nosek;Shigehiro Oishi;Charlotte Patterson;Robert Pianta;Dennis Proffitt;Nicholas Reppucci;Timothy Salthouse;Karen Schmidt;Bethany Teachman;Sophie Trawalter;Eric Turkheimer;Timo Von;Cedric Williams;Daniel Willingham;Melvin Wilson;Timothy Wilson;Beverly Adams;Noelle Hurd;Jessica Connelly;Tobias Grossmann;Xin Tong;Amrisha Vaish;Frederick Smyth;Chad Meliza;Edward Diener
+PSYC3870 Gerald Clore
+PSYC3970 Timothy Wilson
+PSYC4110 Filip Loncke
+PSYC4112 Shilpa Hanumantha
+PSYC4120 Beverly Adams
+PSYC4290 Chad Dodson
+PSYC4315 Michael Kubovy
+PSYC4559 Bernadette Blanchfield;Emily Loeb;Haoyi Xiong
+PSYC4580 William Levy
+PSYC4606 Bethany Teachman
+PSYC4755 James Morris
+PSYC4920 Karen Farber
+PSYC4940 Karen Farber
+PSYC4980 Gerald Clore
+PSYC5160 Gerald Clore
+PSYC5326 James Coan
+PSYC5410 Nicholas Reppucci
+PSYC5559 Tobias Grossmann;Angeline Lillard;James Morris
+PSYC5703 Shigehiro Oishi
+PSYC5720 Karen Schmidt
+PSYC7440 Allison Anderson
+PSYC7450 Joseph Allen;Marlen Gonzalez
+PSYC7475 Melvin Wilson
+PSYC7501 Michael Kubovy
+PSYC7502 Peter Brunjes
+PSYC7503 Nicholas Reppucci
+PSYC7504 Bethany Teachman
+PSYC7505 Angeline Lillard
+PSYC7506 Shigehiro Oishi
+PSYC7507 Steven Boker
+PSYC7720 Michael Kubovy;Michael Meyer
+PSYC7750 Patricia Llewellyn
+PSYC7755 Patricia Llewellyn
+PSYC8040 David Hill
+PSYC8735 Steven Boker
+PSYC8998 Joseph Allen;Steven Boker;Peter Brunjes;Gerald Clore;James Coan;Benjamin Converse;Chad Dodson;Robert Emery;Alev Erisir;David Hill;Vikram Jaswal;Michael Kubovy;Angeline Lillard;Patricia Llewellyn;James Morris;Brian Nosek;Shigehiro Oishi;Charlotte Patterson;Dennis Proffitt;Nicholas Reppucci;Timothy Salthouse;Karen Schmidt;Bethany Teachman;Sophie Trawalter;Eric Turkheimer;Timo Von;Cedric Williams;Daniel Willingham;Melvin Wilson;Timothy Wilson;Noelle Hurd;Jessica Connelly;Tobias Grossmann;Chad Meliza;Xin Tong;Amrisha Vaish
+PSYC9501 Joseph Allen;Steven Boker;Peter Brunjes;Gerald Clore;James Coan;Benjamin Converse;Chad Dodson;Robert Emery;Alev Erisir;David Hill;Vikram Jaswal;Michael Kubovy;Angeline Lillard;James Morris;Brian Nosek;Shigehiro Oishi;Charlotte Patterson;Dennis Proffitt;Nicholas Reppucci;Timothy Salthouse;Karen Schmidt;Bethany Teachman;Sophie Trawalter;Eric Turkheimer;Timo Von;Cedric Williams;Daniel Willingham;Melvin Wilson;Timothy Wilson;Noelle Hurd;Chad Meliza;Jessica Connelly;Tobias Grossmann;Xin Tong;Amrisha Vaish
+PSYC9502 Chad Meliza
+PSYC9940 Amrisha Vaish
+PSYC9980 Robert Emery
+PSYC9999 Joseph Allen;Steven Boker;Peter Brunjes;Gerald Clore;James Coan;Benjamin Converse;Chad Dodson;Robert Emery;Alev Erisir;David Hill;Vikram Jaswal;Michael Kubovy;Angeline Lillard;Patricia Llewellyn;James Morris;Brian Nosek;Shigehiro Oishi;Charlotte Patterson;Dennis Proffitt;Nicholas Reppucci;Timothy Salthouse;Karen Schmidt;Bethany Teachman;Sophie Trawalter;Eric Turkheimer;Timo Von;Cedric Williams;Daniel Willingham;Melvin Wilson;Timothy Wilson;Noelle Hurd;Jessica Connelly;Tobias Grossmann;Chad Meliza;Xin Tong;Amrisha Vaish
+ECON2010 Carter Doyle;Di Zhang;Hundanol Kebede;Guillermo Hausmann;Siying Liu;Fang Guo;Daniel Savelle;Wenqiang Cai;Danila Pankov
+ECON2020 Lee Coppock;Reid Kelley;Parisa Sadeghi;Michael La;Salim Ergene;Miguel Mascarua;Cameron Cross;Allison Oldham;Katherine Donnally;Steven Marzagalli;Myunghwan Yoo;Ian Yanusko;Hayden Goldberg;Abiy Teshome;Benjamin Hamilton;Lamiya Zaveri;Grayson Thornton;Alexandra Schubert;Andrew Stewart;Sarah Hill;Thomas West;Grace Finley;Emily Snow;Benjamin Leyden
+ECON3010 Andrew Kloosterman;Peter Troyan;Megan Miller;Yubo Liu;Elliott Isaac;Nathaniel Pattison
+ECON3020 Maria Westerfield;Nicholas Embrey;Murat Demirci;Xiuchang Yang;Latchezar Popov
+ECON3030 Carter Doyle;Vahid Gholampour;Gang Zhang;Woo Jin;Zachary Bethune
+ECON3630 Julia Devlin
+ECON3720 Karim Chalak;Selcen Cakir;Emily Cook;Alyssa Harris;Ronald Michener;Pingyu He
+ECON4020 Gaurab Aryal
+ECON4160 Amalia Miller
+ECON4170 Leonard Mirman
+ECON4180 David Mills
+ECON4190 Marc Santugini
+ECON4195 Federico Ciliberto
+ECON4200 Anthony Swisher
+ECON4210 James Harrigan
+ECON4220 Eric Van
+ECON4230 John Mc
+ECON4360 Steven Peterson
+ECON4370 Edwin Burton
+ECON4430 Sheetal Sekhri
+ECON4559 Ana Fostel;Sarah Turner
+ECON4620 Sheetal Sekhri
+ECON4720 Denis Nekipelov
+ECON4880 Leora Friedberg
+ECON4993 Charles Holt;Steven Stern;Kenneth Elzinga;Ronald Michener;Leonard Mirman
+ECON4995 Charles Holt;Edwin Burton;Kenneth Elzinga;Leonard Mirman;Edgar Olsen
+ECON4999 John Pepper;William Johnson;Steven Stern;Kenneth Elzinga;Amalia Miller;Charles Holt;John Mc;Edgar Olsen;Sarah Turner;David Mills;William Shobe;Federico Ciliberto;Maxim Engers;Edwin Burton;Christopher Ruhm;Leora Friedberg;Andrew Kloosterman;Eric Young;Peter Troyan;James Wyckoff;Simon Anderson;Sheetal Sekhri
+ECON5520 Ana Fostel;Carter Doyle;Sheetal Sekhri
+ECON7030 Simon Anderson
+ECON7040 Toshihiko Mukoyama
+ECON7720 John Pepper
+ECON8010 Maxim Engers
+ECON8150 Steven Stern
+ECON8180 Federico Ciliberto
+ECON8220 Eric Van
+ECON8230 James Harrigan
+ECON8320 Leora Friedberg
+ECON8360 Toshihiko Mukoyama
+ECON8420 Adesewa Osotimehin
+ECON8440 John Mc
+ECON8460 John Pepper
+ECON8720 Christian Matthes
+ECON8820 Charles Holt
+ECON8991 William Johnson
+ECON8998 Federico Ciliberto
+ECON9550 Eric Young;John James
+ECON9998 Federico Ciliberto
+ECON9999 Simon Anderson;Federico Ciliberto;Maxim Engers;Leora Friedberg;Zachary Bethune;Charles Holt;William Johnson;Karim Chalak;Ana Fostel;John Mc;David Mills;Leonard Mirman;Toshihiko Mukoyama;Edgar Olsen;James Harrigan;John Pepper;Steven Stern;Sarah Turner;Eric Van;Eric Young;Andrew Kloosterman;Latchezar Popov;Amalia Miller;Denis Nekipelov;Adesewa Osotimehin;Peter Troyan;Sheetal Sekhri
+RELA3559 Jalane Schmidt
+RELA3900 Cynthia Hoehler;Michael Nilon
+RELA4085 Cynthia Hoehler
+RELB2054 Kurtis Schaeffer;Naomi Worth;Andrew Taylor
+RELB2165 Nicholas Trautz;Michelle Walsh;Christopher Hiebert
+RELB2559 Erik Braun;Linghui Zhang
+RELB3190 Sonam Kachru
+RELB3559 John Campbell
+RELB5055 Sonam Kachru
+RELB5480 Katarina Turpeinen
+RELB5559 Erik Braun
+RELB5810 Katarina Turpeinen
+RELC1220 Janet Spittler;Peter Morris;Ashley Tate;Caleb Hendrickson;Daniel Wise
+RELC2060 Karl Shuve;Samuel Stafford
+RELC2460 Gerald Fogarty
+RELC3090 Gregory Goering
+RELC3150 Benjamin Ray;Jeremy Fisher;Isaac May;Leonard Lipscomb
+RELC3215 Kathleen Flake
+RELC3222 Mark Hadley
+RELC3559 Gerald Fogarty;Nichole Flores;Laura Hawthorne
+RELC4610 John Portmann
+RELC5559 Karl Shuve
+RELC7245 Kathleen Flake
+RELG1040 John Campbell
+RELG2155 Jalane Schmidt
+RELG2160 Heather Warren;Oscar Tovar;Evan Sandsmark;Mae Speight
+RELG2210 Willis Jenkins;Jeremy Sorgen;Shifa Noor;Joseph Lenow
+RELG2559 Jennifer Geddes
+RELG2630 Kendall Cox;Laura Alexander;Petra Turner;Mian Muhammad;Christina Mcrorie
+RELG2660 Matthew Hedstrom;Patrick Derdall;Jesse Robinson;Rachel Teubner
+RELG3559 Peter Ochs
+RELG3600 Charles Gillespie
+RELG3800 Heather Warren
+RELG4023 Mary Marshall
+RELG4500 Vanessa Ochs;John Portmann
+RELG4810 Kevin Hart
+RELG4900 Erik Braun;Paul Jones;Charles Marsh;Charles Mathewes;Willis Jenkins;Martien Halvorson;Kevin Hart;Larry Bouchard
+RELG5541 James Childress
+RELG5559 Peter Ochs;Willis Jenkins;Vanessa Ochs;Nichole Flores
+RELG5630 Larry Bouchard
+RELG7360 Benjamin Ray
+RELG8350 Peter Ochs
+RELH3725 John Nemec
+RELH5475 John Nemec
+RELI2080 Ahmed Al;William Boyce;Sara Aziz
+RELI2559 Jessica Andruss
+RELI3110 Shankar Nair
+RELI3900 Cynthia Hoehler;Michael Nilon
+RELI5559 Ahmed Al
+RELJ1420 Gregory Goering
+RELJ2030 Elizabeth Alexander;Rebecca Draughon
+RELJ2420 Blaire French
+RELJ2559 Jessica Andruss
+RELJ3090 Gregory Goering
+RELJ3100 Jessica Andruss
+RELJ5559 Asher Biemann;Jennifer Geddes
+RELS4995 Ahmed Al;Asher Biemann;Benjamin Ray;Charles Marsh;Charles Mathewes;Cynthia Hoehler;David Germano;Elizabeth Alexander;Gerald Fogarty;Gregory Goering;Janet Spittler;Heather Warren;Jalane Schmidt;James Childress;Willis Jenkins;John Nemec;John Portmann;Shankar Nair;Nichole Flores;Kevin Hart;Kurtis Schaeffer;Larry Bouchard;Sonam Kachru;Mark Hadley;Martien Halvorson;Matthew Hedstrom;Paul Jones;Peter Ochs;Kathleen Flake;Vanessa Ochs;Eric Braun;Karl Shuve;Robert Freeman;John Campbell
+RELS8500 Shankar Nair;Ahmad Obiedat;Kevin Hart;Peter Ochs;Gregory Goering;Blaire French
+RELS8960 Ahmed Al;Asher Biemann;Benjamin Ray;Charles Marsh;Charles Mathewes;Cynthia Hoehler;David Germano;Elizabeth Alexander;Gerald Fogarty;Gregory Goering;Janet Spittler;Heather Warren;Jalane Schmidt;James Childress;Willis Jenkins;John Nemec;John Portmann;Shankar Nair;Nichole Flores;Kevin Hart;Kurtis Schaeffer;Larry Bouchard;Sonam Kachru;Mark Hadley;Martien Halvorson;Matthew Hedstrom;Paul Jones;Peter Ochs;Kathleen Flake;Vanessa Ochs;Eric Braun;Karl Shuve
+RELS8995 Janet Spittler;Ahmed Al;Asher Biemann;Benjamin Ray;Charles Marsh;Charles Mathewes;Cynthia Hoehler;David Germano;Elizabeth Alexander;Gerald Fogarty;Gregory Goering;Heather Warren;Jalane Schmidt;James Childress;Willis Jenkins;John Nemec;John Portmann;Shankar Nair;Nichole Flores;Kevin Hart;Kurtis Schaeffer;Larry Bouchard;Sonam Kachru;Mark Hadley;Martien Halvorson;Matthew Hedstrom;Paul Jones;Peter Ochs;Kathleen Flake;Vanessa Ochs;Eric Braun;Mary Marshall;Karl Shuve
+RELS8998 Ahmed Al;Asher Biemann;Benjamin Ray;Charles Marsh;Charles Mathewes;Cynthia Hoehler;David Germano;Elizabeth Alexander;Gerald Fogarty;Gregory Goering;Janet Spittler;Heather Warren;Jalane Schmidt;James Childress;Willis Jenkins;John Nemec;John Portmann;Shankar Nair;Nichole Flores;Kevin Hart;Kurtis Schaeffer;Larry Bouchard;Sonam Kachru;Mark Hadley;Martien Halvorson;Matthew Hedstrom;Eric Braun;Paul Jones;Peter Ochs;Kathleen Flake;Vanessa Ochs;Karl Shuve
+RELS8999 Ahmed Al;Asher Biemann;Benjamin Ray;Charles Marsh;Charles Mathewes;Cynthia Hoehler;David Germano;Elizabeth Alexander;Gerald Fogarty;Gregory Goering;Janet Spittler;Heather Warren;Jalane Schmidt;James Childress;Willis Jenkins;John Nemec;John Portmann;Shankar Nair;Nichole Flores;Kevin Hart;Kurtis Schaeffer;Larry Bouchard;Sonam Kachru;Mark Hadley;Martien Halvorson;Matthew Hedstrom;Paul Jones;Peter Ochs;Kathleen Flake;Vanessa Ochs;Eric Braun;Karl Shuve
+RELS9998 Ahmed Al;Asher Biemann;Benjamin Ray;Charles Marsh;Charles Mathewes;Cynthia Hoehler;David Germano;Elizabeth Alexander;Gerald Fogarty;Gregory Goering;Janet Spittler;Heather Warren;Jalane Schmidt;James Childress;Willis Jenkins;John Nemec;John Portmann;Shankar Nair;Nichole Flores;Kevin Hart;Kurtis Schaeffer;Larry Bouchard;Sonam Kachru;Mark Hadley;Martien Halvorson;Matthew Hedstrom;Eric Braun;Paul Jones;Peter Ochs;Kathleen Flake;Vanessa Ochs;Jennifer Geddes;Karl Shuve
+RELS9999 Ahmed Al;Asher Biemann;Benjamin Ray;Charles Marsh;Charles Mathewes;Cynthia Hoehler;David Germano;Elizabeth Alexander;Gerald Fogarty;Gregory Goering;Janet Spittler;Heather Warren;Jalane Schmidt;James Childress;Willis Jenkins;John Nemec;John Portmann;Shankar Nair;Nichole Flores;Kevin Hart;Kurtis Schaeffer;Larry Bouchard;Sonam Kachru;Mark Hadley;Martien Halvorson;Matthew Hedstrom;Paul Jones;Peter Ochs;Kathleen Flake;Vanessa Ochs;Eric Braun;Karl Shuve
+CPLT2020 Paul Cantor;Benjamin Lee
+CPLT3590 Lorna Martens;Benjamin Bennett;Jennifer Wicke;John Alexander
+CPLT4990 Paul Cantor
+CPLT4999 Paul Cantor
+ENAM3140 Lisa Woolfork
+ENAM3180 Sylvia Chong
+ENAM3240 Stephen Railton
+ENAM4500 Emily Ogden;John Papovich;Victoria Olwell
+ENAM4840 Lisa Woolfork
+ENAM8559 Sandhya Shukla
+ENCR3559 Jennifer Wicke
+ENCR4500 Marlon Ross;Kenrick Grandison
+ENCR9500 Bruce Holsinger
+ENCR9650 David Vander
+ENCW2300 Veronica Kuhn;Anne Pittman;Caitlin Neely;Courtney Flerlage;Robert Shapiro
+ENCW2600 Caitlin Fitzpatrick;Justyna Pekalak;Jeremy Townley;Helen Chandler;Jesus De;Jeffrey Horn
+ENCW3310 Gregory Orr;Debra Nystrom
+ENCW3350 Paul Guest
+ENCW3610 Elizabeth Denton;Christopher Tilghman
+ENCW4350 Jeffery Allen
+ENCW4810 John Casey
+ENCW4830 Rita Dove
+ENCW4993 Lisa Spaar
+ENCW7310 Rita Dove
+ENCW7610 John Casey
+ENCW8993 Paul Guest
+ENCW8995 Paul Guest
+ENCW8999 James Livingood;John Casey;Christopher Tilghman;Sydney Blair;Rita Dove;Gregory Orr;Paul Guest;Debra Nystrom;Lisa Spaar;Jane Alison;Jeffery Allen
+ENEC3200 Jennifer Reed
+ENEC3600 Alison Hurley
+ENEC4500 Michael Suarez
+ENEC9500 Brad Pasanek
+ENGL1500 Emily Ogden;John Parker
+ENGL2020 Paul Cantor;Benjamin Lee
+ENGL2559 Michael Levenson;Michael Sears;Anne Galvin;Claire Eager
+ENGL3820 Michael Levenson;Caleb Agnew;Sophie Abramowitz;Alyssa Collins;Anuj Kapoor;Kirsten Andersen;Thomas Berenato;Devan Ard;Kelli Shermeyer;Eva Latterner;Lara Musser;Grace Vasington
+ENGL4993 Jeffery Allen;James Livingood;Marlon Ross
+ENGL4999 Karen Chase
+ENGL8993 Sylvia Chong;Kevin Hart
+ENGL8998 Victoria Olwell
+ENGL8999 Victoria Olwell
+ENGL9899 Deborah Mc
+ENGL9995 Stephen Arata
+ENGL9998 Victoria Olwell
+ENGL9999 Victoria Olwell
+ENGN4500 Paul Cantor;Kevin Hart
+ENGN8510 Christopher Tilghman
+ENGN8520 Lisa Spaar
+ENLP4550 Jeffery Allen
+ENLP4720 Jane Alison
+ENLT2100 Kiera Allison
+ENLT2513 Sarah Ingle
+ENLT2523 Paul Guest;Sarah Smith;Katie Bray
+ENLT2526 Karen Chase;Patricia Sullivan;Anna Brickhouse;Britta Rowe;Stephen Railton;Amy Boyd;Jennifer Reed;Charles Sligh
+ENLT2530 Anuj Kapoor
+ENLT2550 James Kinney;Claire Eager;Matthew Davis
+ENLT2555 Elizabeth Sutherland;Paul Broyles;Heather Kiser
+ENMC3310 Marvin Campbell
+ENMC3500 Madigan Haley;Njelle Hamilton
+ENMC3800 Jessica Feldman
+ENMC4500 Maurice Wallace;Lisa Goff
+ENMC4530 Christopher Krentz
+ENMC4993 Stephen Cushman
+ENMC8500 Njelle Hamilton
+ENMC9500 Jennifer Wicke
+ENMD3250 Bruce Holsinger
+ENMD4500 John Parker;Anthony Spearing
+ENMD5010 Peter Baker
+ENMD8559 Anthony Spearing
+ENNC3110 Herbert Tucker
+ENNC3210 Andrew Stauffer
+ENNC3600 Stephen Arata
+ENNC4500 Karen Chase;Andrew Stauffer
+ENNC8500 Alison Booth
+ENPG5400 Hallie Smith
+ENPW4820 Debra Nystrom
+ENPW4920 Lisa Spaar
+ENRN3220 Katharine Maus;Elizabeth Sutherland;Sarah Berkowitz
+ENRN3250 Clare Kinney
+ENRN4410 James Kinney
+ENRN4500 John Parker;Anthony Spearing
+ENRN8400 Katharine Maus
+ENRN8559 Anthony Spearing
+ENSP2810 Lisa Goff
+ENSP3300 James Livingood
+ENSP3559 Mark Edmundson
+ENSP4500 Sarah Cole
+ENSP5559 John Casteen
+ENSP5820 Clare Kinney
+ENSP5830 Walter Korte
+ENSP8559 Stephen Cushman
+ENWR1506 Claire Chantell;Katie Bray;John Murphy
+ENWR1508 Jane Boatner
+ENWR1510 Sarah Stephenson;Erin Bartnett;Samantha Wallace;Stephen Hequembourg;Alison Glassie;William Rhodes;Hilary Holladay;Christian Howard;Marvin Campbell;Yoon Kyong;Charles Sligh;Anne Llewellyn;Mirabella Mitchell;Anna Bear;Paul Broyles;Heather Kiser;Abigail Arnold;Kiera Allison;Jiayuan Huang;Sarah Ingle;Matthew Davis;Holly Bell;Devin Donovan;Adam Friedgen;Lindgren Johnson;Emily Temple;Emily Keyser;Derek Cavens;Kate Kostelnik;Peter Miller;Michelle Taylor;Samuel Lemley;Britta Rowe;Jordan Buysse;Casey Ireland;Alexander Slotnick
+ENWR2520 Keith Driver;Devin Donovan
+ENWR2559 Kate Kostelnik
+ENWR2700 Charles Kelly
+ENWR3500 Patricia Sullivan;Kiera Allison
+ENWR3900 Ann Mazur
+POL1220 Maria Ivanova
+POL2220 Dariusz Tolczyk
+RUSS1020 John Lyles;Tierre Sanford;Sharisa Nay;Valeria Provotorova
+RUSS2020 John Lyles;Sarah Bumpus;Abigail Hohn
+RUSS3020 Maria Ivanova
+RUSS3030 Michael Marsh
+RUSS4020 Ekaterina Dianina
+RUSS4990 Mark Elson
+RUSS4998 Mark Elson
+RUSS5032 Mark Elson
+RUSS5050 Maria Ivanova
+RUSS5380 Edith Clowes
+RUSS5500 Ekaterina Dianina;Julian Connolly
+RUSS8999 Edith Clowes
+RUSS9999 Edith Clowes
+RUTR2470 Yuri Urbanovich
+RUTR2730 Julian Connolly;Jill Martiniuk
+RUTR3340 Andrew Kaufman
+RUTR3360 Edith Clowes
+RUTR3510 Julian Connolly;Jill Martiniuk
+SLAV2360 Stanley Stepanic
+SLAV8998 Edith Clowes
+SLAV8999 Edith Clowes
+SLAV9998 Edith Clowes
+SLAV9999 Edith Clowes
+SLFK2120 Anne Ingram
+SLTR3300 Dariusz Tolczyk
+EVAT5410 Kevin Grise
+EVAT7999 Robert Davis;Stephan De;William Keene;Jennie Moody
+EVEC7559 Howard Epstein
+EVEC7999 Linda Blum;David Carr;Howard Epstein;Kyle Haynes;Deborah Lawrence;Manuel Lerdau;Karen Mc;Aaron Mills;Michael Pace;Herman Shugart;David Smith;Thomas Smith;Robert Swap
+EVGE5820 Alan Howard
+EVGE5860 Stephen Macko
+EVGE7810 Thomas Biggs
+EVGE7999 Thomas Biggs;James Galloway;Janet Herman;Alan Howard;Stephen Macko;Patricia Wiberg
+EVHY5559 Todd Scanlon
+EVHY7670 Patricia Wiberg
+EVHY7999 Bernard Cosby;Aaron Mills;Matthew Reidenbach;Todd Scanlon;Patricia Wiberg
+EVSC1010 Thomas Smith
+EVSC1020 Linda Blum
+EVSC1040 Thomas Biggs
+EVSC1300 Robert Davis
+EVSC1450 Deborah Lawrence
+EVSC2010 Robert Kelly
+EVSC2050 Stephen Macko
+EVSC2559 Herman Shugart
+EVSC2800 Janet Herman
+EVSC2801 Nathan Rose;Erin Swails;Kelcy Kent;Mokganedi Tatlhego
+EVSC3020 John Porter
+EVSC3200 Manuel Lerdau
+EVSC3201 Amber Slatosky;Lillian Aoki;Bin Wang;Catherine Vincent
+EVSC3300 Sally Pusede
+EVSC3301 Nevio Babic;Shradda Dhungel;Daniel Schmidt;Nathan Rose
+EVSC3600 Matthew Reidenbach
+EVSC3601 Martin Volaric;Kailiang Yu;Rachael Johnson;Ross Palomaki
+EVSC4002 Stephen Macko
+EVSC4010 Jennie Moody
+EVSC4050 Stephen Macko
+EVSC4070 John Porter
+EVSC4082 Thomas Biggs
+EVSC4160 Herman Shugart
+EVSC4240 Linda Blum
+EVSC4260 Howard Epstein
+EVSC4360 Jennie Moody
+EVSC4559 Vivian Thomson
+EVSC4860 Thomas Biggs
+EVSC4870 James Galloway
+EVSC4890 Alan Howard
+EVSC4991 David Smith
+EVSC4993 Peter Berg;Linda Blum;David Carr;Bernard Cosby;Robert Davis;Stephan De;Howard Epstein;James Galloway;Janet Herman;Alan Howard;William Keene;Deborah Lawrence;Manuel Lerdau;Karen Mc;Stephen Macko;Aaron Mills;Jennie Moody;Michael Pace;Matthew Reidenbach;Todd Scanlon;Herman Shugart;David Smith;Thomas Smith;Robert Swap;Vivian Thomson;Patricia Wiberg;Thomas Biggs;Kyle Haynes;John Porter;Sally Pusede;Kevin Grise
+EVSC4995 Peter Berg;Linda Blum;David Carr;Bernard Cosby;Robert Davis;Stephan De;Howard Epstein;James Galloway;Janet Herman;Alan Howard;William Keene;Deborah Lawrence;Manuel Lerdau;Karen Mc;Stephen Macko;Aaron Mills;Jennie Moody;Michael Pace;Matthew Reidenbach;Todd Scanlon;Herman Shugart;David Smith;Thomas Smith;Robert Swap;Vivian Thomson;Patricia Wiberg;Thomas Biggs;Kyle Haynes;John Porter;Sally Pusede;Kevin Grise
+EVSC4999 Robert Davis;Thomas Biggs;James Galloway;Aaron Mills;Michael Pace;Matthew Reidenbach;Todd Scanlon;Patricia Wiberg;Stephan De;Linda Blum;Howard Epstein;Herman Shugart;Deborah Lawrence;Karen Mc;Peter Berg;David Carr;Bernard Cosby;Janet Herman;Alan Howard;William Keene;Manuel Lerdau;Stephen Macko;Jennie Moody;David Smith;Thomas Smith;Robert Swap;Kyle Haynes;Kevin Grise;John Porter;Vivian Thomson
+EVSC5020 John Porter
+EVSC5030 David Carr
+EVSC5050 Stephen Macko
+EVSC5060 Karen Mc
+EVSC5082 James Galloway
+EVSC5559 Howard Epstein;Brian Richter
+EVSC7010 Jennie Moody
+EVSC7070 John Porter
+EVSC7092 Kevin Grise
+EVSC7559 Robert Davis
+EVSC7999 Kevin Grise
+EVSC8998 Peter Berg;Linda Blum;David Carr;Bernard Cosby;Robert Davis;Stephan De;Howard Epstein;James Galloway;Kyle Haynes;Janet Herman;Alan Howard;William Keene;Deborah Lawrence;Manuel Lerdau;Karen Mc;Stephen Macko;Aaron Mills;Jennie Moody;Michael Pace;John Porter;Matthew Reidenbach;Todd Scanlon;Herman Shugart;David Smith;Thomas Smith;Robert Swap;Vivian Thomson;Patricia Wiberg;Kevin Grise
+EVSC8999 Peter Berg;Linda Blum;David Carr;Bernard Cosby;Robert Davis;Stephan De;Howard Epstein;James Galloway;Kyle Haynes;Janet Herman;Alan Howard;William Keene;Deborah Lawrence;Manuel Lerdau;Karen Mc;Stephen Macko;Aaron Mills;Jennie Moody;Michael Pace;John Porter;Matthew Reidenbach;Todd Scanlon;Herman Shugart;David Smith;Thomas Smith;Robert Swap;Vivian Thomson;Patricia Wiberg;Kevin Grise
+EVSC9995 Peter Berg;Linda Blum;David Carr;Bernard Cosby;Robert Davis;Stephan De;Howard Epstein;James Galloway;Kyle Haynes;Janet Herman;Alan Howard;William Keene;Deborah Lawrence;Manuel Lerdau;Karen Mc;Stephen Macko;Aaron Mills;Jennie Moody;Michael Pace;John Porter;Matthew Reidenbach;Todd Scanlon;Herman Shugart;David Smith;Thomas Smith;Robert Swap;Vivian Thomson;Patricia Wiberg;Kevin Grise
+EVSC9998 Peter Berg;Linda Blum;David Carr;Bernard Cosby;Robert Davis;Stephan De;Howard Epstein;James Galloway;Kyle Haynes;Janet Herman;Alan Howard;William Keene;Deborah Lawrence;Manuel Lerdau;Karen Mc;Stephen Macko;Aaron Mills;Jennie Moody;Michael Pace;John Porter;Matthew Reidenbach;Todd Scanlon;Herman Shugart;David Smith;Thomas Smith;Robert Swap;Vivian Thomson;Patricia Wiberg;Kevin Grise
+EVSC9999 Peter Berg;Linda Blum;David Carr;Bernard Cosby;Robert Davis;Stephan De;Kevin Grise;Howard Epstein;James Galloway;Kyle Haynes;Janet Herman;Alan Howard;William Keene;Deborah Lawrence;Manuel Lerdau;Karen Mc;Stephen Macko;Aaron Mills;Jennie Moody;Michael Pace;John Porter;Matthew Reidenbach;Todd Scanlon;Herman Shugart;David Smith;Thomas Smith;Robert Swap;Vivian Thomson;Patricia Wiberg
+SOC1010 Paul Kingston;Aurora Raske;Mary Wilks;Samuel Richardson;Blake Silver
+SOC2052 William Wilcox;Diana Catalina;Michael Fowler;Fauzia Husain;Elissa Zeno
+SOC2230 Robert Mc
+SOC2442 Kimberly Hoosier;Sarah Johnson;Kathryn Wood
+SOC2559 Elizabeth Gorman;Anna Cameron
+SOC3020 Candace Miller
+SOC3090 Stephan Fuchs
+SOC3110 Thomas Guterbock
+SOC3130 Meredith Bergey;Sarah Mosseri;Kara Fitzgibbon
+SOC3180 Allison Pugh
+SOC3410 Milton Vickerman
+SOC3595 Sarah Corse;Robert Mc
+SOC3700 Meredith Bergey;Gabriella Smith
+SOC3820 Adam Slez
+SOC4010 Nicholas Rubin
+SOC4055 Donald Black
+SOC4057 William Wilcox
+SOC4059 Donald Black
+SOC4070 Sarah Corse
+SOC4410 Stephan Fuchs
+SOC4640 Ekaterina Makarova
+SOC4680 Ekaterina Makarova
+SOC4740 Claire Raymond
+SOC4750 Milton Vickerman
+SOC4820 Dawn Anderson;Karen Farber
+SOC4970 Paul Kingston;Ekaterina Makarova;Milton Vickerman
+SOC4980 Paul Kingston
+SOC4981 Paul Kingston
+SOC5060 Simone Polillo
+SOC5086 Andrea Press
+SOC5100 Adam Slez
+SOC5110 Thomas Guterbock
+SOC5120 Elizabeth Gorman;Joris Gjata
+SOC5420 Josipa Roksa
+SOC8040 Jeffrey Olick
+SOC8055 Donald Black
+SOC8059 Donald Black
+SOC8998 Simone Polillo
+SOC8999 Simone Polillo;Josipa Roksa;Sarah Corse;James Hunter;Andrea Press;Allison Pugh;Paul Kingston;Elizabeth Gorman;Jeffrey Olick
+SOC9010 Ekaterina Makarova;Andrea Press;Allison Pugh;Sarah Corse;Adam Slez;James Hunter
+SOC9060 Allison Pugh
+SOC9998 Simone Polillo;Elizabeth Gorman;James Hunter;Jeffrey Olick;Andrea Press;Sarah Corse;Josipa Roksa;Allison Pugh;Adam Slez;Milton Vickerman
+SOC9999 Simone Polillo;William Wilcox;Milton Vickerman;Andrea Press;Allison Pugh;James Hunter;Sarah Corse;Adam Slez;Jeffrey Olick;Elizabeth Gorman;Josipa Roksa
+FRTR2552 Jessie Labadie
+FRTR3584 Anna Keefe
+FREN1000 Nouha Gammar
+FREN1010 Lova Rajaonarisoa;Elizabeth Hall
+FREN1020 Sana Alaya;Nicholas Bader;Cecile Rey;Mathieu Perrot;Rachel Geer;Haniyeh Barahouiepasandi
+FREN1050 Stacey Battis
+FREN2010 Hannah Andersen;Julie Demoulin;Marylise Rilliard;Casey Shannon;Holly Runde;Elizabeth Hall
+FREN2020 Rachel Geer;Jessie Labadie;Solene Camus;Spyridon Simotas;Peter Chekin;Pascale Hapgood
+FREN2320 Hannah Holtzman
+FREN3029 Marylise Rilliard
+FREN3030 Gladys Saunders
+FREN3031 Cheryl Krueger;Cecile Rey;Karen James
+FREN3032 Stacey Battis;Kandioura Dram;Jennifer Tsien;Deborah Mc
+FREN3034 Marylise Rilliard;Mathieu Perrot
+FREN3042 Jennifer Tsien
+FREN3050 Robert Ferguson
+FREN3559 Cheryl Krueger
+FREN3570 Kandioura Dram
+FREN3747 Lova Rajaonarisoa
+FREN4035 Christine Zunz
+FREN4509 Gladys Saunders
+FREN4560 Claire Lyu
+FREN4585 Deborah Mc
+FREN4838 Janet Horne
+FREN4993 Cheryl Krueger
+FREN4999 Cheryl Krueger
+FREN5520 Robert Ferguson
+FREN5560 Claire Lyu
+FREN5570 Ari Blatt
+FREN5993 Janet Horne
+FREN5999 Amy Ogden
+FREN8520 Robert Ferguson
+FREN8560 Claire Lyu
+FREN8570 Ari Blatt
+FREN9998 Janet Horne
+FREN9999 Ari Blatt;Kandioura Dram;Robert Ferguson;Cheryl Krueger;Alison Levine;John Lyons;Claire Lyu;Deborah Mc;Amy Ogden;Philippe Roger;Jennifer Tsien
+ITAL1020 Stella Mattioli;Sandro Puiatti
+ITAL2020 Sarah Annunziato;Francesca Calamita
+ITAL3020 Enrico Cesaretti
+ITAL3720 Enrico Cesaretti
+ITTR3559 Francesca Calamita
+ITTR3775 Adrienne Ward
+ITTR4559 Adrienne Ward
+PORT2120 Lilian Feitosa
+PORT3010 Lilian Feitosa
+PORT4420 Eli Carter
+POTR4270 Eli Carter
+SPAN1020 Kate Neff;Adam Cohn;Karina Baptista
+SPAN1060 Laura Aguilar;Julianna White;Matthew Street;Jessica Daves;Cara Goman;Anthony Pasero
+SPAN2010 Oscar Ruiz;Sarah Balistreri;Rebekah Coble;Stephen Everhart;Nicole Bonino;Marina Escamez;Pamela Rini;Astrid Ochoa;Alexa Hansinger;Alison Posey;Ricardo Huaman;Erick Romig;Esperanza Gorriz
+SPAN2020 Joseph Paola;Anne Leister;Joanne Britland;Maria Jorquera;Aaron Castroverde;Maria Esther;Nasser Meerkhan;Javier Vazquez;Carrie Bramlet;Paula Sprague;Thomas Antorino
+SPAN3000 Omar Velazquez
+SPAN3010 Gabrielle Miller;Kristin Hilgartner;Esperanza Gorriz;Diana Galarreta;Rachelle Phillips
+SPAN3020 Maria Delgado;Ricardo Huaman
+SPAN3030 Loreto Romero;Gonzalo Hernandez
+SPAN3040 Maria Esparza;Maria Esther;Nora Benedict
+SPAN3050 Gonzalo Hernandez
+SPAN3300 Diana Galarreta;Alicia Lopez;Andrew Anderson;Gabrielle Miller
+SPAN3400 Edmondo Gerli;Alison Weber
+SPAN3410 Randolph Pope
+SPAN3420 Allison Bigelow
+SPAN3430 Charlotte Rogers
+SPAN4040 Melissa Frost;Casey Eriksen
+SPAN4200 Joel Rini
+SPAN4202 Omar Velazquez
+SPAN4319 Gustavo Pellon
+SPAN4413 Randolph Pope
+SPAN4420 Fernando Opere
+SPAN4500 Allison Bigelow;Jose Maria
+SPAN4520 Alison Weber
+SPAN4710 Fernando Opere
+SPAN4800 Elena Neacsu
+SPAN4989 Andrew Anderson;Omar Velazquez
+SPAN5800 Ricardo Padron
+SPAN7040 Gustavo Pellon
+SPAN7850 Jose Maria
+SPAN8505 Edmondo Gerli
+SPAN8560 Charlotte Rogers
+SPAN8999 Randolph Pope
+SPAN9995 Edmondo Gerli
+SPAN9998 Randolph Pope
+SPAN9999 David Gies;Randolph Pope;Alison Weber;Andrew Anderson;Gustavo Pellon;Fernando Opere;Ricardo Padron;Edmondo Gerli
+SPTR3559 Ricardo Padron;Andrea Pauw
+GERM1010 Alexis Radisoglou;Cora Schenberg
+GERM1020 Brian Neel;Rebekah Slodounik;David Lotterhos;Stefanie Parker
+GERM2010 Kathryn Schroeder
+GERM2020 Stefanie Parker;Svenja Zimmermann;Francis Hall
+GERM3000 Cora Schenberg
+GERM3010 Alexis Radisoglou
+GERM3120 Alexis Radisoglou
+GERM3220 Cora Schenberg
+GERM3240 Danielle Pisechko
+GERM3290 Svenja Zimmermann
+GERM4600 Benjamin Bennett
+GERM4990 Michael Wellmon
+GERM4993 Volker Kaiser;Gabriel Finder;Michael Wellmon
+GERM4995 Michael Wellmon
+GERM5559 Jeffrey Grossman
+GERM7559 Volker Kaiser
+GERM8810 Lorna Martens
+GERM8820 Jeffrey Grossman
+GERM8999 Benjamin Bennett
+GERM9998 Jeffrey Grossman;Michael Wellmon;William Mc;Volker Kaiser;Lorna Martens
+GERM9999 Michael Wellmon
+GETR3390 Manuela Achilles
+GETR3462 Manuela Achilles
+GETR3470 Rebekah Slodounik
+GETR3563 John Alexander
+GETR3590 Michael Wellmon;Benjamin Bennett;Lorna Martens;Volker Kaiser
+GETR7700 Lorna Martens
+STAT1100 Maria Tackett;Lauren Williams
+STAT2020 Maria Ferrara;Jessica Curran
+STAT2120 Amber Tomas
+STAT3080 Caitlin Steiner;Heather Cook
+STAT3120 Miao Lu;Taylor Brown
+STAT3130 Dan Spitzner
+STAT3480 Paul Diver
+STAT4993 Amber Tomas;Yong Ming;Dan Spitzner
+STAT5120 Jianhui Zhou
+STAT5170 Yong Ming
+STAT5350 Michele Claibourn
+STAT5510 Karen Kafadar
+STAT5559 Daniel Keenan
+STAT5630 Minh Pham
+STAT6160 Tingting Zhang
+STAT6250 Jianhui Zhou
+STAT6520 Dan Spitzner
+STAT7100 Chao Du
+STAT7995 Dan Spitzner
+STAT9993 Dan Spitzner
+STAT9998 Dan Spitzner
+STAT9999 Karen Kafadar;Dan Spitzner;Daniel Keenan
+HIAF3559 Christina Mobley
+HIAF4501 Christina Mobley
+HIAF4993 Christina Mobley
+HIEA3112 Bradly Reed
+HIEA3162 Xiaoyuan Liu
+HIEA4511 Xiaoyuan Liu
+HIEA5151 Bradly Reed
+HIEA9021 Xiaoyuan Liu
+HIEA9022 Xiaoyuan Liu
+HIEA9023 Robert Stolz
+HIEU1501 Paul Kershaw
+HIEU1502 James Loeffler;Allan Megill
+HIEU2002 Rosemary Lee
+HIEU2041 Elizabeth Meyer;Lily Van
+HIEU2101 James Loeffler
+HIEU2112 Erik Linstrum;Swati Chawla
+HIEU2162 Jeffrey Rossman;Zachary Hoffman
+HIEU2721 Erin Lambert;Rachael Johnson
+HIEU3021 Jon Lendon;Tyler Creer;Nicholas Lindberg
+HIEU3111 Jolanta Komornicka
+HIEU3141 Paul Kershaw;Andrew Sorber
+HIEU3221 Rosemary Lee
+HIEU3390 Manuela Achilles
+HIEU3462 Manuela Achilles
+HIEU3702 Robert Geraci
+HIEU3752 Stephen Schuker
+HIEU3802 Allan Megill
+HIEU4501 Erin Lambert
+HIEU4502 Erik Linstrum
+HIEU4511 Jon Lendon
+HIEU4512 Stephen Schuker
+HIEU4993 Robert Geraci
+HIEU5011 Jon Lendon
+HIEU5051 Elizabeth Meyer
+HIEU5892 Stephen Schuker
+HIEU9021 Allan Megill
+HIEU9022 Allan Megill
+HIEU9023 Erik Linstrum
+HIEU9024 Erik Linstrum
+HIEU9025 Elizabeth Meyer
+HIEU9026 Paul Halliday
+HIEU9027 Paul Halliday
+HIEU9028 Paul Halliday
+HIEU9029 Erin Lambert
+HIEU9030 Erin Lambert
+HIEU9031 Paul Kershaw
+HILA2002 Thomas Klubock;Kimberly Hursh
+HILA3051 Herbert Braun
+HILA4511 Brian Owensby
+HILA4993 Brian Owensby
+HIME1501 Harrison Guthorn
+HIME2002 Harrison Guthorn
+HIME3559 Yoav Peled;Harrison Guthorn
+HISA3003 Nabaparna Ghosh
+HISA3121 Richard Barnett
+HIST1501 David Smith;Nabaparna Ghosh
+HIST3452 William Hitchcock;Alexandra Evans;Emily Matson
+HIST3559 Philip Zelikow
+HIST4501 Robert Geraci
+HIST4991 Christian Mc
+HIST4993 Andrew Kahrl;James Ratliff
+HIST5621 Jeffrey Rossman
+HIST8001 Robert Stolz
+HIST8998 Christian Mc;Bradly Reed;Scott Edelson
+HIST8999 Alon Confino;Alan Taylor;Paul Halliday;Melvyn Leffler;Stephen Schuker;William Hitchcock;Philip Zelikow;Grace Hale;Robert Geraci;Gary Gallagher;Olivier Zunz;Brian Owensby;Thomas Klubock;Elizabeth Meyer;Allan Megill;Claudrena Harold;Brian Balogh;Elizabeth Varon;John Mason;Cong Zhang;Bradly Reed;Scott Edelson;Andrew Kahrl;Paul Kershaw;Jon Lendon;Xiaoyuan Liu;Neeti Nair;Mark Thomas
+HIST9021 Erik Linstrum
+HIST9022 Paul Halliday
+HIST9023 Erin Lambert
+HIST9024 Scott Edelson
+HIST9025 Scott Edelson
+HIST9960 Robert Stolz;Gary Gallagher;Paul Kershaw;Stephen Schuker;Harrison Guthorn
+HIST9961 Alan Taylor;Elizabeth Varon;Elizabeth Meyer;Scott Edelson;Melvyn Leffler;Sarah Milov;Richard Barnett;William Hitchcock;Paul Halliday;Brian Balogh;Stephen Schuker
+HIST9962 Risa Goluboff
+HIST9998 Brian Balogh;Scott Edelson;Alan Taylor;Alon Confino;Stephen Schuker;Gary Gallagher;Grace Hale;Paul Halliday;Paul Kershaw;Melvyn Leffler;William Hitchcock;Xiaoyuan Liu;Brian Owensby;Bradly Reed;Richard Barnett;Claudrena Harold;Elizabeth Meyer;Elizabeth Varon;Jon Lendon
+HIST9999 Alan Taylor;Brian Balogh;Elizabeth Varon;Alon Confino;Robert Geraci;Gary Gallagher;Grace Hale;Paul Halliday;William Hitchcock;Melvyn Leffler;Charles Mc;Christian Mc;Allan Megill;Jon Lendon;Paul Kershaw;Bradly Reed;Andrew Kahrl;Xiaoyuan Liu;Stephen Schuker;John Stagg;Olivier Zunz;Brian Owensby;Scott Edelson;Mark Thomas;Philip Zelikow;John Mason;Claudrena Harold;Elizabeth Meyer;Thomas Klubock;Richard Barnett
+HIUS1501 Corinne Field;Brian Balogh;Kirt Von;Andrew Kahrl
+HIUS2002 Olivier Zunz;Asaf Almog
+HIUS2051 Gary Gallagher;James Hrdlicka;Clayton Butler;Lauren Haumesser;Scott Miller
+HIUS2559 Philip Zelikow;Jonathan Cohen
+HIUS3011 Scott Edelson;Shira Lurie
+HIUS3051 Alan Taylor;Katherine Lantz
+HIUS3072 Gary Gallagher
+HIUS3150 Benjamin Ray;Jeremy Fisher;Isaac May;Leonard Lipscomb
+HIUS3151 Sarah Milov
+HIUS3161 Brian Balogh;Justin Mcbrien
+HIUS3221 Lisa Goff
+HIUS3231 Elizabeth Varon;Stephanie Lawton
+HIUS3282 George Gilliam
+HIUS3456 Melvyn Leffler;Christopher Maternowski
+HIUS3753 Michael Caires
+HIUS4501 Claudrena Harold;Olivier Zunz;Andrew Kahrl;Elizabeth Varon
+HIUS4591 Melvyn Leffler
+HIUS4993 Gary Gallagher;Melvyn Leffler
+HIUS5022 Scott Edelson
+HIUS7021 Alan Taylor
+HIUS7232 Grace Hale
+HIUS7652 Jessica Lowe
+HIUS7655 Cynthia Nicoletti
+HIUS9021 Sarah Milov
+HIUS9022 Sarah Milov
+HIUS9023 Scott Edelson
+MSP4801 Ahmed Al
+USEM1580 Yuri Urbanovich;Brie Gertler;Jeffrey Rossman;Dariusz Tolczyk;Hanadi Al;John Dobbins;Virginia Moran
+WGS2100 Lisa Speidel;Bonnie Hagerman;Corinne Field;Thomas Butcher;Alexandra Garrett
+WGS2224 Lisa Shutt
+WGS2559 Lisa Speidel;Karlin Luedtke
+WGS3105 Douglas Meyer
+WGS3200 Bonnie Hagerman
+WGS3340 Amanda Davis
+WGS3370 Bonnie Hagerman
+WGS3500 Alberto Mc;Benjamin Bennett
+WGS3559 Francesca Calamita
+WGS3800 Douglas Meyer
+WGS3810 Alberto Mc
+WGS3993 Geeta Patel;Lisa Speidel;Claire Kaplan;Corinne Field
+WGS4110 Andre Cavalcante
+WGS4500 Douglas Meyer
+WGS4559 Adrienne Ward
+WGS4999 Corinne Field
+ASL1020 Gregory Propp;Christopher Krentz;Roberta Dietz;Tammy Waddell;Rhonda Jennings
+ASL2020 Shilpa Hanumantha;Gregory Propp
+ASL3559 Gregory Propp
+ASL4112 Shilpa Hanumantha
+ASL4993 Gregory Propp
+INST1550 Ravynn Stringfield;Bethany Bruno;Conor Mettenburg;Alesha Cooper;Julia Horowitz;Duy Nguyen;Matthew Baron;Todd Sechser
+INST2500 Sandra Seidel;Samuel Green
+INST2550 William Petri;Ethan Strickler;Wendy Cohn;David Mellinger
+INST2570 Stephen Plaskon;Carl Trindle
+INST3150 Michael Palmer
+INST3600 Barry Condron
+INST4559 Michael Lenox
+AMST1559 Kelley Deetz
+AMST2460 Ashley Williams
+AMST2500 Jeremy Boggs
+AMST2559 Sylvia Chong
+AMST3001 John Hamilton
+AMST3180 Sylvia Chong
+AMST3221 Lisa Goff
+AMST3559 Jessica Sewell
+AMST4440 Matthew Hedstrom
+AMST4500 Sandhya Shukla
+AMST4559 Marlon Ross;Kenrick Grandison
+AMST4893 Sylvia Chong
+AMST4993 John Hamilton;Sylvia Chong;Grace Hale;Matthew Hedstrom;Maurie Mc;Sandhya Shukla;Lisa Goff
+AMST4999 Grace Hale
+JWST3559 Yoav Peled
+JWST4980 Asher Biemann;Vanessa Ochs;Peter Ochs;Alon Confino;Elizabeth Alexander;Gregory Goering
+JWST5559 Yoav Peled;Asher Biemann
+ARCY3993 Malcolm Bell;John Dobbins;Anastasia Dakouri;Jeffrey Hantman;Foteini Kondyli;Adria Laviolette;Rachel Most;Fraser Neiman;Stephen Plog;Tyler Smith;Patricia Wattenmaker
+ARCY4999 Anastasia Dakouri
+LAST4050 Thomas Klubock
+LAST4999 Thomas Klubock
+COGS3960 Steven Boker;Peter Brunjes;James Coan;Jessica Connelly;Chad Dodson;Alev Erisir;David Hill;Vikram Jaswal;Michael Kubovy;William Levy;Angeline Lillard;Chad Meliza;James Morris;Dennis Proffitt;Timothy Salthouse;Cedric Williams;Daniel Willingham
+COGS4970 Dennis Proffitt
+COGS4980 Dennis Proffitt
+LASE2559 Everette Fortner
+LASE3111 Kathryn Densberger;Christin Taylor;Benjamin Laugelli
+LASE3559 Matthew Davis
+CS1010 Craig Dill
+CS1110 Mark Sherriff;Mary Smith
+CS1111 Craig Dill
+CS1112 James Cohoon
+CS1113 Thomas Horton
+CS1120 David Evans
+CS2102 David Edwards
+CS2110 David Edwards;Nada Basit
+CS2150 Aaron Bloomfield;Mark Floryan
+CS2190 Mark Floryan
+CS2330 Joanne Dugan
+CS2501 Luther Tychonievich
+CS3102 Gabriel Robins
+CS3240 Mary Smith
+CS3330 Luther Tychonievich
+CS4102 Abhi Shelat
+CS4444 Andrew Grimshaw
+CS4501 John Stankovic;Westley Weimer;Mary Soffa;Thomas Pinckney
+CS4630 Wei Wang
+CS4710 Dimitrios Diochnos
+CS4720 Mark Sherriff
+CS4730 Mark Floryan
+CS4740 Marty Humphrey
+CS4750 Nada Basit
+CS4753 Alfred Weaver
+CS4810 Connelly Barnes
+CS4971 Aaron Bloomfield
+CS4980 Aaron Bloomfield;James Cohoon;Jack Davidson;David Evans;Mark Floryan;Andrew Grimshaw;Hongning Wang;Thomas Horton;Marty Humphrey;John Knight;Luther Tychonievich;Mohammad Mahmoody;Worthy Martin;Yanjun Qi;Gabriel Robins;Abhi Shelat;Mark Sherriff;Kevin Skadron;Mary Soffa;John Stankovic;Kevin Sullivan;Alfred Weaver;Westley Weimer;Cameron Whitehouse;Connelly Barnes;Nada Basit;David Edwards;Mary Smith;Baishakhi Ray;Samira Khan
+CS4993 Westley Weimer;Mary Soffa;Andrew Grimshaw;Jack Davidson;John Knight;David Edwards;Aaron Bloomfield;James Cohoon;Kevin Skadron;Mark Sherriff;Kevin Sullivan;Alfred Weaver;Thomas Horton;Cameron Whitehouse;Abhi Shelat;Worthy Martin;Gabriel Robins;John Stankovic;Mark Floryan;Luther Tychonievich;Nada Basit;Yanjun Qi;Marty Humphrey;Mohammad Mahmoody;David Evans;Hongning Wang;Mary Smith;Baishakhi Ray;Samira Khan;Connelly Barnes
+CS4998 Westley Weimer;Connelly Barnes;Nada Basit;Aaron Bloomfield;James Cohoon;Jack Davidson;David Evans;Mark Floryan;Andrew Grimshaw;Hongning Wang;Thomas Horton;Marty Humphrey;John Knight;Mohammad Mahmoody;Worthy Martin;Gabriel Robins;Abhi Shelat;Mark Sherriff;Kevin Skadron;Mary Soffa;John Stankovic;Kevin Sullivan;Luther Tychonievich;Alfred Weaver;Cameron Whitehouse
+CS5014 Katherine Holcomb;Thomas Hall
+CS6190 Kevin Skadron
+CS6354 Samira Khan
+CS6444 Andrew Grimshaw
+CS6501 Alfred Weaver;Wei Wang;Hongning Wang;Baishakhi Ray;Kevin Sullivan
+CS6750 Abdeltawab Hendawi
+CS6993 Thomas Horton;Kevin Skadron;Nada Basit;Mohammad Mahmoody
+CS7993 Kevin Skadron;John Stankovic;Yanjun Qi;Mary Soffa;Mohammad Mahmoody;Baishakhi Ray;Samira Khan
+CS7995 Jack Davidson;David Evans;Connelly Barnes;Marty Humphrey;Kevin Skadron;Mary Soffa;John Stankovic;John Knight;Westley Weimer;Alfred Weaver;Kevin Sullivan;Abhi Shelat;Andrew Grimshaw;Yanjun Qi;Hongning Wang;Baishakhi Ray;Samira Khan;Cameron Whitehouse
+CS8524 Kevin Sullivan
+CS8897 Jack Davidson;David Evans;Mohammad Mahmoody;Connelly Barnes;Marty Humphrey;Kevin Skadron;Mary Soffa;John Stankovic;Westley Weimer;Thomas Horton;James Cohoon;Mark Sherriff;Aaron Bloomfield;Gabriel Robins;Yanjun Qi;Worthy Martin;John Knight;David Edwards;Cameron Whitehouse;Nada Basit;Mary Smith;Mark Floryan;Luther Tychonievich;Hongning Wang;Baishakhi Ray;Samira Khan
+CS8999 Cameron Whitehouse;James Cohoon;Jack Davidson;David Evans;James French;Andrew Grimshaw;Sudhanva Gurumurthi;Thomas Horton;Marty Humphrey;John Knight;Worthy Martin;Mohammad Mahmoody;Gabriel Robins;Abhi Shelat;Kevin Skadron;Mary Soffa;Connelly Barnes;John Stankovic;Kevin Sullivan;Alfred Weaver;Westley Weimer;Yanjun Qi;Hongning Wang;Baishakhi Ray;Samira Khan
+CS9897 James Cohoon;Aaron Bloomfield;Mary Smith;Luther Tychonievich;Jack Davidson;David Evans;James French;Andrew Grimshaw;Worthy Martin;David Edwards;Mark Floryan;Thomas Horton;Marty Humphrey;Mohammad Mahmoody;John Knight;Nada Basit;Connelly Barnes;Abhi Shelat;Mark Sherriff;Kevin Skadron;Mary Soffa;Yanjun Qi;John Stankovic;Kevin Sullivan;Alfred Weaver;Westley Weimer;Gabriel Robins;Cameron Whitehouse;Baishakhi Ray;Samira Khan
+CS9999 Marty Humphrey;Cameron Whitehouse;Alfred Weaver;John Stankovic;James Cohoon;Jack Davidson;David Evans;James French;Andrew Grimshaw;Sudhanva Gurumurthi;Mohammad Mahmoody;Connelly Barnes;John Knight;Worthy Martin;Yanjun Qi;Gabriel Robins;Abhi Shelat;Kevin Skadron;Mary Soffa;Kevin Sullivan;Westley Weimer;Baishakhi Ray;Samira Khan
+EDHS4030 Filip Loncke
+LING4993 Lise Dobrin
+LING4994 Eve Danziger;Emily Scida
+LING4995 Lise Dobrin
+LING5090 Janay Crabtree
+LING5101 Elizabeth Wittner
+LING5102 Elizabeth Wittner
+LING5103 Jane Boatner;Janay Crabtree
+LING8998 Lise Dobrin
+LING9010 Filip Loncke
+LNGS5000 Mark Elson
+ARH3201 Cammy Brothers
+EDLF7605 Diane Hoffman
+ELA1559 Gail Hunger;Karlin Luedtke;Samuel Green
+ELA2890 Kathryn Densberger
+ELA3559 Everette Fortner
+ELA4559 Everette Fortner
+NESC3960 George Bloom
+NESC3985 Alev Erisir
+NESC3995 George Bloom
+NESC4960 George Bloom
+NESC4980 George Bloom
+NESC5330 William Levy
+NESC7010 John Lukens
+NESC7060 Scott Zeitlin
+NESC7200 Michael Scott
+NESC8020 Manoj Patel
+NESC8080 Mark Beenhakker
+NESC8160 Manoj Patel
+NESC8250 Alban Gaultier
+NESC9998 Tobias Grossmann;Jose Provencio;Edward Bertram;George Bloom;Peter Brunjes;Barry Condron;Jeffrey Corwin;Noelle Dwyer;Alev Erisir;Howard Goodkin;Ali Guler;Patrice Guyenet;David Hill;Jay Hirsh;Jaideep Kapur;Jonathan Kipnis;Kevin Lee;Chien Li;Xiaowei Lu;Kevin Lynch;James Mandell;Manoj Patel;Edward Perez;Kenneth Pfister;Benjamin Purow;Emilie Rissman;Christine Thisse;Slobodan Todorovic;Vesna Todorovic;Barbara Venton;Cedric Williams;Bettina Winckler;Scott Zeitlin;Jun Zhu;Zhiyi Zuo;Wendy Lynch;Jessica Connelly;Christopher Deppmann;Sarah Kucenas;Thomas Druzgal;Mark Beenhakker;Michael Scott;Robert Grainger;Chad Meliza;Alban Gaultier;Tajie Harris;Michael Mc;Kyle Lampe;James Stone;John Lukens
+NESC9999 Douglas Bayliss;Tobias Grossmann;Edward Bertram;George Bloom;Peter Brunjes;Jose Provencio;Barry Condron;Jeffrey Corwin;Noelle Dwyer;Alev Erisir;Howard Goodkin;Ali Guler;Barry Gumbiner;Patrice Guyenet;David Hill;Jay Hirsh;Jaideep Kapur;Jonathan Kipnis;Kevin Lee;William Levy;Chien Li;Xiaowei Lu;Kevin Lynch;James Mandell;Manoj Patel;Edward Perez;Kenneth Pfister;Benjamin Purow;Emilie Rissman;Christine Thisse;Slobodan Todorovic;Vesna Todorovic;Barbara Venton;Cedric Williams;Bettina Winckler;Scott Zeitlin;Jun Zhu;Zhiyi Zuo;Wendy Lynch;Jessica Connelly;Christopher Deppmann;Sarah Kucenas;Thomas Druzgal;Mark Beenhakker;Robert Grainger;Chad Meliza;Alban Gaultier;Tajie Harris;Michael Mc;Kyle Lampe;Michael Scott;James Stone;John Lukens
+ETP4010 Vivian Thomson
+PST4870 Michael Smith
+PST4989 Michael Smith
+PST4993 Michael Smith
+PST4999 Michael Smith
+GDS3020 David Edmunds
+GDS3113 Clifford Maxwell
+GDS3114 David Edmunds
+GDS4952 Melissa Love
+GDS4962 Dudley Doane
+GDS4991 Laura Goldblatt
+GDS4993 Richard Handler;Robert Brown;Rebecca Dillingham;Robert Swap;David Edmunds;Clifford Maxwell
+GSGS2030 Michael Levenson;Michael Sears;Anne Galvin;Claire Eager
+GSGS3559 Laura Goldblatt;Gerard White
+GSGS4993 Geeta Patel
+GSSJ4991 Peter Furia
+GSSJ4993 Peter Furia
+GSVS1559 John Bean
+GSVS2150 Phoebe Crisman
+GSVS4991 Phoebe Crisman
+GSVS4993 Phoebe Crisman;John Bean
+PAVS4500 Jennifer Rubenstein;Herbert Tucker;Toluwalogo Odumosu;Diane Pappas;Mark Edmundson;Andrea Press;Jagdish Kumar;Antonia Lolordo;Katharine Balfour;Philip Zelikow
+IHGC3559 Gretchen York
+USEM1570 Richard Steeves;Robert Patterson;Stephen Plaskon;Arlene Keeling
+ARCH1010 Peter Waldman
+ARH1020 Sheila Crane;Allyson Healey;Jinchao Zhao;Nenette Arroyo
+APMA1110 Stacie Pisano;Monika Abramenko
+APMA1501 Gianluca Guadagni
+APMA2120 Manouchehr Mohajeri;Diana Morris;Hui Ma;Eduardo Socolovsky;Gianluca Guadagni
+APMA2130 Julia Spencer;Robert Johnson;John Dorning;Gianluca Guadagni
+APMA3080 Diana Morris;Monika Abramenko;Daria Snider
+APMA3100 Bernard Fulgham;Daria Snider
+APMA3110 Hui Ma;James Lark;Julia Spencer;Stacie Pisano
+APMA3120 James Lark
+APMA5070 Gianluca Guadagni
+APMA6420 Houston Wood
+APMA6993 Houston Wood
+APMA7548 John Dorning
+APMA8897 Stacie Pisano;Monika Abramenko;Gianluca Guadagni;Daria Snider
+APMA9897 Houston Wood
+CPE7993 Joanne Dugan
+CPE7995 Joanne Dugan
+CPE9999 Laura Barnes
+ECE2066 Scott Acton
+ECE2330 Joanne Dugan
+ECE2630 Todd Delong
+ECE2660 Harry Powell
+ECE3250 Lloyd Harriott
+ECE3251 Lloyd Harriott
+ECE3430 Todd Delong
+ECE3750 Andrea Vaccari
+ECE4140 Keith Williams
+ECE4155 Nathan Swami
+ECE4265 Nicolas Barker
+ECE4435 Ronald Williams
+ECE4502 Harry Powell;Avik Ghosh;Joanne Dugan;Maite Brandt
+ECE4550 Mircea Stan;Jiaqi Gong;Joanne Dugan;Andreas Beling
+ECE4750 Daniel Weller
+ECE4784 Stephen Wilson
+ECE4860 Gang Tao
+ECE4908 James Aylor;John Lach
+ECE5150 Nathan Swami
+ECE5260 Nicolas Barker
+ECE5502 Todd Delong
+ECE5755 Daniel Weller
+ECE6140 Keith Williams
+ECE6155 Nathan Swami
+ECE6265 Nicolas Barker
+ECE6502 Mool Gupta;Avik Ghosh;Steven Bowers;Zongli Lin;Harry Powell
+ECE6555 William Guilford
+ECE6642 Joe Campbell
+ECE6717 Toby Berger
+ECE6750 Daniel Weller
+ECE6784 Stephen Wilson
+ECE6993 Malathi Veeraraghavan;Scott Acton;Nathan Swami;Benton Calhoun;Stephen Wilson
+ECE6996 Stephen Wilson
+ECE7209 Robert Weikle
+ECE7856 Zongli Lin
+ECE7995 Gang Tao;Malathi Veeraraghavan;Mircea Stan
+ECE8897 Stephen Wilson
+ECE8999 Scott Acton;Toby Berger;Travis Blalock;Maite Brandt;Benton Calhoun;Joanne Dugan;Tatiana Globus;Michael Gorman;Mool Gupta;John Lach;Arthur Lichtenberger;Zongli Lin;Phineas Marshall;Gang Tao;Malathi Veeraraghavan;Robert Weikle;Ronald Williams;Mircea Stan;John Bean;Nathan Swami;Joe Campbell;Lloyd Harriott;Stephen Wilson;Steven Bowers;Nicolas Barker
+ECE9999 Scott Acton;Nicolas Barker;John Bean;Toby Berger;Travis Blalock;Richard Bradley;Maite Brandt;Benton Calhoun;Joe Campbell;Joanne Dugan;Avik Ghosh;Tatiana Globus;Michael Gorman;Mool Gupta;Lloyd Harriott;Archie Holmes;John Lach;Arthur Lichtenberger;Zongli Lin;Phineas Marshall;Michael Reed;Mircea Stan;Nathan Swami;Gang Tao;Malathi Veeraraghavan;Robert Weikle;Ronald Williams;Stephen Wilson;Andreas Beling;Daniel Weller;Steven Bowers;Luke Dahl;James Aylor
+BME1501 Shayn Peirce
+BME2000 William Guilford
+BME2102 George Christ
+BME2104 Kevin Janes
+BME2220 Richard Price
+BME3030 David Chen
+BME3090 Alexander Klibanov;Timothy Allen
+BME3240 Brian Helmke
+BME3636 William Levy
+BME4064 Timothy Allen
+BME4280 Silvia Blemker
+BME4550 Brian Helmke;Mete Civelek;Yong Kim
+BME4783 Frederick Epstein
+BME4993 William Guilford;Shayn Peirce
+BME4995 William Guilford;Kimberly Kelly;Shayn Peirce;Kevin Janes;Jason Papin;Jeffrey Holmes;Yong Kim;Timothy Allen;Richard Price;Jennifer Munson;Michael Lawrence;Craig Meyer;Brent French;Brian Helmke;Alexander Klibanov;Silvia Blemker;Jeffrey Saucerman;Paul Yates;John Herr;Michael Salerno;David Chen;John Hossack;George Christ;Song Hu
+BME6030 David Chen
+BME6102 Jeffrey Holmes
+BME6104 George Christ
+BME6280 Silvia Blemker
+BME6311 Craig Meyer
+BME6550 Eli Zunder;Jason Papin;Peter Kasson;Kimberly Kelly
+BME8782 Craig Meyer
+BME8995 Richard Price;Brian Helmke;Shayn Peirce;Erik Hewlett;John Hossack
+BME8999 Silvia Blemker;Song Hu;Frederick Epstein;Brent French;Jaime Mata;William Guilford;Brian Helmke;Jeffrey Holmes;John Hossack;Kevin Janes;Kimberly Kelly;Peter Kasson;Michael Lawrence;Craig Meyer;Jason Papin;Shayn Peirce;Richard Price;Jeffrey Saucerman;Erik Hewlett;Mark Williams;Michael Salerno;Brant Isakson;Jennifer Munson;Gregory Gerling;George Christ;Eli Zunder;Shawn Russell;Matthew Panzer
+BME9999 Stuart Berr;Frederick Epstein;Brent French;William Guilford;Brian Helmke;Jeffrey Holmes;John Hossack;Kevin Janes;Kimberly Kelly;Richard Kent;Alexander Klibanov;Michael Lawrence;Craig Meyer;John Mugler;Jason Papin;Shayn Peirce;Richard Price;Jeffrey Saucerman;Michael Salerno;Mark Williams;Silvia Blemker;Peter Kasson;Song Hu
+EP7000 Petra Reinke
+EP7592 John Dorning
+EP8970 William Johnson
+EP8999 Sean Agnew;Raul Baragiola;James Demas;John Dorning;Dana Elzey;James Fitz;Jerrold Floro;Richard Gangloff;James Howe;Robert Hull;Robert Johnson;William Johnson;Robert Kelly;Craig Meyer;Wladek Minor;Matthew Neurock;Blaine Norum;Joseph Poon;Petra Reinke;Charles Sackett;John Scully;Gary Shiflet;William Soffa;Haydn Wadley;Mark Williams;Stuart Wolf;Giovanni Zangari;Leonid Zhigilei;Ian Harrison
+EP9970 William Johnson
+EP9999 Sean Agnew;Raul Baragiola;James Demas;John Dorning;Dana Elzey;James Fitz;Jerrold Floro;Richard Gangloff;James Howe;Robert Hull;Robert Johnson;William Johnson;Robert Kelly;Craig Meyer;Wladek Minor;Matthew Neurock;Blaine Norum;Joseph Poon;Petra Reinke;Charles Sackett;John Scully;Gary Shiflet;William Soffa;Haydn Wadley;Mark Williams;Stuart Wolf;Giovanni Zangari;Leonid Zhigilei;Ian Harrison;Pamela Norris;Patrick Hopkins
+MSE2010 Robert Kelly
+MSE2090 Jerrold Floro;Stephen Mc;George Cahen
+MSE3050 Leonid Zhigilei
+MSE3080 John Scully
+MSE3101 Elizabeth Opila
+MSE4210 James Fitz
+MSE4270 Leonid Zhigilei
+MSE4320 James Burns
+MSE4960 Haydn Wadley;Giovanni Zangari;Sean Agnew;Petra Reinke;Leonid Zhigilei;John Scully;Jerrold Floro;James Groves;Elizabeth Opila;James Fitz;Eric Loth;Robert Kelly;Michal Sabat;James Burns;Stephen Mc;John Dorning
+MSE6020 Sean Agnew
+MSE6080 Giovanni Zangari
+MSE6130 James Howe
+MSE6167 Petra Reinke
+MSE6240 Gary Shiflet
+MSE6270 Leonid Zhigilei
+MSE6320 James Burns
+MSE6555 William Guilford
+MSE7592 James Howe
+MSE7820 Petra Reinke
+MSE8970 William Johnson
+MSE8999 Sean Agnew;Raul Baragiola;James Burns;George Cahen;Dana Elzey;Stephen Mc;James Fitz;Jerrold Floro;James Groves;Lloyd Harriott;James Howe;Robert Johnson;William Johnson;Robert Kelly;Petra Reinke;John Scully;Gary Shiflet;Pamela Norris;Haydn Wadley;Giovanni Zangari;Leonid Zhigilei;Elizabeth Opila;Jiwei Lu
+MSE9970 William Johnson
+MSE9999 Sean Agnew;Raul Baragiola;George Cahen;Dana Elzey;James Fitz;Jerrold Floro;James Groves;Lloyd Harriott;James Howe;Robert Johnson;William Johnson;Robert Kelly;Petra Reinke;John Scully;Gary Shiflet;David Green;Haydn Wadley;Giovanni Zangari;Leonid Zhigilei;Elizabeth Opila;Jiwei Lu;James Burns;Patrick Hopkins;Stephen Mc
+CHE2202 David Green
+CHE2216 Gaurav Giri
+CHE3318 Robert Davis
+CHE3322 Giorgio Carta
+CHE3347 Kyle Lampe
+CHE3398 Eric Anderson
+CHE4476 Eric Anderson
+CHE4562 Michael King
+CHE4995 Roseanne Ford;Giorgio Carta;Robert Davis;Gary Koenig;Eric Anderson;David Green;Joshua Choi;Geoffrey Geise;Kyle Lampe;Gaurav Giri;Michael Shirts
+CHE5562 Michael King
+CHE6447 Kyle Lampe
+CHE6476 Eric Anderson
+CHE6618 Gary Koenig
+CHE6625 Geoffrey Geise
+CHE6630 Roseanne Ford
+CHE7796 Joshua Choi
+CHE7993 Giorgio Carta
+CHE8897 David Green
+CHE8998 Giorgio Carta;Robert Davis;Joshua Choi;Roseanne Ford;David Green;Kyle Lampe;Geoffrey Geise;Gary Koenig;Gaurav Giri;Michael Shirts
+CHE9897 David Green
+CHE9999 Roseanne Ford;Giorgio Carta;Robert Davis;Kyle Lampe;Joshua Choi;David Green;Geoffrey Geise;Gaurav Giri;Matthew Neurock;Michael Shirts;Gary Koenig
+MAE2000 Shawn Russell
+MAE2100 Haibo Dong
+MAE2310 Richard Kent
+MAE2320 Shawn Russell
+MAE3010 Kathryn Thornton
+MAE3140 Patrick Hopkins
+MAE3210 John Jones
+MAE3220 Rita Schnipke
+MAE3310 Robert Rockwell
+MAE3620 John Thacker
+MAE3730 Jim Mc
+MAE3820 Gabriel Laufer
+MAE3840 Gabriel Laufer
+MAE4280 Silvia Blemker
+MAE4502 David Sheffler;George Cahen
+MAE4512 Gavin Garner;Eric Loth;Haibo Dong;Pamela Norris
+MAE4514 David Sheffler;Kathryn Thornton;Eric Loth
+MAE4605 Xiaodong Li
+MAE4620 Roger Fittro;Gavin Garner;Rita Schnipke
+MAE4660 Jim Mc
+MAE4680 Larry Richards
+MAE4700 Christopher Goyne;Kathryn Thornton
+MAE4710 Gavin Garner
+MAE4730 Carl Knospe
+MAE4740 Jason Kerrigan
+MAE6070 Baoxing Xu
+MAE6080 Jeff Crandall
+MAE6230 Jason Kerrigan
+MAE6420 Houston Wood
+MAE6430 Larry Richards
+MAE6592 Houston Wood
+MAE6710 Matthew Panzer
+MAE7510 Eric Loth
+MAE7660 Zongli Lin
+MAE8591 Eric Loth
+MAE8897 Harsha Chelliah;Kathryn Thornton;Patrick Hopkins;Gavin Garner;Haibo Dong;Jim Mc;Gabriel Laufer;Jason Kerrigan;Houston Wood;Matthew Panzer;John Thacker;Hilary Bart
+MAE8999 Hossein Haj;Hilary Bart;Silvia Blemker;Jeff Crandall;Shawn Russell;Christopher Goyne;Jim Mc;Richard Kent;Robert Lindberg;Houston Wood;Pamela Norris;Carl Knospe;Gavin Garner;Eric Loth;Haibo Dong;Matthew Panzer;Jason Kerrigan;Baoxing Xu;Patrick Hopkins;Xiaodong Li;Harsha Chelliah
+MAE9897 Harsha Chelliah;Houston Wood;Hilary Bart;Christopher Goyne;John Thacker;Patrick Hopkins;Gavin Garner;Haibo Dong;Jim Mc;Gabriel Laufer;Jason Kerrigan;Matthew Panzer
+MAE9999 Matthew Panzer;Hilary Bart;Patrick Hopkins;Harsha Chelliah;Jeff Crandall;Christopher Goyne;Hossein Haj;Gregory Gerling;Zongli Lin;Richard Kent;Shawn Russell;Jim Mc;Pamela Norris;Jason Kerrigan;Xiaodong Li;Haydn Wadley;Houston Wood;Silvia Blemker;Robert Lindberg;Eric Loth;Matthew Reidenbach;Nicolas Barker;Haibo Dong;Baoxing Xu
+CE2020 Brian Smith
+CE2100 Teresa Culver
+CE2110 Teresa Culver
+CE3220 Jonathan Goodall
+CE3310 Thomas Baber
+CE3400 Byungkyu Park
+CE3402 Byungkyu Park
+CE3700 Devin Harris
+CE3702 Devin Harris
+CE3800 Teresa Culver
+CE4000 Jose Gomez
+CE4160 Lisa Peterson
+CE4220 Richard Miksad
+CE4500 Brian Smith;Lindsay Burden;Richard Miksad
+CE4991 Brian Smith
+CE4995 Michael Fontaine;Teresa Culver;James Smith;Andres Clarens;Brian Smith;Lisa Peterson;Jose Gomez;Richard Miksad;Thomas Baber;Devin Harris;Osman Ozbulut;Jonathan Goodall;John Miller;Byungkyu Park;Lindsay Burden
+CE5240 James Smith
+CE6130 Kuo Tian
+CE6240 James Smith
+CE6260 Lisa Peterson
+CE6410 John Miller
+CE6450 Michael Fontaine
+CE6470 Tong Chen
+CE6740 Thomas Baber
+CE6993 Andres Clarens;Michael Brown;Teresa Culver;Jose Gomez;Osman Ozbulut;Devin Harris;Lindsay Burden;Steven Chase;Jonathan Goodall;John Miller;Michael Fontaine;Tong Chen;Thomas Baber
+CE6995 Lisa Peterson;Thomas Baber;Steven Chase;Tong Chen;Brian Smith;Byungkyu Park;Devin Harris;Osman Ozbulut;Lindsay Burden;Jose Gomez;Jonathan Goodall;Michael Fontaine;John Miller
+CE7001 Lisa Peterson
+CE7340 Osman Ozbulut
+CE7993 Tong Chen;James Smith;Steven Chase;Jose Gomez;Byungkyu Park;Jonathan Goodall;John Miller;Michael Fontaine;Lindsay Burden;Devin Harris;Osman Ozbulut
+CE7995 Andres Clarens;Tong Chen
+CE8001 Thomas Baber;James Smith;Tong Chen;Steven Chase;Andres Clarens;Michael Fontaine;Richard Miksad;Michael Brown;Teresa Culver;Lisa Peterson;Jose Gomez;Byungkyu Park;Brian Smith;Lindsay Burden;Osman Ozbulut;Devin Harris;Jonathan Goodall;John Miller
+CE8999 Thomas Baber;Michael Brown;Steven Chase;Andres Clarens;Lisa Peterson;Teresa Culver;Tong Chen;Jonathan Goodall;Michael Fontaine;Jose Gomez;James Smith;Lindsay Burden;Richard Miksad;John Miller;Byungkyu Park;Brian Smith;Osman Ozbulut;Devin Harris
+CE9999 Thomas Baber;Michael Fontaine;John Miller;Steven Chase;Andres Clarens;Lisa Peterson;Teresa Culver;Tong Chen;Jonathan Goodall;Roseanne Ford;Richard Miksad;Byungkyu Park;James Smith;Brian Smith;Lindsay Burden;Osman Ozbulut;Devin Harris;Garrick Louis
+STS1500 Benjamin Laugelli
+STS1800 Lauren Purnell
+STS2500 Jong Min;Rebecca Perry;Deborah Johnson;Kent Wayland
+STS2760 David Slutzky
+STS2810 Douglas Muir
+STS2840 James Cheng
+STS2993 Dana Elzey
+STS3020 Rider Foley
+STS3110 Michael Gorman
+STS3500 Dean Roberts
+STS4500 Michael Gorman
+STS4600 Peter Norton;Rosalyn Berne;Lisa Messeri;Kathryn Neeley;Catherine Baritaud;Jong Min;Rider Foley;Toluwalogo Odumosu;Sean Ferguson;Caitlin Wylie;Michael Gorman
+STS4810 Douglas Muir
+STS4993 Michael Gorman
+SYS2048 Gregory Lewin
+SYS2055 Robert Bailey
+SYS2056 Robert Bailey
+SYS2202 Matthew Gerber
+SYS3034 Robert Bailey
+SYS3048 Gregory Lewin
+SYS3055 Robert Bailey
+SYS3060 Roman Krzysztofowicz;Quanquan Gu
+SYS3062 Stephen Patek
+SYS4000 James Lark
+SYS4054 Robert Bailey;Laura Barnes;Cody Fleming;Donald Brown;Abigail Flower;Gregory Gerling;Yacov Haimes;James Lambert;Gregory Lewin;James Aylor;Stephen Patek;Rupa Valdez;Quanquan Gu;William Scherer;Jennifer Lobo;Cameron Whitehouse;Joanne Dugan;David Sheffler
+SYS4582 Haoyi Xiong;Gregory Gerling;Inki Kim;Cody Fleming
+SYS4995 Michael Smith;Peter Beling;Donald Brown;Robert Bailey;Stephen Patek;Gregory Gerling;James Lark;Roman Krzysztofowicz;Gregory Lewin;William Scherer;Laura Barnes;Abigail Flower;Cody Fleming
+SYS6016 Abigail Flower
+SYS6018 William Basener
+SYS6023 Stephanie Guerlain
+SYS6050 Yacov Haimes
+SYS6097 Michael Smith;Robert Bailey;Peter Beling;Stephanie Guerlain;Yacov Haimes;Roman Krzysztofowicz;William Scherer;James Lark;Abigail Flower
+SYS6555 William Guilford
+SYS6582 Peter Beling;Gregory Gerling;Inki Kim;Cody Fleming
+SYS6993 Roman Krzysztofowicz;Laura Barnes;James Lambert;Quanquan Gu;Yacov Haimes;Matthew Gerber;Gregory Gerling;Abigail Flower
+SYS6995 Stephen Patek
+SYS7001 Roman Krzysztofowicz
+SYS7096 Matthew Gerber
+SYS7582 Zongli Lin
+SYS7993 Donald Brown;Peter Beling;William Scherer
+SYS8995 Barry Horowitz;Garrick Louis;Gregory Gerling;William Scherer;James Lambert;Matthew Gerber;Stephen Patek
+SYS8999 Robert Bailey;Peter Beling;Donald Brown;Matthew Gerber;Cody Fleming;Gregory Gerling;Laura Barnes;Yacov Haimes;Barry Horowitz;Roman Krzysztofowicz;James Lambert;Garrick Louis;Stephen Patek;Michael Smith;Inki Kim;William Scherer
+SYS9997 Robert Bailey;Peter Beling;Donald Brown;Laura Barnes;William Basener;Yacov Haimes;Roman Krzysztofowicz;Stephanie Guerlain;William Scherer;Michael Smith;Abigail Flower;Stephen Patek;James Lark;Gregory Gerling;Alfredo Garcia;Susan Donohue;Garrick Louis;Matthew Gerber;Quanquan Gu;Inki Kim
+SYS9999 Robert Bailey;Peter Beling;Donald Brown;Cody Fleming;Laura Barnes;Matthew Gerber;Gregory Gerling;Quanquan Gu;Yacov Haimes;Barry Horowitz;Roman Krzysztofowicz;James Lambert;Gerard Learmonth;Garrick Louis;Stephen Patek;William Scherer;Michael Smith;Jae Lee
+ENGR1420 Dana Elzey
+ENGR1559 John Bean
+ENGR1620 Susan Donohue;Ann Reimers
+ENGR2500 John Bean
+ENGR2595 Kimber Hawkey;Phoebe Crisman;Dana Elzey;Stephen Mc;James Groves;Jay Brown;Petra Reinke;James Burns
+ENGR2993 Michael Gorman;Toluwalogo Odumosu;Susan Donohue
+ENGR3501 Harold Morton
+ENGR3502 Stephen Wilson
+ENGR3580 Dana Elzey
+ENGR4020 James Groves
+ENGR4599 Mark Kester;Lauren Purnell;Timothy Allen
+ENGR4880 Jeanne Stahl
+EDHS2240 Elisabeth Pleszkoch
+EDHS2900 Edith Lawrence;Melissa Levy;Peter Sheras
+EDHS2950 Melissa Levy
+EDHS2995 Melissa Levy
+EDHS3055 Dewey Cornell
+EDHS3200 Paul Harris
+EDHS3250 Amanda Flora
+EDHS3500 Susan Bruce;Erica Perkins;Deirdre Feeney
+EDHS3895 Michael Mason
+EDHS4810 Walter Anderson
+EDHS4993 Amanda Williford;Edith Lawrence;Melissa Levy;Jane Hilton;Filip Loncke;Randall Robey;David Grissmer
+EDHS4995 Robert Pianta;Jason Downer;Edith Lawrence;Nicholas Barone;Bridget Hamre;Amanda Williford
+EDHS5050 Nicholas Barone
+EDHS5080 Kristin Roush
+EDHS5240 Elisabeth Pleszkoch
+EDHS5241 Michael Mason
+EDHS5500 Hillary Barry;Antoinette Thomas
+EDHS5993 Edith Lawrence;Randall Robey;Amanda Williford;Jane Hilton;Amanda Flora
+EDHS5995 Paul Harris;Blaire Cholewa;Hillary Schaefer
+EDHS7140 Jane Hilton
+EDHS7200 Paul Harris
+EDHS7220 Amanda Flora
+EDHS7240 Daphne Ingene
+EDHS7290 Erin Knape
+EDHS7300 Derick Williams
+EDHS7630 Peter Sheras
+EDHS7993 Antoinette Thomas;Filip Loncke;Jane Hilton
+EDHS8030 Randall Robey
+EDHS8130 Nicholas Barone
+EDHS8150 Robin Di
+EDHS8170 Jane Hilton
+EDHS8240 Elisabeth Pleszkoch
+EDHS8290 Antoinette Thomas
+EDHS8340 Blaire Cholewa
+EDHS8390 Derick Williams;Blaire Cholewa;Daphne Ingene
+EDHS8620 Peter Patrick
+EDHS8670 Amanda Williford
+EDHS8690 Ronald Reeve
+EDHS8691 Jane Hilton
+EDHS8700 Julia Blodgett;Joyce Matthews;Ronald Reeve;Peter Sheras;Amanda Williford
+EDHS8730 Edith Lawrence
+EDHS8750 Patrick Tolan
+EDHS8980 Jane Hilton
+EDHS8982 Shannon Trice;Amanda Flora;Andrew Tyer
+EDHS8998 Jane Hilton;Filip Loncke
+EDHS9761 Jason Downer
+EDHS9993 Joanna Lee;Ronald Reeve
+EDHS9995 Amanda Williford;Catherine Bradshaw;Patrick Tolan;Ann Loper;Dewey Cornell;Peter Sheras;Edith Lawrence;Ronald Reeve;Jason Downer
+EDHS9998 Peter Sheras;Jane Hilton;Ronald Reeve;Robert Pianta;Dewey Cornell;Filip Loncke;Bridget Hamre;Ann Loper;Edith Lawrence;Patrick Tolan;Jason Downer;Amanda Williford;Anita Mc;Catherine Bradshaw
+EDHS9999 Filip Loncke;Catherine Bradshaw;Antoinette Thomas;Ronald Reeve;Dewey Cornell;Ann Loper;Amanda Williford;Robert Pianta;Patrick Tolan;Edith Lawrence;Jason Downer;Peter Sheras;Anita Mc;Bridget Hamre
+EDIS2010 Vivien Chabalengula;Jacob Bennett;Eleanor Wilson;Stephen Plaskon
+EDIS2880 Vivien Chabalengula;Jacob Bennett;Eleanor Wilson;Stephen Plaskon
+EDIS2920 Jennifer Maeng
+EDIS3020 Michael Kennedy
+EDIS3450 Emily Barton;Vivien Chabalengula;Mable Kinzie
+EDIS3881 Emily Bowling;Kathryn Alves
+EDIS3882 Amanda Allen
+EDIS3887 Hannah Mathews
+EDIS4878 Amanda Kibler
+EDIS4881 Jillian Mc
+EDIS4882 Natasha Heny
+EDIS4883 Ruth Ferree
+EDIS4884 Joe Garofalo
+EDIS4885 Frackson Mumba
+EDIS4886 Paul Yoder
+EDIS4887 Michael Kennedy;Mira Williams
+EDIS4889 Barbara Boyce
+EDIS5000 Michael Kennedy;Marie Black
+EDIS5011 Patricia Jennings;Abigail Kayser
+EDIS5023 Adria Hoffman
+EDIS5025 Susan Mintz
+EDIS5030 Amanda Allen;Jennifer Pease
+EDIS5040 Michael Solis
+EDIS5041 John Lloyd
+EDIS5051 Frackson Mumba
+EDIS5075 Stephanie Moore
+EDIS5100 Paige Pullen
+EDIS5110 Paige Pullen
+EDIS5120 Stacy Dean
+EDIS5140 Michael Kennedy;Mira Williams
+EDIS5141 Wendy Rodgers
+EDIS5150 Donna Hadden
+EDIS5210 Stephen Plaskon
+EDIS5221 Latisha Hayes
+EDIS5230 Paige Pullen
+EDIS5300 Beth Williams
+EDIS5310 Ottilie Austin
+EDIS5320 Michael Solis
+EDIS5330 Robert Tai
+EDIS5340 Patrice Grimes;Katie Loftin
+EDIS5401 Natasha Heny
+EDIS5409 Diane Schnoor
+EDIS5410 Elise Harrison
+EDIS5411 Latisha Hayes
+EDIS5422 Sara Cranford
+EDIS5423 Ruth Ferree
+EDIS5435 Isabel Sawyer
+EDIS5440 Glen Bull
+EDIS5451 Joe Garofalo
+EDIS5470 Amanda Kibler;Edward Fox
+EDIS5480 Frank Dinicola
+EDIS5490 Ruth Ferree
+EDIS5500 Hallie Smith;Jeremy Townley
+EDIS5601 Mary Fitzpatrick
+EDIS5710 Michael Mc
+EDIS5740 Latisha Hayes;Julie Gray;Carrie Simkin
+EDIS5760 Ottilie Austin
+EDIS5877 Stacy Dean;Shalyn Lapke
+EDIS5881 Robert Tai
+EDIS5887 Adria Hoffman
+EDIS5888 William Therrien
+EDIS5993 Stephanie Van;Paige Pullen;Glen Bull;Susan Mintz;Mable Kinzie;Patrice Grimes;John Lloyd;Jennifer Chiu;Carolyn Callahan;Ruth Ferree;Joe Garofalo;Michael Kennedy;Frackson Mumba
+EDIS7000 Linda Lohr
+EDIS7100 Stephanie Van
+EDIS7220 Tracy Missett
+EDIS7230 Cheryll Adams
+EDIS7250 Rebecca Harrison
+EDIS7270 Caroline Eidson
+EDIS7310 Diane Schnoor;Stephanie Hodde
+EDIS7700 Mary Abouzeid;Jeradi Cohen;Gail Lovette
+EDIS7710 Michael Mc
+EDIS7720 Ottilie Austin;Gail Lovette
+EDIS7751 Mary Abouzeid;Carrie Simkin
+EDIS7800 Susan Mintz
+EDIS7991 Peter Youngs;Ruth Ferree;Eleanor Wilson;Matthew Reames
+EDIS7993 Catherine Brighton;Marcia Invernizzi;Jennifer Chiu;Paige Pullen;John Lloyd;Stephen Plaskon;Latisha Hayes;Joe Garofalo;Glen Bull;Amanda Kibler;Mable Kinzie;Sara Dexter;Stephanie Moore;Carolyn Callahan;Peter Youngs;Natasha Heny;Robert Tai;Stephanie Van
+EDIS8191 Peter Youngs
+EDIS8980 Carolyn Callahan;Glen Bull
+EDIS8982 Susan Mintz;Stephanie Van;Catherine Brighton
+EDIS8984 Latisha Hayes;Marcia Invernizzi
+EDIS8987 Carolyn Callahan
+EDIS8998 Mable Kinzie;William Ferster
+EDIS8999 Stephen Plaskon;Susan Mintz;Robert Tai;Patrice Grimes
+EDIS9450 Joe Garofalo
+EDIS9740 Stephanie Van;Paige Pullen;Amanda Kibler;Carol Tomlinson;Susan Mintz;John Lloyd;Catherine Brighton;Latisha Hayes;Stanley Trent;Ottilie Austin;Mary Abouzeid;Patricia Jennings;Michael Solis;Patrice Grimes;Jennifer Pease;Adria Hoffman
+EDIS9991 Stephanie Van;Susan Mintz;Stephen Plaskon;Carolyn Callahan;Catherine Brighton;Patrice Grimes;Joe Garofalo;Marcia Invernizzi
+EDIS9993 Jennifer Chiu;Stephen Plaskon;Michael Kennedy;Robert Berry;Stephanie Van;Paige Pullen;Marcia Invernizzi;Julia Cohen;Carolyn Callahan;Sara Dexter;Stanley Trent;Catherine Brighton;John Lloyd;Susan Mintz;Mable Kinzie;Stephanie Moore;Jennifer Maeng;William Therrien;Peter Youngs;Adria Hoffman
+EDIS9995 Stephen Plaskon;Julia Cohen;Robert Tai;John Lloyd;Glen Bull;Carolyn Callahan;Jennifer Chiu;Sonia Cabell;Marcia Invernizzi
+EDIS9998 Marcia Invernizzi;Paige Pullen;Michael Solis;Frackson Mumba;Stephanie Van;Julia Cohen;Patricia Jennings;Carolyn Callahan;Stanley Trent;Mable Kinzie;Jennifer Chiu;Michael Mc;Glen Bull;Robert Berry;Robert Pianta;Amanda Kibler
+EDIS9999 Stephen Plaskon;Marcia Invernizzi;Sonia Cabell;Julia Cohen;Robert Pianta;William Therrien;Michael Mc;Robert Berry;Patrice Grimes;Susan Mintz;Paige Pullen;Stephanie Van;Stanley Trent;Joe Garofalo;Robert Tai;John Lloyd;Mary Abouzeid;Jennifer Chiu;Mable Kinzie;Carolyn Callahan;Amanda Kibler;Michael Kennedy;Catherine Brighton
+EDLF1200 James Wyckoff
+EDLF3150 Natalia Palacios
+EDLF3160 Sara Rimm
+EDLF3240 Alexander Hyres;Wendy Wood
+EDLF3440 Diane Whaley
+EDLF3460 Joanna Lee
+EDLF4605 Matthew Robinson
+EDLF4620 Rachel Wahl
+EDLF4993 Joanna Lee;Walter Heinecke;Sara Rimm;Claire Cameron;Claire Kaplan
+EDLF5010 Eileen Merritt
+EDLF5160 Laurie Grocholski
+EDLF5270 Diane Whaley
+EDLF5330 Vivian Wong
+EDLF5500 Erik Ruzek;Sara Rimm
+EDLF5700 Joanna Lee
+EDLF5710 Diane Hoffman
+EDLF5980 Bridget Hamre;Christopher Hulleman;Nancy Deutsch;Sara Rimm;Edith Lawrence;Vivian Wong
+EDLF5985 Derrick Alridge
+EDLF5993 Christian Steinmetz;Vivian Wong;Claire Kaplan;Tonya Moon;Eileen Merritt;Diane Hoffman;Walter Heinecke;Daniel Driscoll
+EDLF6080 Daniel Player
+EDLF7060 Walter Heinecke
+EDLF7140 David Eddy
+EDLF7200 Natalia Palacios
+EDLF7290 Eileen Merritt
+EDLF7390 Carol Tomlinson
+EDLF7402 Nancy Deutsch
+EDLF7403 Joseph Meyer
+EDLF7404 Walter Heinecke
+EDLF7420 Ji Hoon
+EDLF7601 Daniel Driscoll
+EDLF7603 Rachel Wahl
+EDLF7606 Julie Horan
+EDLF7701 Daniel Driscoll
+EDLF7805 Kim Dockery
+EDLF7808 Stewart Roberson;Thomas Taylor
+EDLF7812 Daniel Duke
+EDLF7813 Patricia Wiedel;Melissa Morgan
+EDLF7993 Christian Steinmetz
+EDLF8310 Vivian Wong
+EDLF8315 Luke Miller
+EDLF8340 Joseph Meyer
+EDLF8350 Timothy Konold
+EDLF8400 Walter Heinecke
+EDLF8500 John Casteen;David Eddy
+EDLF8655 Christian Steinmetz;Juan Garibay
+EDLF8659 Barry Meek
+EDLF8662 Juan Garibay
+EDLF8680 Sarah Turner
+EDLF8823 Daniel Duke
+EDLF8985 Christian Steinmetz
+EDLF8988 Pamela Tucker;Dennise Berry;Dallas Hitt
+EDLF8991 Christian Steinmetz;Wendy Wood
+EDLF8998 Christopher Hulleman;Joanna Lee;Diane Whaley;Derrick Alridge;Nancy Deutsch;Sara Rimm;Diane Hoffman;Eileen Merritt;Jessica Whittaker;Jennifer Locasale;Natalia Palacios;Daphna Bassok
+EDLF8999 Diane Hoffman
+EDLF9740 Sara Rimm;Natalia Palacios;Eileen Merritt;James Wyckoff;Christian Steinmetz;Diane Whaley
+EDLF9991 Daniel Duke;Carol Tomlinson;Sara Dexter;Karen Inkelas;Brian Pusser;Pamela Tucker;Michelle Young;David Eddy;Dennise Berry
+EDLF9993 Timothy Konold;Pamela Tucker;Carol Tomlinson;Joseph Meyer;Justin Thompson;Nancy Deutsch;Ji Hoon;Diane Hoffman;Joanna Lee;James Wyckoff;Daphna Bassok;Tonya Moon;Brian Pusser;Karen Inkelas;Michelle Young;Derrick Alridge;Sara Dexter;Christopher Hulleman
+EDLF9995 Amanda Williford;Timothy Konold;Dennise Berry;Sonia Cabell;Jennifer Locasale;Joanna Lee;Walter Heinecke;Claire Cameron;Jessica Whittaker;Karen Inkelas
+EDLF9998 Walter Heinecke;Diane Whaley;Ji Hoon;Michelle Young;Patrick Tolan;Daniel Duke;Timothy Konold;Brian Pusser;Pamela Tucker;Joanna Lee;Sara Rimm;Nancy Deutsch;James Wyckoff;Natalia Palacios;David Grissmer;Stephanie Moore;Carol Tomlinson;Joseph Meyer;Jason Downer;David Eddy;Karen Inkelas;Amanda Williford;Derrick Alridge;Sara Dexter;Bridget Hamre;Christopher Hulleman;Daphna Bassok
+EDLF9999 Tonya Moon;David Grissmer;Karen Inkelas;David Eddy;Dennise Berry;Josipa Roksa;Patrick Tolan;Nancy Deutsch;Daniel Duke;Walter Heinecke;Diane Hoffman;Timothy Konold;Brian Pusser;Joseph Meyer;James Wyckoff;Sara Dexter;Sarah Turner;Sara Rimm;Joanna Lee;Carol Tomlinson;Pamela Tucker;Derrick Alridge;Stephanie Moore;Michelle Young;Christopher Hulleman;Daphna Bassok;Christian Steinmetz;Catherine Bradshaw
+KINE1000 Diane Whaley
+KINE1040 Diane Whaley
+KINE1050 Diane Whaley
+KINE1100 Brian Fox
+KINE1110 Diane Whaley
+KINE1120 Berkley Henshaw
+KINE1130 Claire Siekaniec
+KINE1150 Diane Whaley
+KINE1155 Diane Whaley
+KINE1170 Diane Whaley
+KINE1200 Diane Whaley
+KINE1230 Diane Whaley
+KINE1300 Diane Whaley
+KINE1310 Diane Whaley
+KINE1320 Diane Whaley
+KINE1325 Diane Whaley
+KINE1400 Aldo Nascimento;Diane Whaley
+KINE1410 Diane Whaley
+KINE1425 Diane Whaley
+KINE1430 Berkley Henshaw;Diane Whaley
+KINE1440 Aldo Nascimento;Adam Thies
+KINE1445 Diane Whaley
+KINE1720 Ann Kite
+KINE1725 Carrie Pledger
+KINE1730 Diane Whaley
+KINE2200 Martin Block
+KINE2420 Jason Davis
+KINE2850 John Goetschius;Revay Corbett
+KINE3400 Randy Bird
+KINE3420 David Edwards
+KINE3620 Joseph Hart
+KINE3630 Neal Glaviano
+KINE3660 Jacob Resch
+KINE4000 Luke Kelly
+KINE4600 Susan Saliba
+KINE4601 Grant Norte
+KINE4993 Arthur Weltman;Susan Saliba;Ethan Saliba;Jay Hertel;Joseph Hart;Martin Block;Luke Kelly;Barbara Boyce;Steven Malin;Jacob Resch;David Edwards
+KINE5120 Barbara Boyce
+KINE5250 Martin Block
+KINE5260 Luke Kelly
+KINE5280 Luke Kelly
+KINE5440 Arthur Weltman
+KINE5455 Steven Malin
+KINE5460 David Edwards
+KINE5470 Steven Malin
+KINE5993 Martin Block;Barbara Boyce;David Edwards;Joseph Hart;Jay Hertel;Luke Kelly;Steven Malin;Jacob Resch;Susan Saliba;Arthur Weltman
+KINE7410 Arthur Weltman
+KINE7630 Susan Saliba
+KINE8400 Arthur Weltman
+KINE8620 Jay Hertel
+KINE8630 Jay Hertel
+KINE8980 Jacob Resch;Martin Block;Arthur Weltman
+KINE8995 Jacob Resch
+KINE8998 Arthur Weltman;Susan Saliba;Jay Hertel;Luke Kelly;Joseph Hart;David Edwards;Martin Block;Barbara Boyce;Jacob Resch;Steven Malin
+KINE8999 Arthur Weltman;Martin Block;Susan Saliba;Luke Kelly;Jay Hertel;Joseph Hart;David Edwards;Barbara Boyce;Jacob Resch
+KINE9740 Barbara Boyce;Martin Block
+KINE9993 Arthur Weltman;Susan Saliba;Joseph Hart;Jay Hertel;Luke Kelly;David Edwards;Martin Block;Jacob Resch;Steven Malin
+KINE9995 Arthur Weltman;Susan Saliba;Jay Hertel;Joseph Hart;Luke Kelly;David Edwards;Martin Block;Barbara Boyce;Jacob Resch;Steven Malin
+KINE9998 Arthur Weltman;Susan Saliba;Jay Hertel;Joseph Hart;Luke Kelly;David Edwards;Martin Block;Barbara Boyce;Jacob Resch;Steven Malin
+KINE9999 Arthur Weltman;Susan Saliba;Jay Hertel;Joseph Hart;Luke Kelly;David Edwards;Barbara Boyce;Martin Block
+ALAR7020 Alexander Wall
+ALAR8020 Benjamin Hays;Teresa Gali
+ALAR8102 Anselmo Canfora
+ALAR8993 Ignacio Alday
+ALAR8995 Leena Cho;Shiqiao Li
+ALAR8999 Leena Cho
+ARCH1030 Erin Root;William Huchting;Michelle Stein;Ines Martin;Joseph Laughlin
+ARCH2020 Margarita Jover;Ryan Carbone;Eric Barr;Ian Carr;Luis Pancorbo
+ARCH2150 Phoebe Crisman
+ARCH2240 Kirk Martini
+ARCH3020 Phoebe Crisman;Edward Ford;Andrew Mc;James Richardson;Alexander Kitchin
+ARCH3021 Schaeffer Somers;Earl Mark
+ARCH3260 Andrew Mc
+ARCH3993 Esther Lorenz;Earl Mark
+ARCH4020 Robin Dripps;Peter Waldman;Lucia Phinney;Anselmo Canfora
+ARCH4021 Schaeffer Somers;Earl Mark
+ARCH4820 Kirk Martini;Phoebe Crisman;Peter Waldman;Anselmo Canfora;Sanda Iliescu;Andrew Mc;Charlotte Black;Earl Mark;Melissa Goldman;Margarita Jover;Erin Root
+ARCH4821 Sanda Iliescu;Ignacio Alday;Shiqiao Li;Andrew Mc;Earl Mark;Jeana Ripple
+ARCH4993 Esther Lorenz;Andrew Mc;Peter Waldman;Matthew Jull;Phoebe Crisman;Earl Mark;Jeana Ripple;Lucia Phinney;Erin Root;William Sherman;Charlotte Black;Melissa Goldman
+ARCH5130 Ignacio Alday
+ARCH5132 Ignacio Alday
+ARCH5150 Phoebe Crisman
+ARCH5424 Earl Mark
+ARCH5500 Esther Lorenz;Melissa Goldman
+ARCH5609 Ignacio Alday
+ARCH5760 Charlotte Black
+ARCH5993 Ignacio Alday;Matthew Jull;Nana Last;Anselmo Canfora;Andrew Mc;Alexander Kitchin;Earl Mark;Charlotte Black;Margarita Jover;Jennifer Roe;Edward Ford
+ARCH6020 Jeana Ripple
+ARCH6240 Kirk Martini
+ARCH6261 Luis Pancorbo
+ARCH7020 Matthew Jull;Manuel Bailo
+ARCH7122 Robin Dripps
+ARCH7230 Manuel Bailo
+ARCH7250 Eric Field
+ARCH7270 Andrew Mc
+ARCH7993 Ignacio Alday;Anselmo Canfora;Melissa Goldman;Peter Waldman;Charles Menefee;Akemi Rollando;Alexander Wall
+ARCH8230 Charles Menefee
+ARCH8800 Kirk Martini;Peter Waldman;Phoebe Crisman;Charlotte Black;Andrew Mc;Luis Pancorbo;Anselmo Canfora;Shiqiao Li;Jeana Ripple;Erin Root;Margarita Jover
+ARCH8801 Ignacio Alday;Earl Mark
+ARCH8993 Robin Dripps;Eric Field
+ARCH8999 Ignacio Alday
+ARH3403 Shiqiao Li
+ARH4591 Louis Nelson
+ARH4993 Richard Wilson
+ARH4999 Sheila Crane;Lisa Reilly;Louis Nelson
+ARH5500 Benjamin Hays;Jessica Sewell
+ARH5601 Andrew Johnston
+ARH5607 Brian Hogg
+ARH5610 Andrew Johnston
+ARH5993 Louis Nelson;Sheila Crane
+ARH7020 Sheila Crane
+ARH7201 Cammy Brothers
+ARH7403 Shiqiao Li
+ARH7993 Richard Wilson;Lisa Reilly;Andrew Johnston;Dean Dass
+ARH8994 Louis Nelson;Richard Wilson;Shiqiao Li;Yunsheng Huang;Lisa Reilly;Andrew Johnston;Dean Dass;Cammy Brothers;Sheila Crane
+ARH8995 Richard Wilson;Louis Nelson;Shiqiao Li
+ARH8999 Louis Nelson
+ARH9520 Cammy Brothers
+ARH9993 Richard Wilson;Shiqiao Li;Michael Kubovy
+ARH9999 Louis Nelson;Richard Wilson
+LAR4130 Michael Lee
+LAR4200 Reuben Rainey
+LAR5130 Michael Lee
+LAR5200 Reuben Rainey
+LAR5230 Robert Mc
+LAR5280 Karen Firehock
+LAR5590 Montserrat Bonvehi;Leena Cho;Alexander Wall
+LAR5993 Julie Bargmann;Elizabeth Meyer;Alexander Wall
+LAR6020 Montserrat Bonvehi
+LAR6212 Eugene Ryang
+LAR6222 Julie Bargmann
+LAR6412 Leena Cho
+LAR7180 Michael Lee
+LAR7214 Joerg Sieweke
+LAR7224 Teresa Gali
+LAR7414 Leena Cho
+LAR7993 Julie Bargmann
+LAR8001 Joerg Sieweke
+LAR8800 Julie Bargmann
+LAR8993 Julie Bargmann
+LAR8999 Julie Bargmann
+PLAC4010 Suzanne Moomaw
+PLAC5500 Daphne Spain;Kathleen Galvin
+PLAC5610 Suzanne Moomaw
+PLAC5720 Andrew Mondschein
+PLAC5812 Barbara Wilson
+PLAC5860 Karen Firehock
+PLAC5993 Timothy Beatley
+PLAN2020 Richard Price
+PLAN3050 Daphne Spain
+PLAN3860 Timothy Beatley
+PLAN4040 William Cockrell
+PLAN4993 Ellen Bassett
+PLAN4999 Ellen Bassett
+PLAN5020 Richard Price
+PLAN5040 William Cockrell
+PLAN5400 Suzanne Moomaw
+PLAN5452 Jennifer Roe
+PLAN5500 Jessica Sewell
+PLAN5580 Satyendra Huja;Frederick Missel;Amanda Poncy;Richard Walker;Joseph Maroon;Karen Firehock
+PLAN5814 Barbara Wilson
+PLAN5993 Timothy Beatley;Ellen Bassett;Tanya Denckla;Suzanne Moomaw;Andrew Mondschein;Karen Firehock;Barbara Wilson;Brian Richter
+PLAN6010 Ellen Bassett
+PLAN6040 Ellen Bassett
+PLAN6050 Andrew Mondschein
+PLAN6860 Timothy Beatley
+PLAN7993 Guoping Huang;Timothy Beatley;Ellen Bassett;Barbara Wilson
+PLAN8040 Ellen Bassett
+PLAN8800 Timothy Beatley;Ellen Bassett
+PLAN8993 Jennifer Roe
+PLAN8999 Timothy Beatley;Suzanne Moomaw;Andrew Mondschein;Ellen Bassett
+SARC3559 Schaeffer Somers
+SARC5400 Adalie Pierce
+SARC5500 John Casteen;Timothy Beatley
+SARC5555 Esther Lorenz;Eric Barr;Alexander Kitchin
+SARC5559 Schaeffer Somers
+SARC5702 Cammy Brothers
+SARC5760 Charlotte Black
+SARC5993 Elizabeth Roettger
+SARC8812 Barbara Wilson
+SARC9912 Michael Lee
+SARC9913 Michael Lee
+SARC9914 Michael Lee
+ISBU3410 John Roper
+ISBU3422 Stephen Oliver
+ISBU3451 Bobby Beamer
+ISBU3710 John Hulburt
+ISBU3840 William Wilkerson
+ISHU3180 Charlotte Matthews
+ISHU3621 George Andrews
+ISHU3623 George Andrews
+ISHU3624 Julia May
+ISHU3860 Luke Wright
+ISHU3953 Sharen Mendoza
+ISHU4315 Richard Floyd
+ISHU4350 Robert Kolker
+ISIN4510 Michael Schnur;David Corlett
+ISIN4520 Julia May;Kenny Marotta
+ISLS3010 Ann Plunkett
+ISLS3100 Evelyn Edson
+ISLS3350 Kathy May
+ISLS3360 Charlotte Matthews
+ISLS4100 John Mirabella
+ISSS3190 Robert Guttman
+ISSS3381 Lisa Speidel
+ISSS3382 Jeffrey Rossman
+ISSS3420 Clair Berube
+ISSS3422 Stephen Oliver
+ISSS3432 Clair Berube
+ISSS3440 Christine Bhasin
+ISSS3460 Mary Repass
+ISSS4315 Richard Floyd
+LAW6001 Saikrishna Prakash;Kim Forde;Thomas Nachbar;Deborah Hellman;Risa Goluboff;Charles Barzun;Micah Schwartzman;Brandon Garrett
+LAW6005 Joe Fore;Sarah Ware;Donna Buck
+LAW6006 Michael Doran;Paul Stephan;Julia Mahoney;Richard Schragger;Alex Johnson;Cynthia Nicoletti;Joseph Hylton
+LAW6100 Oscar Broome
+LAW6101 Richard Hynes
+LAW6102 John Duffy
+LAW6103 Edmund Kitch;John Harrison
+LAW6104 Paul Mitchell;Kimberly Ferzan
+LAW6105 Michael Collins
+LAW6106 Mildred Robinson;Ethan Yale
+LAW6107 Ashley Deeks
+LAW6109 Albert Choi
+LAW6112 Michael Livermore
+LAW7002 George Cohen
+LAW7007 Steven Walt
+LAW7008 Lois Shepherd
+LAW7009 Rachel Harmon
+LAW7014 Michael Collins
+LAW7017 Barbara Armacost
+LAW7019 Anne Coughlin
+LAW7030 Gregg Strauss
+LAW7035 Saikrishna Prakash
+LAW7042 David Martin
+LAW7043 Kenneth Abraham
+LAW7044 Margo Bagley
+LAW7046 Margo Bagley
+LAW7050 Xinh Luu
+LAW7059 David Nagle
+LAW7064 Julia Mahoney
+LAW7066 Heather Zelle
+LAW7067 John Moore
+LAW7071 George Cohen;Joseph Hylton
+LAW7072 Richard Balnave
+LAW7074 David Baumgarten
+LAW7078 Toby Heytens
+LAW7080 Margaret Riley
+LAW7082 Steven Walt
+LAW7088 Anne Coughlin
+LAW7089 Kim Forde
+LAW7090 Michael Gilbert
+LAW7094 Andrew Hayashi
+LAW7105 Alex Johnson
+LAW7112 Edward Flippen
+LAW7114 Michael Doran
+LAW7126 Barbara Spellman
+LAW7131 John Monahan
+LAW7133 George White
+LAW7136 Michael Livermore
+LAW7138 Andrew Vollmer
+LAW7139 Douglas Leslie
+LAW7143 Richard Bonnie
+LAW7144 Molly Shadel;Benjamin Sachs
+LAW7145 John Setear
+LAW7146 Thomas Nachbar
+LAW7605 Michael Ross
+LAW7620 Graeme Cooper
+LAW7635 Neil Duxbury
+LAW7646 Myron Steele
+LAW7653 Jim Donovan
+LAW7694 Donna Chen
+LAW7701 Robert Zack
+LAW7712 Athena Eastwood
+LAW7717 Katharine Redford
+LAW7728 Lois Shepherd
+LAW7731 Kevin Cope
+LAW7741 Kris Gledhill
+LAW7742 Arthur Robinson
+LAW7750 Richard Bonnie
+LAW8000 Kristin Glover;Kent Olson;Amy Wharton
+LAW8003 Nettie Woolhandler
+LAW8006 Ethan Yale
+LAW8009 Dotan Oliar
+LAW8011 Andrew Hayashi
+LAW8016 Edmund Kitch
+LAW8019 Kent Sinclair
+LAW8024 Albert Choi
+LAW8026 Stephen Braga
+LAW8027 Ruth Mason
+LAW8603 Stephen Braga
+LAW8607 Amy Walters
+LAW8608 Bonnie Lepold
+LAW8610 Erin Trodden
+LAW8615 Brenda Castaneda
+LAW8616 Douglas Ford
+LAW8620 Robert Decker
+LAW8623 Joseph Platania
+LAW8625 Daniel Ortiz
+LAW8629 Deirdre Enright
+LAW8631 Kimberly Emery
+LAW8633 Camilyn Leone
+LAW8635 Bruce Brown
+LAW8637 Clare Lewis
+LAW8639 Mark Bromley
+LAW8640 Jonathan Cannon
+LAW8644 Angela Ciolfi
+LAW8646 Amy Walters
+LAW8652 Paul Stephan
+LAW8653 Bruce Steen
+LAW8655 Charles Fox
+LAW8658 Thomas White
+LAW8801 Donna Buck;Sarah Ware;Joe Fore
+LAW8804 Andrew Vollmer;Kevin Kordana;Michael Gilbert
+LAW8805 Xinh Luu
+LAW8810 Cynthia Nicoletti;Thomas Nachbar;Josh Bowers;Rachel Harmon;Kim Forde;Anne Coughlin;Micah Schwartzman;Jason Johnston;Quinn Curtis;Risa Goluboff;Margaret Riley;John Setear;George Rutherglen;Karen Abrams
+LAW8811 Ashley Deeks;Christopher Myers;Michal Barzuza;John Duffy;Joseph Hylton;Michael Gilbert;Saikrishna Prakash;Sarah Ware;Charles Barzun;Anne Coughlin;Kimberly Ferzan;Paul Stephan;Kim Forde;Thomas Nachbar;Quinn Curtis;Michael Livermore;Albert Choi;Brandon Garrett;Toby Heytens;Neil Duxbury;Jason Johnston;Andrew Hayashi;Frederick Schauer;Richard Hynes
+LAW8812 Anne Coughlin;John Duffy;Caleb Nelson;Quinn Curtis;Thomas Nachbar;Karen Abrams;Michael Gilbert;Dotan Oliar;John Monahan;George Geis;Margaret Riley;Josh Bowers;Ashley Deeks;Michael Doran;Andrew Hayashi;Julia Mahoney;Andrew Vollmer;John Setear
+LAW8813 Ashley Deeks;Emiliana Versteeg;David Martin;Andrew Hayashi;Michael Livermore;Paul Mitchell;John Moore;Frederick Schauer
+LAW8814 Michael Doran;John Duffy;Deborah Hellman;Caleb Nelson;Charles Barzun;Josh Bowers;Micah Schwartzman;Leslie Kendrick
+LAW8815 Brandon Garrett;Michael Collins;Julia Mahoney;Ashley Deeks;Michael Gilbert;Quinn Curtis;John Setear;Risa Goluboff;Jason Johnston;John Harrison
+LAW8816 Micah Schwartzman
+LAW8817 Frederick Schauer;John Setear;Josh Bowers
+LAW8818 Stephen Braga;Richard Schragger;Paul Stephan
+LAW8819 Brandon Garrett;Richard Schragger
+LAW8849 Darryl Brown
+LAW9006 Molly Shadel
+LAW9020 Richard Smith
+LAW9031 Robert Sayler
+LAW9034 Eileen Nugent
+LAW9043 James Malone
+LAW9045 Dotan Oliar
+LAW9051 Harvey Applebaum
+LAW9053 Robert Sayler
+LAW9054 Cynthia Nicoletti
+LAW9056 Benjamin Ackerly
+LAW9061 Leslie Kendrick
+LAW9073 David Hallock
+LAW9076 David Carr
+LAW9081 Daniel Bouton;Jean Hudson;Alexia Morrison;Richard Simpson;Robert Wood
+LAW9090 Barbara Armacost;Charles Barzun;George Cohen;Quinn Curtis;Deborah Hellman;Micah Schwartzman;Richard Schragger;Andrew Hayashi;Michael Livermore;Julia Mahoney;Thomas Nachbar;Daniel Ortiz;George Rutherglen;John Setear;Emiliana Versteeg;Bradford Worrall
+LAW9108 Richard Schragger
+LAW9114 Brian Bill
+LAW9120 Frederick Hitz
+LAW9125 Harry Marshall
+LAW9127 Michal Barzuza
+LAW9146 Thomas Massaro
+LAW9156 Matthew Sanderson
+LAW9158 Jonathan Cannon
+LAW9160 Barbara Spellman
+LAW9181 Andrew Vollmer
+LAW9185 Molly Shadel
+LAW9196 Ashley Deeks
+LAW9199 Edwin Martin
+LAW9229 Josh Bowers;Anne Coughlin
+LAW9247 Micah Schwartzman
+LAW9248 Edward Hogshire
+LAW9249 Christopher Myers
+LAW9250 Frederick Schauer
+LAW9251 Quinn Curtis
+LAW9252 Mark Langlet
+LAW9253 Eric Magnus
+LAW9255 Emiliana Versteeg
+LAW9256 Michal Barzuza
+LAW9258 Jonathan Cannon
+LAW9999 George Cohen;Barbara Spellman;John Setear;John Moore;Brandon Garrett;Jonathan Cannon;Mildred Robinson
+GBUS7102 Marc Modica
+GBUS7108 Gregory Fairchild
+GBUS7109 Martin Davidson
+GBUS7110 Kenneth Eades
+GBUS7111 Saras Sarasvathy
+GBUS7113 Marc Modica
+GBUS7210 Marc Modica
+GBUS7215 Elizabeth Powell
+GBUS7232 Alan Beckenstein
+GBUS7235 Peter Debaere
+GBUS7236 Dennis Yang
+GBUS7237 Peter Rodriguez
+GBUS7238 Dennis Yang
+GBUS7252 Elena Loutskina
+GBUS7255 Robert Conroy
+GBUS7256 Robert Conroy
+GBUS7257 Robert Conroy
+GBUS7259 George Allayannis
+GBUS7276 Paul Simko
+GBUS7277 Paul Simko
+GBUS7278 Elizabeth Demers
+GBUS7279 Elizabeth Demers
+GBUS7280 Paul Simko
+GBUS7281 Elizabeth Demers
+GBUS7292 Kimberly Whitler
+GBUS7295 Ronald Wilcox
+GBUS7298 Rajkumar Venkatesan
+GBUS7312 Elliott Weiss
+GBUS7315 James Freeland;Elliott Weiss
+GBUS7317 Gal Raz
+GBUS7318 Elliott Weiss
+GBUS7342 Bidhan Parmar
+GBUS7344 James Clawson
+GBUS7345 Lynn Isabella
+GBUS7346 Martin Davidson
+GBUS7350 Lynn Isabella
+GBUS7352 Manuel Baucells
+GBUS7355 Anton Ovchinnikov
+GBUS7356 Kenneth Lichtendahl
+GBUS7357 Robert Carraway
+GBUS7380 Andrew Wicks
+GBUS7400 Jeanne Liedtka
+GBUS7401 Scott Snell
+GBUS7500 Jeanne Liedtka
+GBUS7600 Phillip Pfeifer;Anton Ovchinnikov
+GBUS7601 Justin Hopkins
+GBUS7602 Francis Warnock
+GBUS7603 Pedro Matos;Robert Conroy
+GBUS7604 Elizabeth Powell
+GBUS7605 James Rubin
+GBUS7606 Kathryn Sharpe
+GBUS7607 Joseph Harder
+GBUS7608 Robert Landel
+GBUS7609 Sankaran Venkataraman;Saras Sarasvathy
+GBUS7610 Robert Freeman
+GBUS7611 Timothy Laseter
+GBUS7612 June West
+GBUS7613 Andrea Larson
+GBUS7614 Marc Lipson
+GBUS7615 Philippe Sommer
+GBUS7617 Paul Farris
+GBUS7618 Saras Sarasvathy
+GBUS7619 Peter Ronald
+GBUS7620 June West
+GBUS7807 Robert Conroy
+GBUS7808 Robert Conroy
+GBUS7810 Ronald Wilcox
+GBUS7816 Lynn Isabella
+GBUS7818 Ronald Wilcox
+GBUS8021 June West
+GBUS8023 Dennis Yang
+GBUS8030 Thomas Massaro
+GBUS8033 Meghan Murray
+GBUS8042 Joseph Harder
+GBUS8045 Anthony Smith
+GBUS8047 Ronald Wilcox
+GBUS8060 Andrea Larson
+GBUS8070 Andrea Larson
+GBUS8106 Robert Billingsly
+GBUS8130 Jeremy Hutchison
+GBUS8160 Mary Frank
+GBUS8203 Gregory Fairchild
+GBUS8210 Saras Sarasvathy
+GBUS8220 Robert Billingsly
+GBUS8230 Edward Hess
+GBUS8240 John Colley
+GBUS8250 John Colley
+GBUS8261 Jacqueline Doyle
+GBUS8270 John Colley
+GBUS8280 Sherri Moore
+GBUS8306 Mary Ann
+GBUS8307 Paul Farris
+GBUS8308 Alexander Horniman
+GBUS8309 Peter Rodriguez
+GBUS8330 Alan Beckenstein
+GBUS8400 Jacqueline Doyle
+GBUS8402 Patricia Werhane
+GBUS8403 Randy Strawderman
+GBUS8405 Erika James
+GBUS8410 Paul Simko
+GBUS8419 Laurence Franklin
+GBUS8420 Laurence Franklin
+GBUS8423 Kenneth Eades
+GBUS8424 Matthias Hild
+GBUS8426 Pedro Matos
+GBUS8427 Gregory Fairchild
+GBUS8428 Michael Schill
+GBUS8429 Marc Modica
+GBUS8433 James Rubin
+GBUS8435 Philippe Sommer
+GBUS8438 James Gilmore
+GBUS8439 Robert Smelick
+GBUS8443 Edward Yu
+GBUS8445 Richard Evans
+GBUS8448 Andrew Wicks
+GBUS8450 Kenneth Eades
+GBUS8451 Peter Debaere
+GBUS8454 William Sihler
+GBUS8456 Ryan Quinn
+GBUS8457 Paul Farris
+GBUS8459 Jeanne Liedtka
+GBUS8464 Thomas Steenburgh
+GBUS8466 Elliott Weiss
+GBUS8467 Jacqueline Doyle
+GBUS8468 Edward Hess
+GBUS8469 Douglas Muir
+GBUS8473 Martin Davidson
+GBUS8474 James Clawson
+GBUS8475 Edward Yu
+GBUS8476 Bidhan Parmar
+GBUS8479 Yael Grushka
+GBUS8482 Morela Hernandez
+GBUS8484 Rachel Brozenske;Jeanne Liedtka
+GBUS8485 Francis Warnock
+GBUS8486 Philippe Sommer
+GBUS8487 Jeanne Liedtka
+GBUS8488 Gal Raz
+GBUS8489 Robert Freeman
+GBUS8490 George Allayannis
+GBUS8491 Francis Warnock
+GBUS8492 Sara Neher
+GBUS8495 Raul Chao
+GBUS8497 Elena Loutskina
+GBUS8500 Paul Simko;Kenneth Eades;Michael Lenox;Everette Fortner;John Colley;Edward Yu;Marc Lipson;Elizabeth Powell;June West;Gregory Fairchild;Edward Hess;Elena Loutskina;Robert Bruner;Elliott Weiss;James Freeland
+GBUS8510 Jeanne Liedtka;Gerald Starsia;Barbara Millar;Marc Lipson;Elena Loutskina;Kenneth Lichtendahl;Alexis Megibow;Elliott Weiss;Yael Grushka;Robert Bruner
+GBUS8520 Richard Evans
+GBUS8610 Thomas Steenburgh
+GBUS8611 William Sihler
+GBUS8612 Timothy Laseter
+GBUS8617 William Sihler
+GBUS8619 Kristin Behfar
+GBUS8620 Kimberly Whitler
+GBUS8623 Michael Schill
+GBUS8624 Elliott Weiss
+GBUS8625 Michael Ho
+GBUS8626 Peter Debaere
+GBUS8627 Thomas Massaro
+GBUS8630 Rajkumar Venkatesan
+GBUS8631 Robert Carraway
+GBUS8635 Sara Neher
+GBUS8699 Timothy Laseter;Tihamer Von
+GBUS8700 Philippe Sommer;George Allayannis
+GBUS8703 James Clawson
+GBUS8704 Andrew Wicks
+GBUS8705 Alexander Horniman
+GBUS8706 Alexander Horniman
+GBUS8750 Alexander Horniman
+GBUS8800 Timothy Laseter
+GBUS8830 Gal Raz
+GBUS8840 Timothy Laseter;Elizabeth Teisberg
+GBUS8870 Jared Harris
+GBUS8930 Melissa Thomas
+GBUS8970 Tihamer Von
+GBUS8995 Robert Conroy;Erika James;Elliott Weiss;Bidhan Parmar
+GBUS8999 Marc Lipson;Ronald Wilcox;Robert Conroy;Elliott Weiss
+GBUS9710 Francis Warnock
+GBUS9740 Jared Harris
+GBUS9854 Robert Freeman
+GBUS9855 Gregory Fairchild
+GBUS9857 Andrew Wicks
+GBUS9861 Andrew Wicks
+GBUS9863 Jeanne Liedtka
+GBUS9864 Jared Harris
+GBUS9930 Robert Freeman
+GBUS9999 Andrew Wicks
+BIMS5550 Robert Grainger
+BIMS7100 Janet Cross
+BIMS8030 Charles Farber
+BIMS8132 James Mandell
+BIMS8172 Gary Owens
+BIMS8380 Paul Targonski
+BIMS8382 Stephen Turner
+BIMS8995 Norbert Leitinger;Robert Nakamoto;Joel Hockensmith;Ann Sutherland;Janet Cross;Lucy Pemberton;Manoj Patel;Gary Owens
+BIMS8998 Norbert Leitinger;Robert Nakamoto;Joel Hockensmith;Ann Sutherland;Janet Cross;Lucy Pemberton;Manoj Patel;Gary Owens
+BIMS9998 Joel Hockensmith
+BIMS9999 Joel Hockensmith;Sundararaman Swaminathan
+BIOC5051 Joel Hockensmith
+BIOC8012 Jeffrey Smith
+BIOC8014 Jeffrey Smith
+BIOC8131 Jeffrey Smith
+BIOC9995 Joel Hockensmith;David Auble;Stefan Bekiranov;Daniel Burke;John Bushweller;Patrick Concannon;Anindya Dutta;Edward Egelman;Daniel Foltz;Patrick Grant;Barry Gumbiner;Donald Hunt;Kevin Lynch;Marty Mayo;Coleen Mc;Gary Owens;Bryce Paschal;Lucy Pemberton;Emilie Rissman;Jeffrey Smith;Peter Stukenberg;Lukas Tamm;Michael Timko;David Wotton;Ira Hall;Aaron Mackey;Gorav Ailawadi;Alison Criss;Hui Li;Michele Sale;Mitchell Smith;Michael Mc;Benjamin Purow;William Petri;Ming Li;Mazhar Adli;Aaron Quinlan;Tarek Abbas;Zhen Yan;Weibin Shi;Thomas Loughran;Charles Farber
+BIOC9998 David Auble;Stefan Bekiranov;Daniel Burke;John Bushweller;Patrick Concannon;Anindya Dutta;Edward Egelman;Daniel Foltz;Patrick Grant;Barry Gumbiner;Joel Hockensmith;Donald Hunt;Kevin Lynch;Marty Mayo;Coleen Mc;Gary Owens;Bryce Paschal;Lucy Pemberton;Emilie Rissman;Jeffrey Smith;Peter Stukenberg;Lukas Tamm;Michael Timko;David Wotton;Ira Hall;Aaron Mackey;Gorav Ailawadi;Alison Criss;Hui Li;Michele Sale;Mitchell Smith;Zhen Yan;Michael Mc;Benjamin Purow;William Petri;Ming Li;Mazhar Adli;Aaron Quinlan;Tarek Abbas;Weibin Shi;Thomas Loughran;Charles Farber
+BIOC9999 David Auble;Stefan Bekiranov;Daniel Burke;John Bushweller;Patrick Concannon;Anindya Dutta;Edward Egelman;Daniel Foltz;Patrick Grant;Barry Gumbiner;Joel Hockensmith;Donald Hunt;Kevin Lynch;Marty Mayo;Coleen Mc;Gary Owens;Bryce Paschal;Lucy Pemberton;Emilie Rissman;Jeffrey Smith;Peter Stukenberg;Lukas Tamm;Michael Timko;David Wotton;Ira Hall;Aaron Mackey;Gorav Ailawadi;Alison Criss;Hui Li;Michele Sale;Mitchell Smith;Zhen Yan;Michael Mc;Benjamin Purow;William Petri;Ming Li;Mazhar Adli;Aaron Quinlan;Tarek Abbas;Weibin Shi;Charles Farber
+BIOP5050 Robert Nakamoto
+BIOP7051 Jochen Zimmer;Robert Nakamoto
+BIOP8010 Robert Nakamoto
+BIOP8020 Jochen Zimmer
+BIOP8021 Owen Pornillos
+BIOP8040 Owen Pornillos
+BIOP8042 Owen Pornillos
+BIOP8201 Peter Kasson
+BIOP8301 Peter Kasson
+BIOP9995 Peter Stukenberg;Lukas Tamm;Robert Nakamoto;Jason Papin;David Cafiso;John Bushweller;Jochen Zimmer;Owen Pornillos
+BIOP9998 Mark Yeager;Lukas Tamm
+BIOP9999 Michael Wiener;Zygmunt Derewenda;Jae Lee;Sepideh Khorasanizadeh;Cameron Mura;Wladek Minor;Lukas Tamm;David Cafiso;Stefan Bekiranov;John Bushweller;Ian Macara;Avril Somlyo;Deborah Lannigan;Marty Mayo;Robert Nakamoto;Mark Yeager;Peter Stukenberg;Umesh Deshmukh;Stephen Rich;Salem Faham;Mark Okusa;Jochen Zimmer;Christopher Stroupe;Peter Kasson;Lucy Pemberton;Gilbert Kinsey;Owen Pornillos
+CELL5950 Ann Sutherland
+CELL8101 Ann Sutherland
+CELL8301 Xiaowei Lu
+CELL8401 John Herr
+CELL9999 Noelle Dwyer;Douglas Desimone;Bettina Winckler;Peter Stukenberg;Jing Yu;Adrian Halme;Raymond Keller
+MICR8001 Lucy Pemberton
+MICR8006 Lucy Pemberton
+MICR8040 Amy Bouton
+MICR8044 Amy Bouton
+MICR8200 Loren Erickson
+MICR8202 Loren Erickson
+MICR8400 Alison Criss
+MICR9995 Michael Brown;Thomas Braciale;Kodi Ravichandran;Alison Criss;Amy Bouton;Loren Erickson;Kenneth Tung;Judith White;James Casanova;Erik Hewlett;Molly Hughes;Jonathan Kipnis;Girija Ramakrishnan;Lucy Pemberton;Roger Abounader;Young Hahn;David Rekosh;Victor Engelhard;William Petri;Dan Gioeli;Ulrike Lorenz;Hui Zong;Melissa Kendall;David Kashatus;Timothy Bender;Judith Woodfolk;Peter Kasson;Coleen Mc;James Nataro;Tajie Harris;Thomas Loughran
+MICR9999 Timothy Bender;Young Hahn;Dean Kedes;Barbara Mann;William Petri;Kodi Ravichandran;Mitchell Smith;Amy Bouton;Judith White;James Casanova;Erik Hewlett;Molly Hughes;Jonathan Kipnis;Girija Ramakrishnan;David Rekosh;David Brautigan;Ulrike Lorenz;Borna Mehrad;Lucy Pemberton;Thomas Braciale;Jay Brown;Michael Brown;Daniel Engel;Victor Engelhard;Loren Erickson;Alison Criss;Dan Gioeli;Jill Slack;Roger Abounader;Hui Zong;Kenneth Tung;Melissa Kendall;David Kashatus;Judith Woodfolk;James Nataro;Coleen Mc;Jason Papin;Thomas Loughran
+PATH8050 Scott Vande
+PATH8060 Janet Cross
+PATH8140 James Mandell
+PATH8440 Adam Goldfarb
+PATH8460 Janet Cross
+PATH8470 David Kashatus
+PATH8920 Adam Goldfarb
+PATH9995 Janet Cross;Benjamin Purow;Mark Kester;Coleen Mc;Mani Mahadevan;James Mandell;Christopher Moskaluk;Gary Owens;Prabhakara Reddi;Kenneth Tung;Scott Vande;Hui Li;Jennifer Munson;George Bloom;Thomas Loughran;Adam Goldfarb;Timothy Bullock;Robin Felder;John Herr;Anindya Dutta;Alban Gaultier;William Petri;George Christ
+PATH9999 Adam Goldfarb;Kenneth Tung;Janet Cross;Benjamin Purow;Coleen Mc;Mani Mahadevan;James Mandell;Christopher Moskaluk;Gary Owens;Prabhakara Reddi;Scott Vande;Hui Li;Mark Kester;Jennifer Munson;Thomas Loughran;George Bloom;William Petri;George Christ;Robin Felder;John Herr;Timothy Bullock;Anindya Dutta;Alban Gaultier;Michael Brown;Bryce Paschal
+PHAR7020 Mark Beenhakker
+PHAR8120 Bimal Desai
+PHAR8140 Douglas Bayliss;Thurl Harris
+PHAR8998 Paula Barrett
+PHAR9003 Elizabeth Sharlow
+PHAR9004 Elizabeth Sharlow
+PHAR9500 Norbert Leitinger
+PHAR9995 Thomas Braciale;Norbert Leitinger;Ira Schulman;Eugene Barrett;Paula Barrett;Alban Gaultier;Douglas Bayliss;Kyle Hoehn;Thurl Harris;Kevin Janes;John Lazo;Michael Scott;Bimal Desai;Brant Isakson
+PHAR9999 Chien Li;Kevin Lynch;Douglas Bayliss;Eugene Barrett;Thurl Harris;Kevin Janes;Norbert Leitinger;Kyle Hoehn;Thomas Braciale;Ira Schulman;Paula Barrett;Michael Scott;Alban Gaultier;John Lazo;Bimal Desai;Brant Isakson
+PHY8012 Robert Nakamoto
+PHY8040 Brant Isakson
+PHY8041 Brant Isakson
+PHY8093 Robert Nakamoto
+PHY9995 Coleen Mc;Robert Nakamoto;Roger Abounader;Jessica Connelly;Brant Isakson;Gary Owens;John Bushweller
+PHY9999 Gary Owens;Avril Somlyo;Robert Nakamoto;Gorav Ailawadi;Cato Laurencin;Coleen Mc;Brant Isakson;Brent French;Susanna Keller;Jeffrey Holmes;Isa Hussaini;Jessica Connelly
+COMM1800 Robert Kemp
+COMM2000 Rebecca Leonard
+COMM2010 Ann Backof
+COMM2020 Mary Middleton
+COMM2600 Tom Bateman
+COMM2730 Dorothy Kelly
+COMM3040 Amanda Cowen;Jeremy Marcel;Adelaide King;Gayle Erwin
+COMM3050 Gary Ballinger;Ira Harris;Kerrie Carfagno;Marcia Pentz
+COMM3060 Anthony Baglioni;Cynthia Fraser
+COMM3120 Jane Thayer
+COMM3200 Jason Williamson;Steven Johnson
+COMM3220 Suprateek Sarker;Jennifer Claggett
+COMM3330 David Mick;Anthony Baglioni
+COMM3410 Sherri Moore
+COMM3420 Sherri Moore
+COMM3610 Tom Bateman
+COMM3720 Zhaohui Chen;David Smith;Carola Schenone
+COMM3721 Patrick Dennis
+COMM3790 Brendan Richardson
+COMM3810 Thomas Package
+COMM3845 William Wilkerson
+COMM3880 Phoebe Crisman
+COMM4230 Stefano Grazioli
+COMM4240 Ahmed Abbasi
+COMM4250 Stefano Grazioli
+COMM4251 Russell Nelson
+COMM4260 Jingjing Li
+COMM4261 Jingjing Li
+COMM4262 Peter Gray
+COMM4310 Lucien Bass
+COMM4311 Dean Roberts
+COMM4330 Lucien Bass
+COMM4350 James Maxham
+COMM4372 Carrie Heilman
+COMM4374 Carrie Heilman
+COMM4520 Jason Williamson
+COMM4559 Jeffrey Boichuk
+COMM4569 Amanda Cowen
+COMM4621 Gary Ballinger
+COMM4641 Robert Patterson
+COMM4642 Kerrie Carfagno
+COMM4643 Marcia Pentz
+COMM4660 Brendan Boler
+COMM4681 Adam Healey
+COMM4690 William Wilkerson
+COMM4703 Chris Shumway
+COMM4710 David Chapman
+COMM4720 David Smith;Carola Schenone
+COMM4721 William Wilhelm
+COMM4731 David Chapman;Patrik Sandas
+COMM4760 Felicia Marston
+COMM4780 Michael Gallmeyer
+COMM4791 George Overstreet
+COMM4792 George Overstreet
+COMM4822 Mark White
+COMM4831 David Mick
+COMM4841 William Wilhelm
+COMM4881 Robert Brown
+COMM4993 Jane Thayer
+COMM4995 William Kehoe;Ahmed Abbasi;Russell Nelson;David Touve
+COMM5110 Adam Koch
+COMM5140 Andrea Roberts
+COMM5460 Patrick Wilkie
+COMM5510 Roger Martin
+GCOM7140 Jeffrey Boichuk
+GCOM7150 Amar Cheema
+GCOM7160 Carrie Heilman
+GCOM7170 Nicole Montgomery
+GCOM7180 Jeffrey Boichuk
+GCOM7230 Brent Kitchens
+GCOM7240 Richard Netemeyer
+GCOM7260 Jason Williamson
+GCOM7280 Jingjing Li
+GCOM7340 Andrea Roberts
+GCOM7341 Craig Lefanowicz
+GCOM7350 Roger Martin
+GCOM7410 Patrick Wilkie
+GCOM7440 Patrick Wilkie
+GCOM7480 Adam Trusner
+GCOM7510 Felicia Marston
+GCOM7640 Janette Martin
+GCOM7720 Stefano Grazioli
+GCOM7730 William Wilhelm
+GCOM7750 Michael Gallmeyer
+GCOM7770 Stefano Grazioli
+GCOM7810 Peter Gray
+GCOM7850 Ahmed Abbasi
+GCOM7860 Ahmed Abbasi
+GCOM7870 Peter Maillet
+GCOM7872 Nicole Montgomery
+GCOM7873 Ira Harris
+GCOM7874 Jeremy Marcel
+GCOM7875 James Burroughs
+GCOM7876 Saonee Sarker
+GCOM7877 Saonee Sarker
+GCOM7993 Eric Negangard;Ira Harris;Stefano Grazioli
+GCNL5130 Cathy Campbell;Christian Simmers;Carol Lynn;Angela Clebak
+GCNL5170 Sarah Craig;Sharon Bragg;Cheri Blevins
+GCNL5220 Randy Jones
+GCNL5250 Dorothy Tullmann
+GCNL5991 Regina De;Katharine Adelstein;Drew Walton;Linda Edenfield;Carol Lynn;Edie Barbero;Arlene Keeling
+GNUR5260 Kenneth White
+GNUR5410 Richard Westphal
+GNUR5559 Ashley Hurst
+GNUR5700 Kathryn Reid
+GNUR5701 Julie Haizlip
+GNUR5710 Amy Boitnott;Kathryn Reid;Linda Eastham;Bethany Coyne;Kathleen Putnam;Teresa Lamonica
+GNUR6020 Julie Haizlip;David Strider;Anita Thompson;Amy Boitnott;Christina Wilson;Deborah Dillon;Christopher Borchers;Dana Hannah
+GNUR6025 Linda Eastham;Kathleen Putnam;Jennifer Kastello;Yvonne Newberry;Deborah Dillon;Christopher Borchers
+GNUR6032 Kathryn Reid
+GNUR6052 Kristen Wells
+GNUR6054 Richard Westphal
+GNUR6056 Ishan Williams;Jessica Malpass
+GNUR6120 Amy Boitnott
+GNUR6253 Rebecca Harmon
+GNUR6315 Katherine Shaw
+GNUR6405 Elizabeth Friberg
+GNUR6993 Arlene Keeling
+GNUR7251 Diane Boyer
+GNUR7254 Diane Boyer
+GNUR7313 Beth Quatrara
+GNUR7314 Christopher Borchers;David Mercer
+GNUR7411 Pamela Kulbok
+GNUR7481 Lori Aylor
+GNUR7482 Lori Aylor
+GNUR8005 Catherine Kane
+GNUR8110 Patricia Hollen
+GNUR8120 Susan Kools
+GNUR8140 Joel Anderson
+GNUR8420 Jessica Malpass;Randy Jones;Patricia Hollen;Linda Bullock;Arlene Keeling;Karen Rose;Camille Burnett
+GNUR8430 Catherine Kane
+GNUR8620 Elizabeth Friberg
+GNUR8640 Elizabeth Epstein
+GNUR8660 Mikel Gray
+GNUR8993 Elizabeth Epstein
+GNUR8998 Dorothy Tullmann
+GNUR9010 Susan Kools;Cathy Campbell;Karen Rose
+GNUR9020 Donna Schminkey;Catherine Kane;Beth Quatrara;Pamela Reynolds
+GNUR9110 Linda Bullock;Jessica Malpass;Donna Schminkey;Patricia Hollen;Arlene Keeling;Kenneth White;Joel Anderson;Marianne Baernholdt;Ishan Williams;Camille Burnett;Kathryn Laughon
+GNUR9610 Dorothy Tullmann
+GNUR9620 Dorothy Tullmann
+GNUR9991 Elizabeth Epstein;Edie Barbero;Beth Quatrara;Donna Schminkey;Dorothy Tullmann;Kathryn Reid;Kenneth White
+GNUR9998 Karen Rose;Dorothy Tullmann
+GNUR9999 Susan Bauer;Linda Bullock;Pamela De;Elizabeth Epstein;Patricia Hollen;Randy Jones;Arlene Keeling;Pamela Kulbok;Kathryn Laughon;Karen Rose;Ann Taylor;Cathy Campbell;Christine Kennedy;Barbra Wall
+NUCO2440 Jeongok Logan;Cathy Campbell;Sarah Craig;Donna Bindig;Leslie Bergin;Shannon Aifuwa;Christine Guarnera;Susan Humphrey;Elizabeth Taliaferro;Brandi Long;Ashley Mangum;Suzanne Wentworth
+NUCO3310 Amy Boitnott;Kathryn Bagley;Jolene Carlton;Sharon Veith;Jennifer Weyant;Alison Sturgill
+NUCO3610 Emily Drake;Lisa Goldstein;Suzanne Wentworth;Katherine Willard;Michael Swanberg
+NUCO4210 Camille Burnett;Sharon Veith;Karen Moss;Cynthia Westley
+NUCO4220 Beth Quatrara
+NUCO4300 Rebecca Harmon;Anita Thompson;Robert Weaver;Sheryl Gregory;Diane Pavalonis;William Russell
+NUCO4310 Edie Barbero;Anita Thompson;Robert Weaver;Sheryl Gregory;William Russell;Diane Pavalonis
+NUCO4450 Virginia Le
+NUCO4600 Pamela Kulbok;Dawn Rigney;Mary Crandall;Deborah Conway;Vickie Southall;Patricia Higgins
+NUCO4620 Connie Lee
+NUCO4700 Elizabeth Taliaferro;Crystal Toll;Kathryn Ward;David Simmons;Deborah Conway;Connie Lee;Carol Lynn;Donna Bindig;Vickie Southall;Curtis Stowers;Michael Swanberg
+NUIP2070 Christine Connelly
+NUIP2080 Christine Connelly
+NUIP2090 Diane Szaflarski
+NUIP2250 Kate Willcutts
+NUIP2310 Mary Gibson;Ashley Hurst;Barbra Wall
+NUIP2420 Donna Schminkey
+NUIP2430 Jennifer Kastello
+NUIP3030 Dorothe Bach
+NUIP3330 Bethany Coyne;Pamela De
+NUIP3559 Michelet Mc
+NUIP4003 Emma Mitchell
+NUIP4200 Valentina Brashers
+NUIP4420 Karen Rose
+NURS3003 Carol Lynn
+NURS3006 Regina De
+NURS4006 Kathryn Reid
+NURS4951 Bethany Coyne
+NURS4993 Kathryn Haugh;Kathryn Laughon
+DS6559 Joe Ford;Michele Claibourn
+ENTP1010 David Touve
+ENTP4000 David Touve
+PPOL3001 Charity Fowler
+PPOL3230 Gerald Warburg;Carly Spraggins;Terry Mason;Charlotte Halbert;Kyle Gardiner;Haley Swartz
+PPOL3241 Rider Foley
+PPOL3290 Balashankar Mulloth
+PPOL3410 Balashankar Mulloth
+PPOL4200 Paul Martin
+PPOL4210 Richard Campanelli
+PPOL4225 Margaret Grundy
+PPOL4250 Daniel Player;Sarah Davidson;Alexander So
+PPOL4720 Bevin Etienne
+PPOL4730 Edward Baird
+PPOL4735 Christine Mahoney
+PPOL4745 Milton Whitfield
+PPOL4750 Frederick Hitz
+PPOL4991 Marc Ferzan;Balashankar Mulloth;Paul Martin;Jeffrey Bergner;George Gilliam
+PPOL4993 Christine Mahoney;Patricia Lampkin
+PPOL5025 Sophie Trawalter
+PPOL5325 Jeanine Braithwaite
+PPOL5340 Michael Signer
+PPOL6080 Daniel Player
+PPOL6085 Lindsay Flynn
+PPOL6130 Jeffrey Bergner
+PPOL6135 Kirsten Gelsdorf
+PPOL6250 Daniel Player
+PPOL6500 Marcia Pentz;Paul Martin;Daniel Reifsnyder
+PPOL6715 Gerald Warburg
+PPOL6790 Eric Patashnik
+PPOL7035 Jay Shimshack
+PPOL7055 Benjamin Converse
+PPOL7110 Jay Shimshack;Katharine Sadowski;Ian Prum
+PPOL7160 Christopher Ruhm;Matthew Comey;William Schwieder
+PPOL7600 James Savage;Randall Lutter;Raymond Scheppach;Jeanine Braithwaite;William Shobe
+PPOL7610 James Savage;Randall Lutter;Raymond Scheppach;Jeanine Braithwaite;William Shobe
+PPOL7993 Daniel Player;Frederick Hitz;Benjamin Castleman;Christine Mahoney;Edward Baird;Jeanine Braithwaite;Robert Freeman;Jay Shimshack
+PPOL8680 Sarah Turner
+DS6003 Donald Brown
+DS6012 Deborah Johnson
+DS6013 Donald Brown;Daniel Keenan;Abigail Flower;Stephanie Guerlain;Peter Beling;Cody Fleming;Hongning Wang;Quanquan Gu;Wendy Novicoff;Rafael Alvarado;David Evans;Laura Barnes;Ke Wang
+DS6999 Wendy Novicoff;Peter Beling;Benjamin Castleman
+ACCT2010 Marshall Kasten
+ACCT2020 Noel Montesa
+ACCT3110 Leon Hutton
+ACCT3120 James Glenn
+ACCT3140 William Cardine
+ACCT4450 Gary Dittmer
+ACCT5250 Richard Evans
+ACCT5330 Gary Brooks
+Spring 2016 Nina Rourke;Rachel Miller;Elizabeth Wittner;Katya Kilian;Patrice Kyger;Ekaterina Sevastakis;Jane Boatner;Matthew Scheffer;Johnathan Favini;Andrew Breen;Caroline Melton;Sarah Moseley;Catherine Clary;Heather Wetzel;Christian Klein;Matthew Charles;Robert Pasquinucci;Michael Uriss;Jennifer Leake;Beatriz Cortabarria;Helen Moyer;Meredith Cole;Russell Grieger;Teresa Miller;David Gist;Stephen Cross;Carrie Pledger;Sheffield Richey;Coy Barefoot;Bernard Beitman
+AIRS1200 Colleen Delawder
+AIRS2200 Colleen Delawder
+AIRS3200 Nina Rourke
+AIRS4200 Steven Hiss
+BUS5020 Angela Orebaugh
+BUS5300 Edward Kropp
+BUS5320 John Mc
+BUS6000 David Ward
+CASS1011 Michael Rasbury
+CJ3670 Cynthia Lewis
+HR4010 Ellen Stokes
+HR4050 Paul Weatherhead
+HR4070 Betty Marshall
+HR5050 Nicole Runyon
+HR5060 Roderick French
+HSCI1011 Karen Schmidt
+IMP4600 Michael Timko
+IMP4970 Sarah Cole;Shawn Lyons
+IMP4971 Shawn Lyons;George Sampson;James Savage;Patricia Wattenmaker;Margaret Smith;Rebecca Schoenthal;Dean Dass;Kevin Everson;Carmenita Higginbotham;Claire Raymond;Michael Slon;Jackson Hamilton;Ravindra Khare;Nomi Dave;Bruce Williams;Jennifer Petersen
+IT3220 Lisa Wentzel
+IT3240 Donald Chisholm
+IT4400 Michael Vito
+MISC1020 Damon Slaughter
+MISC1025 Damon Slaughter
+MISC2020 Jane Petrick
+MISC2025 Jane Petrick
+MISC3020 Daymond Graves
+MISC3025 Daymond Graves
+MISC4020 Guy Mallow
+MISC4025 Guy Mallow
+MISC4993 Guy Mallow
+NASC1100 Richard Leary
+NASC2200 Robert Latimer
+NASC3100 Luke Wolf
+NASC3620 Joshua Fisher
+NASC4000 Joshua Fisher
+NASC4100 Joshua Fisher
+NASC4200 Mark Black
+PC4010 Ronald Falcone
+PC4020 Lee Washington
+PC4050 Joseph Harrison
+PC5010 John Mc
+PC5060 Michael Giboney
+PC5100 George Powers
+PC5140 Gladis Griffith
+PC5200 Mary Wangemann
+PPL4010 Paul Morrow;Shruta Swarup
+PSHM4050 Rashida Biggs
+PSHM4400 Ana Abad
+PSMT6020 John Duffy
+PSMT6050 Rokesha Green
+PSMT6080 Emily Harder
+PSPA5020 Celeste Greene
+PSPA5030 John Dunning
+PSPA5070 Jeffrey Mc
+PSPM5030 Kandis Boyd
+PSPM5210 Michael Powers
+PSPM5280 William Yates
+PSPM5290 Douglas Rose
+UNST2811 Brian Cullaty;Amy Clobes;Keisha John
+UNST2820 Kimberly Link
