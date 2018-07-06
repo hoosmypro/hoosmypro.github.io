@@ -109,3 +109,46 @@ def reg(regex,file_to_open): # list of findings is returned
     matches_s = re.findall(addresspattern, str(data))
     print(len(matches_s),'comments loaded')
     return matches_s
+
+# Read generated files
+
+def readGeneratedFile(file_name):
+    file1 = open(file_name+"_Category.txt",'r')
+    list_cate = []
+    for line in file1:
+        temp = line.strip('\n').split(";")
+        if(len(temp)!=4):
+            print(len(temp))
+            print("Error")
+        temp2 = [int(temp[0]),temp[1],temp[2].lstrip("[").rstrip("]").split(", "),temp[3].lstrip("[").rstrip("]").split(", ")]
+        list_cate.append(temp2)
+
+    file2 = open(file_name+"_Class.txt",'r')
+    list_class = []
+    for line in file2:
+        temp = line.strip('\n').split(";")
+        if(len(temp)!=5):
+            print(temp)
+            print("Error")
+        temp2 = [int(temp[0]),temp[1],temp[2],temp[3].lstrip("[").rstrip("]").split(", "),temp[4].lstrip("[").rstrip("]").split(", ")]
+        list_class.append(temp2)
+
+    file3 = open(file_name+"_Instr.txt",'r')
+    list_instr = []
+    for line in file3:
+        temp = line.strip('\n').split(";")
+        if(len(temp)!=3):
+            print("Error")
+        temp2 = [int(temp[0]),temp[1],temp[2].lstrip("[").rstrip("]").split(", ")]
+        list_instr.append(temp2)
+
+    return list_cate,list_class,list_instr,[]
+    # file4 = open(file_name+"_Section.txt",'r')
+    # list_section = []
+    # for line in file4:
+    #     temp = line.strip('\n').split(";")
+    #     if(len(temp)!=6):
+    #         print(temp)
+    #         print(len(temp))
+    #         print("Error")
+    #     list_section.append(temp)

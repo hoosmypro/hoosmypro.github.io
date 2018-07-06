@@ -16,6 +16,8 @@ masterlist_of_Class = dict() #{number:ID}
 masterlist_of_Section = []
 # Masterlist that is used to store and retrive objects by IDs {ID:object}
 masterlist_of_Object = dict()
+
+populatingData = dict()
 dic = dict()              #dic stores raw data of classes
 dic_pro = dict()          #dic stores raw data of professors
 regexp_2018 = "([a-zA-Z]{2,}[- ]?[0-9]{4}):?(.*?)[\n,]{1,2}"
@@ -67,6 +69,18 @@ class Category:
     def output(self):
         return str(self.id) +";"+ self.name +";" +str(self.list_of_Class) +";"+ str(self.list_of_Instructor)
 
+    def populateData(self,id,list_class,list_instr):
+        self.id = id
+        for item in list_class:
+            self.list_of_Class.append(int(item))
+        for item in list_instr:
+            try:
+                self.list_of_Instructor.append(int(item))
+            except:
+                print(id,"Empty list")
+        populatingData[self.id] = self
+
+
 class Class:
 
     def __init__(self,number,name,belonged):
@@ -88,6 +102,14 @@ class Class:
     def output(self):
         return  str(self.id) +";"+ self.number +";"+ self.name +";"+ str(self.list_of_Instructor) +";"+ str(self.list_of_Section)
 
+    def populateData(self, id, list_instr,list_section):
+        self.id = id
+        for item in list_instr:
+            self.list_of_Instructor.append(int(item))
+        for item in list_section:
+            self.list_of_Section.append(int(item))
+        populatingData[self.id] = self
+
 
 class Instructor:
 
@@ -102,6 +124,12 @@ class Instructor:
 
     def output(self):
         return  str(self.id) +";"+ self.name +";"+ str(self.list_of_Class)
+
+    def populateData(self,id,list_class):
+        self.id = id
+        for item in list_class:
+            self.list_of_Class.append(int(item))
+        populatingData[self.id] = self
 
 
 class Section:
@@ -123,6 +151,10 @@ class Section:
 
     def output(self):
         return str(self.id) +";"+ self.number +";"+ self.name +";"+ self.comment  +";"+ str(self.instructor) + ";"+str(self.belonged)
+
+    def populateData(self,id):
+        self.id = id
+        populatingData[self.id] = self
 
 
 # functions
@@ -161,6 +193,26 @@ def initializeClass(number,name,pro,comments):
         temp = masterlist_of_Object[masterlist_of_Category[abb]]
     temp.newAddition(number,name,pro,comments)
 
+def repopulatingData(filename):
+    list_cate, list_class, list_instr, list_section = iostream.readGeneratedFile(filename)
+    for item in list_cate:
+        a = Category(item[1])
+        a.populateData(item[0],item[2],item[3])
+    for item in list_class:
+        a = Class(item[1],item[2],000000)
+        a.populateData(item[0],item[3],item[4])
+    for item in list_instr:
+        a = Instructor(item[1])
+        a.populateData(item[0],item[2])
+    # for item in list_section:
+    #     continue
+    print(populatingData)
+    return populatingData
+
+
+
+
+
 def initialize(data, f2017 = False):
     print("Start manually handling unrecognized inputs")
     c = 0
@@ -190,14 +242,12 @@ def initialize(data, f2017 = False):
         #     track()
         # if command == 'break':
         #     break
-
-
-iostream.readFiles(list1,dic,dic_pro)
-data_2018 = iostream.reg(regexp_2018,"Source_2018.csv")
-data_2017 = iostream.reg(regexp_2017,"Source_2017.csv")
-initialize(data_2017,True)
-initialize(data_2018)
-iostream.generateFile("output",masterlist_of_Object)
+# iostream.readFiles(list1,dic,dic_pro)
+# data_2018 = iostream.reg(regexp_2018,"Source_2018.csv")
+# data_2017 = iostream.reg(regexp_2017,"Source_2017.csv")
+# initialize(data_2017,True)
+# initialize(data_2018)
+# iostream.generateFile("output",masterlist_of_Object)
 
 
 

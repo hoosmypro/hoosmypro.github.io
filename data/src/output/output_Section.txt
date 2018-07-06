@@ -56,47 +56,15 @@
 400153;ECE2330;Digital Logic Design;"每节课都去，会有很多pop quiz, 但都是送分的。考试都是上课讲过的";300152;200151
 400157;APMA2120;Multivariable Calculus;水课，数学基础好就自己看note. 上课特别水，基本靠自学;300156;200155
 400160;APMA2130;Ordinary Differential Equations;"每节课都会有group work, 考试相对简单";300159;200158
-400164;CHEM1410;Introductory College Chemistry I;"1. difficulty: 4.32. hotness: 3.5 （大家选这门课的原因大多数都是因为major requirement 以及其他课程跟这门课其他教授的时间冲突所以选了这门课）3. 关于Prof. Metcalf的评价跟其他教授比起来真的不怎么样，给我感觉教的相当随意，然后经常自己讲自己的，讲的很快。没有curve！！！4. 不过因为是1410所以不是特别难，几乎靠自学。5. 这门课还有一节1411的lab  内容挺难的 但是TA都很好
-6. time commitment (lab included): 7-10h/week";300163;200162
-400168;BIOL2100;Introduction to Biology with Laboratory: Cell Biology &amp; Genetics;"1. difficulty: 3.5
-2. hotness: 4.5
-3. 这门课教授讲的非常仔细！而且教授很有趣，上课不会觉得无聊想玩儿手机。内容量挺大，要记的东西很多，不过教授会给curve。上完这门课一个本子写满了笔记。
-4. 这门课附带一个lab，占用时间很长，比较无聊，但是难度偏低。
-5. time commitment (lab included): 7-10h/week";300167;200166
-400170;MATH1310;Calculus I;"1. difficulty: 1.5
-2. hotness: 3.7
-3. 对中国学生来说是门水课，如果没有ap抵掉上一上可以boost gpa，其他就没啥了，会给curve，稳A !
-4. 这位教授带口音，教的也不好。。。完全靠自学
-5. time commitment: 2-4h/week";300169;200100
-400174;PSYC2150;Introduction to Cognition;"1. difficulty: 3.8
-2. hotness: 4.5
-3. 教授很有意思，上课不会无聊，因为考试内容25%来自lecture 25%来自课本，这门课内容很有趣，对认知心理感兴趣的同学可以上！一定要好好整理笔记，定期预习噢，阅读量挺大的
-4. 考试内容挺难的，但是教授上学期把average grade调到B－还是B，所以会有curve up！
-5. time commitment: 6-9h/week",COLA(thirteen ways to interpret ancient text),Ashleigh Elser,"1. difficulty：1
-2. hotness：4.5
-3. cola是college seminar，专门给大一第一学期的学生上的，后面就不能再上啦，只有一个学分，但是大家都会拿A
-4. 这门课内容超级有意思！教你用各种不同的方法去理解genesis里面的一个故事，绝对打开新世界大门！reading量不大
-5. time commitment: 1-3h/week";300173;200172
-400176;ENWR1510;Writing and Critical Inquiry;"1. difficulty: 4.5
-2. hotness: 4.5
-3. 这门课是我目前为止最喜欢的一门课！整个课是讨论形式，participation占很多分所以要多说话（所以需要课前准备什么的），非常要求批判性思维！很inspiring，让你看问题多了很多角度，以及阅读量大，但都非常有意思！读起来不会觉得无聊不想读。教授很热心，可以随意约office hour～
-4. time commitment: 7-10h/week";300175;200059
-400178;CS1110;Introduction to Programming;"1. difficulty: 4 (对于文科生和理科生差别挺大的。。。qwq)
-2. hotness：4.5
-3. 教授很可爱，讲课特别有激情，可我很难听懂。。。文科生慎重考虑吧。。编程挺好玩儿的，以及在lab和partner合作也特别开心！
-4. time commitment: 4-6h/week";300177;200002
-400181;MATH1320;Calculus II;"1. difficulty: 3.4
-2. hotness: 4.5
-3. 这位教授长得帅教的也好，是一个graduate student，上课会有i－clicker question（虽然只有32个人左右）挺难的，但是平时不用花太多时间，考前复习就ok啦！作业量挺大的，而且有网站上的和手写的。
-4. time commitment: 4-6h/week";300180;200179
-400184;PSYC3410;Abnormal Psychology;"1. difficulty: 3.5
-2. hotness: 4.8
-3. 内容特别有趣，跟生活息息相关啊！教授很搞笑，但是很厉害（撰写教科书来着）会看很多有意思的案例，然后阅读量比较大，作业不多，但是如果你想提升一个grade，可以写5篇additional paper（one page）
-4. time commitment: 3-6h/week";300183;200182
-400185;ECON2020;Principles of Economics: Macroeconomics;"1. difficulty: 3.5
-2. hotness: 4.8
-3. 教授非常注重打扮，每次上课领带都是不一样的。教的很好，但是discussion的ta基本决定了你考试成绩。遗憾的是我选的ta特别较真所以会多扣几分。。。（alexanda gross...）pre-comm必修课吧（当然ap抵掉了就无所谓啦）
-4. time commitment：3-6h/week";300042;200041
+400164;CHEM1410;Introductory College Chemistry I;"1. difficulty: 4.32. hotness: 3.5 （大家选这门课的原因大多数都是因为major requirement 以及其他课程跟这门课其他教授的时间冲突所以选了这门课）3. 关于Prof. Metcalf的评价跟其他教授比起来真的不怎么样，给我感觉教的相当随意，然后经常自己讲自己的，讲的很快。没有curve！！！4. 不过因为是1410所以不是特别难，几乎靠自学。5. 这门课还有一节1411的lab  内容挺难的 但是TA都很好 6. time commitment (lab included): 7-10h/week";300163;200162
+400168;BIOL2100;Introduction to Biology with Laboratory: Cell Biology &amp; Genetics;"1. difficulty: 3.5 2. hotness: 4.5 3. 这门课教授讲的非常仔细！而且教授很有趣，上课不会觉得无聊想玩儿手机。内容量挺大，要记的东西很多，不过教授会给curve。上完这门课一个本子写满了笔记。4. 这门课附带一个lab，占用时间很长，比较无聊，但是难度偏低。 5. time commitment (lab included): 7-10h/week";300167;200166
+400170;MATH1310;Calculus I;"1. difficulty: 1.5 2. hotness: 3.7 3. 对中国学生来说是门水课，如果没有ap抵掉上一上可以boost gpa，其他就没啥了，会给curve，稳A ! 4. 这位教授带口音，教的也不好。。。完全靠自学 5. time commitment: 2-4h/week";300169;200100
+400174;PSYC2150;Introduction to Cognition;"1. difficulty: 3.8 2. hotness: 4.5 3. 教授很有意思，上课不会无聊，因为考试内容25%来自lecture 25%来自课本，这门课内容很有趣，对认知心理感兴趣的同学可以上！一定要好好整理笔记，定期预习噢，阅读量挺大的 4. 考试内容挺难的，但是教授上学期把average grade调到B－还是B，所以会有curve up！ 5. time commitment: 6-9h/week",COLA(thirteen ways to interpret ancient text),Ashleigh Elser,"1. difficulty：1 2. hotness：4.5 3. cola是college seminar，专门给大一第一学期的学生上的，后面就不能再上啦，只有一个学分，但是大家都会拿A 4. 这门课内容超级有意思！教你用各种不同的方法去理解genesis里面的一个故事，绝对打开新世界大门！reading量不大 5. time commitment: 1-3h/week";300173;200172
+400176;ENWR1510;Writing and Critical Inquiry;"1. difficulty: 4.5 2. hotness: 4.5 3. 这门课是我目前为止最喜欢的一门课！整个课是讨论形式，participation占很多分所以要多说话（所以需要课前准备什么的），非常要求批判性思维！很inspiring，让你看问题多了很多角度，以及阅读量大，但都非常有意思！读起来不会觉得无聊不想读。教授很热心，可以随意约office hour～ 4. time commitment: 7-10h/week";300175;200059
+400178;CS1110;Introduction to Programming;"1. difficulty: 4 (对于文科生和理科生差别挺大的。。。qwq) 2. hotness：4.5 3. 教授很可爱，讲课特别有激情，可我很难听懂。。。文科生慎重考虑吧。。编程挺好玩儿的，以及在lab和partner合作也特别开心！ 4. time commitment: 4-6h/week";300177;200002
+400181;MATH1320;Calculus II;"1. difficulty: 3.4 2. hotness: 4.5 3. 这位教授长得帅教的也好，是一个graduate student，上课会有i－clicker question（虽然只有32个人左右）挺难的，但是平时不用花太多时间，考前复习就ok啦！作业量挺大的，而且有网站上的和手写的。 4. time commitment: 4-6h/week";300180;200179
+400184;PSYC3410;Abnormal Psychology;"1. difficulty: 3.5 2. hotness: 4.8 3. 内容特别有趣，跟生活息息相关啊！教授很搞笑，但是很厉害（撰写教科书来着）会看很多有意思的案例，然后阅读量比较大，作业不多，但是如果你想提升一个grade，可以写5篇additional paper（one page） 4. time commitment: 3-6h/week";300183;200182
+400185;ECON2020;Principles of Economics: Macroeconomics;"1. difficulty: 3.5 2. hotness: 4.8 3. 教授非常注重打扮，每次上课领带都是不一样的。教的很好，但是discussion的ta基本决定了你考试成绩。遗憾的是我选的ta特别较真所以会多扣几分。。。（alexanda gross...）pre-comm必修课吧（当然ap抵掉了就无所谓啦） 4. time commitment：3-6h/week";300042;200041
 400189;DRAM2310;Costume Technology;"Difficulty 1, hotness 5";300188;200187
 400193;ARCH2360;store;很实用;300192;200191
 400196;ARCH2010;Foundation Studio II;很好玩,arh,不记得,不好玩;300195;200194
