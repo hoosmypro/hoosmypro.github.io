@@ -31,14 +31,13 @@ def generateFile(file_name,masterlist_of_Object):
     file3 = open(file_name+"_Instr.txt",'w')
     file4 = open(file_name+"_Section.txt",'w')
     for obj in masterlist_of_Object.values():
-        print(obj.output())
-        if obj.id //100000 ==1:
+        if obj.id // 100000 == 1:
             file1.write(obj.output()+"\n")
-        elif obj.id //100000 ==2:
+        if obj.id // 100000 == 2:
             file2.write(obj.output()+"\n")
-        elif obj.id //100000 ==3:
+        if obj.id // 100000 == 3:
             file3.write(obj.output()+"\n")
-        elif obj.id //100000 ==4:
+        if obj.id // 100000 == 4:
             file4.write(obj.output()+"\n")
     file1.close()
     file2.close()
@@ -128,7 +127,7 @@ def readGeneratedFile(file_name):
     for line in file2:
         temp = line.strip('\n').split(";")
         if(len(temp)!=5):
-            print(temp)
+            print(line)
             print("Error")
         temp2 = [int(temp[0]),temp[1],temp[2],temp[3].lstrip("[").rstrip("]").split(", "),temp[4].lstrip("[").rstrip("]").split(", ")]
         list_class.append(temp2)
@@ -142,13 +141,16 @@ def readGeneratedFile(file_name):
         temp2 = [int(temp[0]),temp[1],temp[2].lstrip("[").rstrip("]").split(", ")]
         list_instr.append(temp2)
 
-    return list_cate,list_class,list_instr,[]
-    # file4 = open(file_name+"_Section.txt",'r')
-    # list_section = []
-    # for line in file4:
-    #     temp = line.strip('\n').split(";")
-    #     if(len(temp)!=6):
-    #         print(temp)
-    #         print(len(temp))
-    #         print("Error")
-    #     list_section.append(temp)
+    file4 = open(file_name+"_Section.txt",'r')
+    list_section = []
+    reg_pattern = "(\d{6});([A-Z]*\d*);(.*);(.*);(\d{6});(\d{6})"
+    addresspattern = re.compile(reg_pattern)
+    for line in file4:
+        temp = re.findall(addresspattern, line.strip('\n').strip('"'))[0]
+        if(len(temp)!=6):
+            print(temp)
+            print(len(temp))
+            print("Error")
+        temp2 = [int(temp[0]),temp[1],temp[2],temp[3],int(temp[4]),int(temp[5])]
+        list_section.append(temp2)
+    return list_cate,list_class,list_instr,list_section

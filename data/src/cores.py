@@ -2,11 +2,13 @@
 # University of Virginia
 # hc4pa@virginia.edu
 
-import iostream
+# Bugs to fix
+# 1. when importing category data, duplicates are not handled
+# 2. when repopulating data from a generated file, objects id is regenerated. Now this is handled by using a dict called populatingData and populateData() object method. In future it needs to be incorporated into masterlist_of_Object
 
 # ID is a six-digits code unique to a class/instructor/section/department. It is also used as an identifier when we create HTML pages
 # Categories begin with 1; Classes begin with 2; instructors begin with 3; Sections begin with 4.
-
+import iostream
 # Variables
 counter = 0      #it tracks ID generation
 # Masterlists that are used to get IDs by names/class numbers
@@ -18,6 +20,8 @@ masterlist_of_Section = []
 masterlist_of_Object = dict()
 
 populatingData = dict()
+debugDict = []
+debugCombine = dict()
 dic = dict()              #dic stores raw data of classes
 dic_pro = dict()          #dic stores raw data of professors
 regexp_2018 = "([a-zA-Z]{2,}[- ]?[0-9]{4}):?(.*?)[\n,]{1,2}"
@@ -146,15 +150,24 @@ class Section:
         self.difficult = difficult      #To be used in future
         self.hotness = hotness          #To be used in future
         self.belonged = belong          #The ID of class it belongs to
+        self.comments = [comments]
         masterlist_of_Object[self.id] = self
         masterlist_of_Section.append(self.id)
+        # debugCombine[self.number+masterlist_of_Object[self.instructor].name] = self
 
     def output(self):
-        return str(self.id) +";"+ self.number +";"+ self.name +";"+ self.comment  +";"+ str(self.instructor) + ";"+str(self.belonged)
+        return str(self.id) +";"+ self.number +";"+ self.name +";"+ str(self.comments)  +";"+ str(self.instructor) + ";"+str(self.belonged)
 
     def populateData(self,id):
         self.id = id
         populatingData[self.id] = self
+
+    def debug(self):
+        debugDict.append(self)
+
+    def combineComments(self):
+        self.comments.append("s")
+
 
 
 # functions
@@ -172,17 +185,27 @@ def getObject(id):
         return None
     return temp
 
-def track():
-    print(masterlist_of_Object)
-    print(masterlist_of_Class)
-    print(masterlist_of_Category)
-    print(masterlist_of_Instructor)
-    print(masterlist_of_Section)
-    while(True):
-        temp = input("Search object with ID; enter 'break' to quit")
-        if temp == 'break':
-            break
-        print(getObject(int(temp)).output())
+def track(mode = False):
+    if(mode):
+        print(populatingData)
+        while (True):
+            temp = input("Search object with ID; enter 'break' to quit")
+            if temp == 'break':
+                break
+            print(populatingData[int(temp)].output())
+    else:
+        print(masterlist_of_Object)
+        print(masterlist_of_Class)
+        print(masterlist_of_Category)
+        print(masterlist_of_Instructor)
+        print(masterlist_of_Section)
+        while (True):
+            temp = input("Search object with ID; enter 'break' to quit")
+            if temp == 'break':
+                break
+            print(getObject(int(temp)).output())
+
+
 
 def initializeClass(number,name,pro,comments):
     abb = ''.join(filter(str.isalpha, number))
@@ -204,14 +227,12 @@ def repopulatingData(filename):
     for item in list_instr:
         a = Instructor(item[1])
         a.populateData(item[0],item[2])
-    # for item in list_section:
-    #     continue
-    print(populatingData)
+    for item in list_section:
+        a = Section(item[1],item[2],item[4],item[3],item[5])
+        a.populateData(item[0])
+        a.debug()
+    # print(populatingData)
     return populatingData
-
-
-
-
 
 def initialize(data, f2017 = False):
     print("Start manually handling unrecognized inputs")
@@ -247,7 +268,25 @@ def initialize(data, f2017 = False):
 # data_2017 = iostream.reg(regexp_2017,"Source_2017.csv")
 # initialize(data_2017,True)
 # initialize(data_2018)
-# iostream.generateFile("output",masterlist_of_Object)
+#
 
+def debug():
+    global counter
+    counter = 0
+    masterlist_of_Category.clear()
+    masterlist_of_Object.clear()
+    masterlist_of_Section.clear()
+    masterlist_of_Instructor.clear()
+    masterlist_of_Class.clear()
+    for item in debugDict:
+        initializeClass(item.number, item.name, populatingData[item.instructor].name, item.comment)
+    # for item in debugDict:
+    #     key = item.number+populatingData[item.instructor].name
+    #     if key not in debugCombine:
+    #         initializeClass(item.number,item.name,populatingData[item.instructor].name,item.comment)
+    #     else:
+    #         debugCombine[key].comments.append(item.comment)
+    iostream.generateFile("output2", masterlist_of_Object)
 
-
+repopulatingData("output/output")
+debug()

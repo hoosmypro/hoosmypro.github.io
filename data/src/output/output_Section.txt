@@ -4,7 +4,7 @@
 400016;COMM1800;Foundations of Commerce;kemp 难度1 热度5 中考政治历史的学习方法。需要大量记忆哦。;300015;200014
 400019;CS2102;Discrete Mathematics;难度 1 热度5 cs系大水课。;300018;200017
 400020;CS1110;Introduction to Programming;非常有趣的一门课 能在学到东西的同时保证gpa difficulty 1-2 hotness 5;300003;200002
-400024;MUSIC1310;Basic Musical Skills;"大家都会推荐的一门课 不多说Difficulty 1 Hotness 5";300023;200022
+400024;MUSI1310;Basic Musical Skills;"大家都会推荐的一门课 不多说Difficulty 1 Hotness 5";300023;200022
 400027;SPAN1010;Elementary Spanish;很好的教授 workload偏大 a有一定难度 difficulty 3 hotness 3（取决于你对语音的兴趣）;300026;200025
 400031;MATH2310;Calculus III;课程内容略难 考试比较简单 教授给分也比较松 difficulty 2 hotness 1-5;300030;200029
 400034;MATH3351;Elementary Linear Algebra;强烈安利！如果你是math major的话强烈推荐！非常好的教授 课程会有些难但是教授讲得非常好！difficulty 3 hotness 5;300033;200032
@@ -30,7 +30,7 @@
 400084;RELB2054;Tibetan Buddhism Introduction;Difficulty 3，Hotness 3，藏传佛教，教授知道的东西特别多，但讲的比较深奥。要读很多书，每周150+ page。改卷不是很严所以看书认真写成绩不会差。;300083;200082
 400085;COMM1800;Foundations of Commerce;Difficulty 3，Hotness 5，商院必上。教授的口音很有魅力。虽然看书就能懂，但为了考试要考的takeaway不去上课又不行。事情很多，而且不curve。;300015;200014
 400089;ASTR1220;Introduction to Stars, Galaxies, and the Universe;Difficulty 5，Hotness 1，教授上课比较催眠，不靠各种电子教学设备靠纯讲。看书自学不够因为考试只考课上讲的。没有作业，考试极难，出题很tricky但curve很好。;300088;200087
-400093;FRENCH1010;Elementary French I;Difficulty 适中 Hotness 适中 很喜欢这门课，会在学习语言的同时了解文化，但是事情比较多。;300092;200091
+400093;FREN1010;Elementary French I;Difficulty 适中 Hotness 适中 很喜欢这门课，会在学习语言的同时了解文化，但是事情比较多。;300092;200091
 400094;ECON2010;Principles of Economics: Microeconomics;"Difficulty 4, Hotness 5, Elzinga上课比较意识流，考试不简单，TA很好，给分严。";300037;200036
 400098;HIEA2031;Modern China;"Difficulty 3 ,Hotness4 教授非常好，上课很有深度和条理，谨慎选TA，给分会比较有差别。";300097;200096
 400099;ECON2020;Principles of Economics: Macroeconomics;"Difficulty 3, Hotness 5, Lee 上课特别有趣，而且内心住着一个蹦迪小王子。条理清晰，并且lecture的内容和textbook 比较match.";300042;200041
@@ -39,7 +39,7 @@
 400106;MATH2310;Calculus III;"Difficulty 2, hotness 4, Xiang Wan is a good instructor. He explains material well and the test is easy. Take it if you'd like do calculus III";300105;200029
 400109;ECON303;Money and Banking;"Difficulty 5, hotness 4. Interesting class, lots of knowledge about money and the banking system in the states. The material is hard and requires lots of reading.";300108;200107
 400110;MATH3351;Elementary Linear Algebra;"Difficulty 4, hotness 5. The material is quite confusing so you should read the book and review for the test really hard. But Professor Huneke is good.";300033;200032
-400114;SOCIOLOGY1010;Introductory Sociology;"Difficulty 4, hotness 3. Big class so plz sit in the front. Otherwise you will not get what Professor says in class. And take good notes and memorize all of them. The exams are about the class lectures. Heads up!";300113;200112
+400114;SOC1010;Introductory Sociology;"Difficulty 4, hotness 3. Big class so plz sit in the front. Otherwise you will not get what Professor says in class. And take good notes and memorize all of them. The exams are about the class lectures. Heads up!";300113;200112
 400115;ECON2010;Principles of Economics: Microeconomics;"Difficulty 5, hotness 5. Professor Elzinga is really great. He is known for his office hour. He introduces many things other than the microeconomics knowledge you may have learned in high school but they are all quite useful.";300037;200036
 400116;CS1110;Introduction to Programming;Cs入门课，挺简单的;300077;200002
 400119;ECE2630;ECE Fundamentals I;电路入门课，很实用，很多知识会用到毕业;300077;200118
@@ -75,7 +75,7 @@
 400211;MUSI3334;Musicianship II;"Difficulty 5, Hotness 5, nice instructor but the course itself has fast progress, crazy syllabus. No zuo no Die.";300210;200209
 400214;MUSI3680;New Music Ensemble;"difficulty 1, hotness 5, choose this one if you don't play an instrument well but want to get an A for performance. No pressure at all and no need to prepare for anything.";300213;200212
 400218;EVSC2801;Fundamentals of Geology Laboratory;"Difficulty 2, Hotness 4, simple lab activities that allow you to recognise stones and stones.";300217;200216
-400222;PSY2150;Introduction to Cognition;教授真的很棒！考试都是选择题;300221;200220
+400222;PSYC2150;Introduction to Cognition;教授真的很棒！考试都是选择题;300221;200220
 400223;ECON2010;Principles of Economics: Microeconomics;教授很好，比AP讲的内容更加详细、深入;300037;200036
 400224;ENWR1510;Writing and Critical Inquiry;教授人特别好！是夏洛克主题的一门课。但是Paper不是很好拿分;300060;200059
 400225;MATH1310;Calculus I;能用AP换赶紧换。考试题目很刁钻;300217;200100
@@ -86,7 +86,7 @@
 400237;ECON3020;Intermediate Macroeconomics;我觉得这是最简单的一节econ3020了！老师又非常重的韩国口音！讲课不算特别清晰因为他老在想用英语怎么表达他的意思。但是人很nice，你找他问问题他不一定讲的清楚但是他真的在try his best TA是个中国人我觉得蛮好的 思路很清晰，他的discussion可以不用去不计attendance 很chill！;300236;200235
 400239;STAT2120;Introduction to Statistical Analysis;这节课很简单，easy A只是比较耗时间比较琐碎，要做的事情很多，lecture比较无聊，其实可以不用去，但是Jeff讲的很清晰，讲题能讲的很明白。会有很多人take这节课 互相carry吧～;300238;200073
 400242;PSYC2600;Introduction to Social Psychology;Difficulty2 hotness 5 我觉得这门课特别特别有意思。也不是很难心理课是没有作业的;300241;200240
-400246;MATHS3351;Elementary Linear Algebra;Difficulty3 hotness 3 我觉得这个教授特别好很有耐心作业稍微有些多,Astr is1210 Intro to SolarSystem,prof.Evans,Difficulty 2 hotness 3 这个老师教的课比较容易其他老师有点难考试也不难都是选择;300245;200244
+400246;MATH3351;Elementary Linear Algebra;Difficulty3 hotness 3 我觉得这个教授特别好很有耐心作业稍微有些多,Astr is1210 Intro to SolarSystem,prof.Evans,Difficulty 2 hotness 3 这个老师教的课比较容易其他老师有点难考试也不难都是选择;300245;200244
 400249;DRAM2010;Theatre Art: Image to Form;difficulty 2 hotness4表演还是特别有趣的，考试大多数也是表演。这门课虽然不难，但表演一定要多花心思;300248;200247
 400252;PSYC1010;Introductory Psychology;difficulty3 hotness2这个教授上课特别有热情讲的也思维很清晰，就是考试有点多;300251;200250
 400253;CS1110;Introduction to Programming;Difficulty4，Hotness 5，教授这门课很强，做好作业，最后的成绩就会很好;300003;200002
@@ -136,7 +136,7 @@
 400354;ECON2010;Principles of Economics: Microeconomics;"Difficulty 2, Hotness 5, not difficult, required for commerce students";300353;200036
 400357;BIOL2200;Introduction to Biology w/Laboratory: Organismal &amp; Evolutionary Biology;"Difficulty 3, Hotness 4, basic for biology student, interesting but a little bit difficult.";300356;200355
 400359;ENWR1510;Writing and Critical Inquiry;教授和学生的互动很好，授课内容很有意义 同时提升写作水平,Modern Physics,Xiaochao Zheng,尤其推荐给工院的学生，属于science elective。中国教授 可不是很难，认真学容易拿高分;300358;200059
-400362;GERMAN1010;Elementary German;入门课 非常容易拿满分，小班授课，教授都特别好接触;300077;200361
+400362;GERM1010;Elementary German;入门课 非常容易拿满分，小班授课，教授都特别好接触;300077;200361
 400364;ARTS2610;Introduction to Drawing I;推荐给对艺术感兴趣的同学，一定要有基础。课不难 比较休闲，不过还是要认真对待,Probability (Math 3100),Meyer,基础概率学的课 工院和文理院的学生都可以选，有国内数学基础的学生学起来很简单;300363;200063
 400365;PHIL2660;Philosophy of Religion;"Difficulty 3-4, Hotness 5. 教授极为出色，但文科课对刚到美国的学生可能会有些困难。";300324;200323
 400366;MATH2310;Calculus III;"Difficulty 3, Hotness 4. 国内学生的入门数学课，基本课程设计，分数提升机会很多。";300030;200029
@@ -148,14 +148,11 @@
 400377;STAT2120;Introduction to Statistical Analysis;商院经济专业必修，其实挺躲不过的，Lecture怎么样完全看教授，Lab的话呵呵哒……4分的课作业量相对较大，不要掉队就好~难度4，热门度5。;300077;200073
 400380;MUSI2302;Keyboard Skills (Beginning);十人的小班钢琴课，需要教授同意才能上，建议零基础或者几乎零基础的同学学习。刚开始的时候可能会觉得很简单，但是中间如果不仔细容易掉队。难度2，热度4。;300379;200378
 400383;ECON3010;Intermediate Microeconomics;这个老师貌似只有春季学期才讲课，不过其实说实话3010我觉得要比2010(估计所有的学长学姐们都写了这门课)简单一点……可能没有大课所有人一起struggle的感觉，但是所有人考试都答不完卷子然后curve巨大要比2010的93A curve到 92.5 A要爽得多。是个四分课，但是我个人觉得工作量并没有那么大。但是因为是经济专业必修课，所以大一有可能选不上。难度3，热度6。;300382;200381
-400384;COLA1500;College Advising Seminars;"Difficulty 3, Hotness 5, 如果你喜欢生物想要major生物，非常推荐这个课！我很喜欢Professor Kittlesen他人超级好，而且上课会提很有趣的问题带领大家一起讨论。同时因为这个课是COLA (college advising seminar)，所以在上课的同时还会给你介绍UVA的资源，比如参观career center给你介绍怎么在图书馆research什么的，教授也会成为你大一大二的advisor。划重点COLA只有大一上学期可以上。
-但是作为一个只有一学分的课work load有点大，不过Prof Kittlesen说他正在努力的减少这门课的work load，而且我觉得拿A也不是很难。";300167;200314
-400385;PSYC2600;Introduction to Social Psychology;"Difficulty 2, Hotness 5. 超级有趣的一门课，感觉学到了很多很实用的东西。Professor Oishi讲课很可爱很逗，经常在课上讲段子自黑，考试全是选择题不是特别难，但还是要好好复习。但是听说这个课不同的professor差别有点大，想选的话到时候可以再多了解一下。
-这个课很多很多人想报可能有点难抢，但是不要因为看到waitlist很多人就不抢，我当时虽然有waitlist还是第一时间选了而且一下就进了我也不知道为什么。";300241;200240
+400384;COLA1500;College Advising Seminars;"Difficulty 3, Hotness 5, 如果你喜欢生物想要major生物，非常推荐这个课！我很喜欢Professor Kittlesen他人超级好，而且上课会提很有趣的问题带领大家一起讨论。同时因为这个课是COLA (college advising seminar)，所以在上课的同时还会给你介绍UVA的资源，比如参观career center给你介绍怎么在图书馆research什么的，教授也会成为你大一大二的advisor。划重点COLA只有大一上学期可以上。但是作为一个只有一学分的课work load有点大，不过Prof Kittlesen说他正在努力的减少这门课的work load，而且我觉得拿A也不是很难。";300167;200314
+400385;PSYC2600;Introduction to Social Psychology;"Difficulty 2, Hotness 5. 超级有趣的一门课，感觉学到了很多很实用的东西。Professor Oishi讲课很可爱很逗，经常在课上讲段子自黑，考试全是选择题不是特别难，但还是要好好复习。但是听说这个课不同的professor差别有点大，想选的话到时候可以再多了解一下。这个课很多很多人想报可能有点难抢，但是不要因为看到waitlist很多人就不抢，我当时虽然有waitlist还是第一时间选了而且一下就进了我也不知道为什么。";300241;200240
 400386;COMM2010;Introduction to Financial Accounting;"Difficulty 3, Hotness 5, Prof. Backof很美很聪明很女神，上课也会尽量讲的很有趣，但是我觉得Financial accounting真的好无聊，如果不是想进商院并不是很推荐，但是学了肯定还是有用的。";300068;200067
 400387;CS1110;Introduction to Programming;"Difficulty 3, Hotness 4，作为以前没接触过CS的人我觉得这门课很有趣，一开始的时候有点晕觉得很难，但是学期快结束的时候突然觉得很简单，觉得掌握了很多新技能也学到了超多有用的东西。Prof. Sherriff是我觉得讲课最好玩的老师之一，画风清奇，但是有的时候他讲的很快也有点随性可能会跟不上，不过听说他最近几个学期要去忙什么事情，所以几个学期之内不会再教这门课。有的时候课后作业有点难，但是去TA office hour会帮挺大忙的，而且TA office hour特别多比较方便。";300003;200002
-400390;BIOL3010;Genetics and Molecular Biology;"Difficulty 5, Hotness 4, 如果不major生物可千万别选这节课...作业很多，很多，很多...不过Professor Cronmille是很好的教授，她会补充很多书上没有的知识，office hour也很耐心。
-但是我觉得这门课没有大家说的那么难，找到一个study group是最最重要的事情。考试想要考好要对知识理解的很透彻，但是各种process和enzyme的名字老师不是很爱考所以没有很多需要死记硬背的东西。然后虽然work load超级大，但是好好读书好好听课好好做作业是可以学好的，最近几次考试班里的平均分真的不低，所以想学生物的宝宝们不怕！";300389;200388
+400390;BIOL3010;Genetics and Molecular Biology;"Difficulty 5, Hotness 4, 如果不major生物可千万别选这节课...作业很多，很多，很多...不过Professor Cronmille是很好的教授，她会补充很多书上没有的知识，office hour也很耐心。但是我觉得这门课没有大家说的那么难，找到一个study group是最最重要的事情。考试想要考好要对知识理解的很透彻，但是各种process和enzyme的名字老师不是很爱考所以没有很多需要死记硬背的东西。然后虽然work load超级大，但是好好读书好好听课好好做作业是可以学好的，最近几次考试班里的平均分真的不低，所以想学生物的宝宝们不怕！";300389;200388
 400391;CHEM1410;Introductory College Chemistry I;"Difficulty 4, Hotness 2，个人并不喜欢化学，Prof. Metcalf讲课很迷很意识流，课前不看书基本听不懂，而且他课上会问很难很诡异还要算成绩的问题，但是好好看书的话我觉得没有Course Forum上美国小伙伴们说的那么难，Prof. Metcalf也没有Course Forum上说的那么不好，其实他人很可爱。不过如果一定要学化学的话，还是建议选 Professor Lisa Morkowhuk 或者Kevin Welch的，听说1410 Prof. Morkowhuk教的比较好，1420 Prof. Welch的比较简单，不过这两位教授的课我都没有上过，Prof. Linda Columbus 听说上学期大半个班都拿A了应该是最好拿A的化学课，但是她的课据说大部分靠自学，而且她早上八点上课，有勇气觉得自己能起得来的同学可以尝试。";300163;200162
 400393;CHEM1411;Introductory College Chemistry I Laboratory;"Difficulty 5, Hotness 2, 一学分，很迷的实验课，instruction很不清楚，work load挺大的，建议别选周一周二的，因为作业很难很烦，最好留出去office hour的时间（不过office hour很多很方便）。个人觉得不一定要和化学一起上，但是作为生化必修课可以本着早死早超生的心态早点把它上了，虽然有些实验要用到的知识可能还没讲但是没什么影响...文理学院的同学应该是可以选工院的1611化学实验的，1611两周上一次课但是比1411多一个group project，1411每周一次课要比1611多大概三个实验（关于文理学院上工院1611的事情还是建议再问一下教授，不知道这么做会不会有什么影响）。";300217;200392
 400394;PHIL2660;Philosophy of Religion;"Difficulty 5, Hotness 5，超级有趣的哲学入门课，不需要任何关于哲学或者宗教的知识也能学好。Professor Merricks是一个很大神的教授，而且他上课特别有意思，有时候竟然有种觉得一节课时间太短的感觉。作业只有读reading，前几个reading很难读不过后来会慢慢好起来，听说算work load相对小的哲学课。我觉得课的内容很难，但是考试的话每次考前老师会给大概30道review questions，考试的时候选三道改一下wording来考，而且每次考试前会有review session带着过这些问题，所以好好准备的话是完全可以考好的。";300324;200323
@@ -179,24 +176,22 @@
 400433;PHYS1010;The Physical Universe;水水的课教授很逗;300077;200432
 400436;ARCH1020;Lessons in Making;难课 但真的有意思;300435;200434
 400438;ARH1010;History of  Architecture I;对文科学生非常简单;300340;200437
-400439;COMM1800;Foundations of Commerce;"自己看书 online practice quiz多做几次 lecture嘛……嗯听故事的时间到了
-难度3 hotness3";300015;200014
-400440;ECON2010;Principles of Economics: Microeconomics;"Elzinga很酷的老爷爷 喜欢 讲的很有意思 看起来econ好棒好简单哦 然而考试（摊手） 腹黑可爱的老爷爷
-难度4 hotness5";300037;200036
+400439;COMM1800;Foundations of Commerce;"自己看书 online practice quiz多做几次 lecture嘛……嗯听故事的时间到了难度3 hotness3";300015;200014
+400440;ECON2010;Principles of Economics:Microeconomics;"Elzinga很酷的老爷爷 喜欢 讲的很有意思 看起来econ好棒好简单哦 然而考试（摊手） 腹黑可爱的老爷爷难度4 hotness5";300037;200036
 400441;ARTS2610;Introduction to Drawing I;难度3 hotness4 能不能拿A全看教授喜不喜欢你的画（笑） 然而一周5小时的commitment宝宝们选课谨慎啊;300077;200063
 400442;JAPN1010;First-Year Japanese;难度2 hotness3 Intro的课还比较简单的 好好上课好好写作业就没问题 老师非常可爱 我爱kawai;300046;200045
 400443;ECON3010;Intermediate Microeconomics;难度4 hotness3 Econ201的进阶版本 加上了微积分和game theory 老师教的挺好的挺清楚的 然而考试（摊手）好好复习 嗯。;300077;200381
 400444;CS1110;Introduction to Programming;"Difficulty 2,Hotness 5,非常有趣的一节课，作业potd一共16个非常manageable，老师很幽默，最后有game project做游戏。Lab可以简单拿分考试也不是很难。";300003;200002
 400447;ANTH1010;Introduction to Anthropology;"Difficulty 3, Hotness 3. 一节有趣的人类学入门，浅显易懂的介绍了各种人类学topics，像农业起源，人类进化，到强权政体，世界经济等等，不是特别难，但教授讲课不是特别清楚，lecture没有那么有用。最有用的是考试前发的review notes，认真看完理解基本就没有问题了。";300446;200445
 400448;PSYC2150;Introduction to Cognition;"Difficulty 4.5, Hotness 5，非常棒的一节课，缺点是难度不低，讲了认知心理学的入门，包括感知，思维，意识，记忆等等。教授讲课非常非常清晰有趣，考试需要认真做reading和听lecture。好在reading不多";300173;200172
-400450;MUSIC1310;Basic Musical Skills;"Difficulty 1,Hotness 3,讲了基本乐理，比较有趣，教授很chill上课会表演乐器，难度真的不难作业也不多。";300449;200022
+400450;MUSI1310;Basic Musical Skills;"Difficulty 1,Hotness 3,讲了基本乐理，比较有趣，教授很chill上课会表演乐器，难度真的不难作业也不多。";300449;200022
 400451;ENWR1510;Writing and Critical Inquiry;"Difficulty 5, Hotness 3,另外一节强推的课，教授非常nice她所有的观点都非常有意思，具体课程内容是从动物角度映射到各种哲学和道德问题。如果上完将是一个非常rewarding的课，reading很多且课是discussion-based，但不妨碍它成为一节很好的enwr课。";300175;200059
 400452;PHIL2060;Philosophical Problems in Law;"Difficulty 3,Hotness 3, 虽然是哲学课，更多是法律入门，教授很幽默，所有成绩由两个考试两个paper组成，总体来说lecture非常重要，paper难度不是很高。";300233;200232
 400455;ASTR1280;The Origins of Almost Everything;"Difficulty2, Hotness 5, 教授非常有趣，讲课可能是我见过所有教授里面最清晰的，成绩由很多部分组成，比如什么额外lab，project啊，但难度都不高，作业也相对来说简单.比较难的是Quiz";300454;200453
 400456;CS2102;Discrete Mathematics;Difficulty 4，Hotness，难度大的一节课，教授一般，讲逻辑然后将数论，多做做题应该会好，因为难度大教授给分比较松。;300077;200017
 400460;STS1499;Introduction to Technical Communications for Non-Native Speakers;Don't take it. ;300459;200458
 400462;ENGR1620;Introduction to Engineering;He's nice. High gpa overall. Requirement. ;300461;200259
-400466;PHYSICS2620;Modern Physics;Difficult class especially when you have a mediocre teacher. But interesting. ;300465;200464
+400466;PHYS2620;Modern Physics;Difficult class especially when you have a mediocre teacher. But interesting. ;300465;200464
 400468;APMA2120;Multivariable Calculus;"Not a tough course, requirement, but never take it with a Russian teacher. ","Engr1621, chem1611",TAs,"Labs, requirements, nothing to worry about when you have a good team. ";300467;200155
 400469;CS2110;Software Development Methods;2，1，就是学学java basics;300018;200120
 400472;ECE2066;Science of Information:  How the iPhone Works;3，4，delong教的好;300471;200470
@@ -229,22 +224,14 @@
 400532;SPAN1010;Elementary Spanish;"Difficulty 4.5, Hotness 5. 如果要学spanish的话一定要考虑选Kate Neff的课，虽然能不能选上拼人品。上课讲的非常好，而且人也特别nice。";300026;200025
 400533;CS2150;Program and Data Representation;D5 H5 巨他妈多的作业 好好学很有用;300123;200122
 400536;MUSI4559;New Course in Music;D5 H3 老师是斯坦福的博士 有点nerdy 没有考试全是project 有意思有成就感;300535;200534
-400540;ENGL1500;Masterworks of Literature;"H 1000000+ D5
-这是我在uva上的最棒的课
-老师哈佛本科宾大phd 非常非常有智慧聪明 而且人又漂亮有气质很温柔
-学了很多很多";300539;200538
-400543;MUSI3050;Music and Discourse Since 1900;"H5D4
-Fred Maus真的是我遇到过最nice最体贴最靠谱的教授
-普林斯顿phd 非常聪明
-好课 music major必修";300542;200541
-400545;STAT2120;Introduction to Statistical Analysis;"D4H1
-老师教的一般
-给分特别严格 她应该是整个stat部门给分最低的老师 不要上";300544;200073
+400540;ENGL1500;Masterworks of Literature;"H 1000000+ D5这是我在uva上的最棒的课老师哈佛本科宾大phd 非常非常有智慧聪明 而且人又漂亮有气质很温柔学了很多很多";300539;200538
+400543;MUSI3050;Music and Discourse Since 1900;"H5D4Fred Maus真的是我遇到过最nice最体贴最靠谱的教授普林斯顿phd 非常聪明好课 music major必修";300542;200541
+400545;STAT2120;Introduction to Statistical Analysis;"D4H1老师教的一般给分特别严格 她应该是整个stat部门给分最低的老师 不要上";300544;200073
 400546;ECON2010;Principles of Economics: Microeconomics;Difficulty: 2 Hotness: 2 教授讲微观经济的方式很奇怪，但是讲的很清楚，每次一个内容可以讲很多遍。教授给分也很高，考试比较有套路（相对容易，和discussion内容相似，一定不要翘discussion），这课我上的时候没有作业，教授人很nice，强推这个教授。;300070;200036
 400547;ARTS2110;Introduction to Photography I;"Difficulty 3, Hotness 2, 这门课非常耗时间（平均每周workload 5~10小时），比较烧钱（>500刀）。教授人非常nice而且很chill，她会给additional lab days。大家平均摄影水平较高，而且洗照片难度较大，对黑白摄影不感兴趣的慎重考虑。如果喜欢摄影、洗照片，这门课是可以学到很多的一门课（也比较容易拿A）。两个教授Pam和Alice Bailey，我更推荐Pam。";300482;200481
 400548;COMM1800;Foundations of Commerce;"Difficult 3, Hotness 3 这门课嘛，反正不用上课听课，记一下Takeaway, 看看cengage就能过。。。";300015;200014
 400550;MATH3100;Introduction to Probability;"Difficulty 4, Hotness 3, 这门课本身不是特别难，这教授。。。不想说什么，就自学吧。Final 比较难，不给curve。不推荐这个教授。";300549;200344
-400553;PYSC2150;Introduction to Cognition;"Difficulty: 5, Hotness 3. 教授讲的很好，这门课也很有趣，考试真的真的难，需要背的东西较多，非心理major慎重考虑。";300173;200552
+400553;PSYC2150;Introduction to Cognition;"Difficulty: 5, Hotness 3. 教授讲的很好，这门课也很有趣，考试真的真的难，需要背的东西较多，非心理major慎重考虑。";300173;200552
 400554;COMM1800;Foundations of Commerce;这节课需要背的东西很多，但是包含很多business的基础知识。TA评分标准不一。;300015;200014
 400556;CS1110;Introduction to Programming;这节课内容还是挺有意思，TA很好。老师迷之幽默，但我get不到她的笑点。;300555;200002
 400557;ECON2010;Principles of Economics: Microeconomics;涵盖基本微观经济知识，老师也很好，很耐心地回答问题。;300070;200036
@@ -263,11 +250,11 @@ Fred Maus真的是我遇到过最nice最体贴最靠谱的教授
 400583;RELI2070;Classical Islam;能够satisfy non western和religious study这两个requirement reading很多很难但是其实不需要全都读完 所以workload还是比较友好的 Prof Nair人特别好 给分给得很公正 知识也特别渊博 感恩节会提前放假 考试全都是开卷的并且会提前把题目告诉学生 还是很值得推荐的;300582;200581
 400586;FREN1020;Elementary French II;Cécile是法国人 法语的口音太好听了 听她讲话是我每天上课的动力 可能是最chill的法语老师 要是想要chill一点的话一定要跟着她 workload比同一门课的其他老师都小 gpa也很友好;300585;200584
 400590;HILA2002;Modern Latin America, 1824 to Present;Klubock的课和reading都特别有意思 完全不会让人觉得无聊 他讲课的语速很快 所以抄笔记老是抄到手疼 但是过程特别rewarding 可以satisfy history的req workload也还行 在uva的history里还是算比较有好的;300589;200588
-400593;PYSC2600;Introduction to Social Psychology;Wilson应该是教PYSC2600里面资历最老的老师 也是课本的作者之一 确实教得很好 感觉虽然考过AP psych但是还是能学到很多东西 要是能上他的课一定要上！;300592;200591
+400593;PSYC2600;Introduction to Social Psychology;Wilson应该是教PYSC2600里面资历最老的老师 也是课本的作者之一 确实教得很好 感觉虽然考过AP psych但是还是能学到很多东西 要是能上他的课一定要上！;300592;200591
 400594;COMM1800;Foundations of Commerce;考试前抱佛脚是最有用的 课本挺好看的;300015;200014
 400595;PHIL2660;Philosophy of Religion;"The best class I have taken, 10/10 recommend";300324;200323
 400596;COMM2020;Introduction to Management Accounting;best professor ever;300479;200478
-400599;STATS3120;Introduction to Mathematical Statistics;"major requirement for math and stats, a lot of people dont like it, I loved it and found it very interesting";300520;200598
+400599;STAT3120;Introduction to Mathematical Statistics;"major requirement for math and stats, a lot of people dont like it, I loved it and found it very interesting";300520;200598
 400601;MATH3310;Basic Real Analysis;"did research with this professor, he's also my major advisor, took his differential equations class too, love him";300600;200509
 400602;COMM1800;Foundations of Commerce;AVOID if you are not precomm;300015;200014
 400606;OF19;store;"4, 5. History and art intertwined so learned about both and how one has impacted another; the words she used are just precise and beautiful; lots of readings and fair amount of writings; if you're curious it's worth it",Problems of Roman Art,John Dobbins,"3, 5. He's an old guy but open to new ways of teaching the class. We had group projects in which we analyzed the design of a gallery in museum and drew the pavilions on the lawn. Discussion was great, learned a lot and wasn't intimidating even though I knew little about Roman art.";300605;200604
@@ -278,8 +265,7 @@ Fred Maus真的是我遇到过最nice最体贴最靠谱的教授
 400617;FORU1500;Introduction to the Forums;"I am part of the Creative Processes forum and this class is our required class for the first semester. I really love the nature of the class. We had many fun activities, such as dancing together, acting, walking around the classroom in different speeds, and making weird poses. We had guest speakers for every class. As for the workload, basically you need to write a response every week, reflecting on what you have learned in class and connecting it to the old materials. There is a 5-page midterm paper on what you have learned so far. The final is similar. Since it is a ""creative"" class, I guess everyone got an A in the end.";300616;200615
 400621;EDIS2010;Teaching as a Profession;A solid easy A class. You get full credits as long as you do the work. Quality doesn't matter. Classes meets twice a week and you need to go to a high school or middle school for 10-12 hours volunteering.;300620;200619
 400622;CS1110;Introduction to Programming;Difficulty 3 Hotness 5 教授讲课特别有趣，也很有自己的风格。平常的作业量也并不是很多。除了考试之外，家庭作业在成绩中也占了很大比重。;300003;200002
-400625;PHIL1410;Forms of Reasoning;Difficulty 5 Hotness 2 教授在UVA已经教书有50多年了，算是见证了UVA大大小小的变化。很有智慧。课上的内容初听会有些迷惑，但是去教授office hour 会有很大的提升。基本上A-是最高分,Intro to Cognition Psyc2150,Prof Wilingham,"Difficulty 4 Hotness 4
-基本没有作业，但需要做Psych study. 教授上课讲的内容特别重要。 概念的区分和理清也很重要。考试考的很灵活。";300624;200623
+400625;PHIL1410;Forms of Reasoning;Difficulty 5 Hotness 2 教授在UVA已经教书有50多年了，算是见证了UVA大大小小的变化。很有智慧。课上的内容初听会有些迷惑，但是去教授office hour 会有很大的提升。基本上A-是最高分,Intro to Cognition Psyc2150,Prof Wilingham,"Difficulty 4 Hotness 4基本没有作业，但需要做Psych study. 教授上课讲的内容特别重要。 概念的区分和理清也很重要。考试考的很灵活。";300624;200623
 400627;CS2110;Software Development Methods;Difficulty 4 Hotness 4 教授讲课很清楚，难度也不大。很多都是建立在CS1110的基础上的。;300626;200120
 400628;COMM2010;Introduction to Financial Accounting;老师上课讲的很清楚。作业不多，都在巩固上课内容。考试也不难;300068;200067
 400630;ECON3010;Intermediate Microeconomics;"Difficulty 3, Hotness 2, 比较容易得A";300629;200381
@@ -336,39 +322,17 @@ Fred Maus真的是我遇到过最nice最体贴最靠谱的教授
 400734;MATH3100;Introduction to Probability;"Difficulty 3, Hotness 4, 对于有排列组合（小学奥数难度）和stats基础的同学来说没有问题，属于简单的数学课";300549;200344
 400736;ECON3030;Money and Banking;"Difficulty 3.5, Hotness 3.5, 可以通过这节课对经济建模有很好的认识，课程材料很多。读书，Homework练习，每天复习是取得好成绩的关键。Prof 的office hour很有帮助";300108;200735
 400738;MATH3310;Basic Real Analysis;"Difficulty 2, Hotness 2, 老师非常好，很年轻但是讲课很清楚，课程内容也比较简单，考试题目大量来自书上及作业原题，值得推荐。数学专业必修课";300737;200509
-400739;CS2110;Software Development Methods;"difficulty 4
-prof basit 很好！但是上课有点无聊会学不少java的概念";300626;200120
+400739;CS2110;Software Development Methods;"difficulty 4 prof basit 很好！但是上课有点无聊会学不少java的概念";300626;200120
 400740;CS2102;Discrete Mathematics;difficulty 4.5 hotness 2逻辑和证明对我来说挺费劲的🙃;300018;200017
-400743;STS1500;Science, Technology, and Contemporary Issues;"difficulty 500，hotness -500
-就我个人而言 非常无聊非常糟糕的一节课 单纯的偏见不喜欢";300742;200741
-400745;APMA2120;Multivariable Calculus;"difficulty 4 hotness 5
-是个中国老师 超棒讲课超级清晰 而且人超级好";300744;200155
-400747;ENGR1620;Introduction to Engineering;"difficulty 2 hotness 5
-prof 很棒 工院必修基础课 最后大家造了个乐器";300746;200259
-400748;HIEA1501;Introductory Seminar in East Asian History;"Difficulty 5
-Hotness 1 (I wish I can give 0)
-
-This class satisfies two area requirements of CAS, history and second-year writing. But please be advised, if you are a first-year and not good at writing and not yet used to English reading, DO NOT take this class. The class is about history on the surface, but it actually requires a lot of readings on philosophy. The instructions on writing the essay was confusing, but the professor was always willing to address your questions. He was almost available in his office everyday, but he did not reply to any of my emails :)";300641;200288
-400752;FORM1500;Introduction to the Forums;"Difficulty 4
-hotness 5
-BEST class I had in UVA so far. Participation is highly valued  and the contribution to in class discussion counts toward a great deal of the final grade. This class is special as it is part of the FORUM program that is only recently available to UVA CAS students and aims to replace to CAS requirements. Please contact me in person if you want to know more about the program.";300751;200750
-400753;COMM1800;Foundations of Commerce;"Difficulty 2
-Hotness 1
-haha This is one of the class that filters out those people who are not really interested in doing comm school in the future, because as a prerequisite of the comm school, it is BORING!!! This class gives you a overview on how business works and really test if you are determined enough to do comm school in the future. All exams are not cumulative and you can get good grade by completing all practice quizzes online at least three times and taking good notes Kemp's take-way in lectures.";300015;200014
-400754;ECON2010;Principles of Economics: Microeconomics;"Difficulty 3
-Hotness 2
-
-Some people say Prof. Elzinga, as one of the most famous Econ professor, is overrated. Well, it is partially true. His lectures were not so structured and hard to take notes on. However, he can be very helpful not only in the course but in providing other social resources once you get to know him more.",STAT  2120,Jeffery Woo ,"Difficulty 3
-Hotness 2
-Again it is a prerequisite for the comm school and is a true test for your interest in doing comm. The knowledge is very useful not only in finance but also in other social studies. He often messed up the quiz solutions. However, the course is still recommended for its applicability.";300037;200036
-400755;COMM2010;Introduction to Financial Accounting;"Difficulty 4
-Hotness 5+++++
-
-Prof. Backof is the best stylist in comm school :) She organizes materials and gives very informative and structured lectures. Accounting is all about sets of rules, so her lectures notes come in handy every time if you are confused about definitions and accounting principles.";300068;200067
-400757;PSYC2600;Introduction to Social Psychology;"Difficulty  3
-Hotness 3
-
-Social psychology is very interesting, despite Smyth's midterms and finals are said to be the most difficult ones among all the Social Psychology professors. The textbook is really interesting and can give you another perspective in viewing your people around you and your decisions. Plz pay attention to him in lectures and be present in every lecture for the all iclickers questions, which make up 10% of the final grade.";300756;200240
+400743;STS1500;Science, Technology, and Contemporary Issues;"difficulty 500，hotness -500就我个人而言 非常无聊非常糟糕的一节课 单纯的偏见不喜欢";300742;200741
+400745;APMA2120;Multivariable Calculus;"difficulty 4 hotness 5是个中国老师 超棒讲课超级清晰 而且人超级好";300744;200155
+400747;ENGR1620;Introduction to Engineering;"difficulty 2 hotness 5prof 很棒 工院必修基础课 最后大家造了个乐器";300746;200259
+400748;HIEA1501;Introductory Seminar in East  Asian History;"Difficulty 5Hotness 1 (I wish I can give 0)This class satisfies two area requirements of CAS, history and second-year writing. But please be advised, if you are a first-year and not good at writing and not yet used to English reading, DO NOT take this class. The class is about history on the surface, but it actually requires a lot of readings on philosophy. The instructions on writing the essay was confusing, but the professor was always willing to address your questions. He was almost available in his office everyday, but he did not reply to any of my emails :)";300641;200288
+400752;FORM1500;Introduction to the Forums;"Difficulty 4 hotness 5 BEST class I had in UVA so far. Participation is highly valued  and the contribution to in class discussion counts toward a great deal of the final grade. This class is special as it is part of the FORUM program that is only recently available to UVA CAS students and aims to replace to CAS requirements. Please contact me in person if you want to know more about the program.";300751;200750
+400753;COMM1800;Foundations of Commerce;"Difficulty 2 Hotness 1 haha This is one of the class that filters out those people who are not really interested in doing comm school in the future, because as a prerequisite of the comm school, it is BORING!!! This class gives you a overview on how business works and really test if you are determined enough to do comm school in the future. All exams are not cumulative and you can get good grade by completing all practice quizzes online at least three times and taking good notes Kemp's take-way in lectures.";300015;200014
+400754;ECON2010;Principles of Economics: Microeconomics;"Difficulty 3 Hotness 2 Some people say Prof. Elzinga, as one of the most famous Econ professor, is overrated. Well, it is partially true. His lectures were not so structured and hard to take notes on. However, he can be very helpful not only in the course but in providing other social resources once you get to know him more.",;300037;200036
+400755;COMM2010;Introduction to Financial Accounting;"Difficulty 4 Hotness 5+++++Prof. Backof is the best stylist in comm school :) She organizes materials and gives very informative and structured lectures. Accounting is all about sets of rules, so her lectures notes come in handy every time if you are confused about definitions and accounting principles.";300068;200067
+400757;PSYC2600;Introduction to Social Psychology;"Difficulty  3Hotness 3Social psychology is very interesting, despite Smyth's midterms and finals are said to be the most difficult ones among all the Social Psychology professors. The textbook is really interesting and can give you another perspective in viewing your people around you and your decisions. Plz pay attention to him in lectures and be present in every lecture for the all iclickers questions, which make up 10% of the final grade.";300756;200240
 400758;ECON3010;Intermediate Microeconomics;"经济必修课, 都说301很难 但是这个老师讲课非常有条理, 只要上课好好记笔记, 平时problem set认真搞懂就不会有问题";300572;200381
 400759;ECON3020;Intermediate Macroeconomics;经济必修课 但是这个老师讲得绝对是超级大水课 考前把ppt通读一遍就好了;300236;200235
 400760;ECON3030;Money and Banking;平时只会读ppt 但是考试前一定要把textbook认真看一遍 讲课很有条理 总体来说认真理解概念 学下来并不难;300108;200735
@@ -383,8 +347,7 @@ Social psychology is very interesting, despite Smyth's midterms and finals are s
 400779;RELB2100;Buddhism;difficulty 2 hotness 2 如果你想要对佛教有更加深入的了解话 很建议选这门课 会对佛教的历史和后期的各种经文进行一个简略的研究。个人觉得课程的前半段相对来说比较有趣 我每周reading的量较多 但是不用全部读完。midterm很简单，一学期只有期末有一个十五页的 paper;300315;200778
 400780;COMM1800;Foundations of Commerce;Difficulty 2 hotness 5 这门课还是挺有意思的;300015;200014
 400781;COMM2010;Introduction to Financial Accounting;difficulty 4 hotness 5 这节课是商院的入门课 可以在上完1800后上，也可以和1800一起上。教授说话的声音很甜，人也很好。和其他课相比，还是需要多花点时间的;300068;200067
-400782;PHIL2060;Philosophical Problems in Law;"Difficulty 4 hotness 4
-教授讲课很有意思，reading的话对于philosophy来说不是很多。";300233;200232
+400782;PHIL2060;Philosophical Problems in Law;"Difficulty 4 hotness 4教授讲课很有意思，reading的话对于philosophy来说不是很多。";300233;200232
 400783;CS1110;Introduction to Programming;1;300003;200002
 400784;CS2102;Discrete Mathematics;1;300018;200017
 400785;CS2110;Software Development Methods;2;300626;200120
@@ -405,8 +368,7 @@ Social psychology is very interesting, despite Smyth's midterms and finals are s
 400815;COMM2010;Introduction to Financial Accounting;Difficulty 3 Hotness 4 商院prerequisite，很有用，Backoff 专业素质过硬，讲的很清楚，考试复习笔记就行，书基本不用看,Intro to Social Pyschology,Smyth ,Difficulty 3.5， Hotness 4，课本身比较有意思，但看教授，别上Smyth 的课，讲的很无聊。考试基本就是背书;300068;200067
 400816;MATH2310;Calculus III;"Difficult class, less than ideal lecturer, easy grader though";300030;200029
 400819;ANTH2500;Cultures, Regions, and Civilizations;A lot of info about the region.  First time offered.  Not sure if there will be offered at any other time.;300818;200817
-400820;COMM1800;Foundations of Commerce;"Read the books, watch the videos, do the practice exam.
-In lecture, get his take-away and that's it.";300015;200014
+400820;COMM1800;Foundations of Commerce;"Read the books, watch the videos, do the practice exam.In lecture, get his take-away and that's it.";300015;200014
 400821;CS2110;Software Development Methods;Basit is better than David in my opinion. Very lenient.;300626;200120
 400822;COMM2010;Introduction to Financial Accounting;Nice teacher.;300068;200067
 400823;CS1110;Introduction to Programming;"Difficulty 1, Hotness 5. 很简单有意思的一门python/programming入门课。";300003;200002
@@ -448,18 +410,15 @@ In lecture, get his take-away and that's it.";300015;200014
 400876;COMM2010;Introduction to Financial Accounting;美女老师！人美腰细腿长！科科，跑题了。最认真最nice的教授之一！对待学生真是温柔到不行，人又聪明，细致回答你一切问题！回答完了每次都还再三确认你是否听懂了，然后还抱歉自己之前可能讲的不清楚。美中不足的是这门课需要在考试中下点功夫才有可能拿A;300068;200067
 400877;STAT2120;Introduction to Statistical Analysis;真的是神烦的一门课，但是又必须得上。分为lecture和lab两部分，作业奇多，而且项目多且繁杂，一周五个due，稍不留神就会少做一次作业。不过好在每种作业都有几次drop的机会，期末会有一点点extra points. lab有时会记attendence，由于这门课大量的ta和grader都是中国人，所以可以有问题多多跟学长学姐提问。由于这门课很大，教授不怎么回邮件。更重要的一点是教授说着一口新加坡英语！每次都觉得他说话有口痰在嘴里，上了两次lecture就再也没去过了。;300238;200073
 400880;PHYS1429;General Physics I Workshop;"是一门和phys2415配套的电磁学lab，即使你用ap physics C换掉了电磁学，也需要上这门lab。这门课时间很多，永远不用担心选不上，缺点是作业比较多，每周都有prelab, in-lab, post-lab。其中inlab report打分非常严格，永远都不知道为什么被莫名扣分，也不给看rubric。再加上课上大量的美国人及其不靠谱，所以说虽然只有1学分，但是却没有那么轻松拿A。索性大部分ta都非常好，实验有不懂的一定要马上就问。提前做完实验收拾东西回家还是很常见的。哦对了，这门课你是很难见到教授的，做实验都是TA带着做。";300879;200878
-400884;HISTORY1051;store;"Difficulty 4, Hoteness 3, Prof Dobins是我在uva最喜欢的教授之一，很博学又有趣的老教授，打开你艺术世界的新大门，真的很受用！",Studio Art 2220,Dana Ollasted,"Difficulty 4, Hotness 2, 老师给分比较严格，但是受益匪浅，学会使用adobe premiere, photoshop, aftereffect，audition 等制作图片，音频，视频艺术";300883;200882
-400888;CLASSICS3100;Age of Odysseus;"Difficulty 5, Hotness 1, 教授很负责，阅读量很大，对荷马史诗及其他古希腊史诗很有见解，拓展人文基础";300887;200886
+400888;CLAS3100;Age of Odysseus;"Difficulty 5, Hotness 1, 教授很负责，阅读量很大，对荷马史诗及其他古希腊史诗很有见解，拓展人文基础";300887;200886
 400889;COMM3410;Commercial Law I;"Difficulty 2, Hotness 5, 教授几乎可以说是uva 最受欢迎的教授之一，学识非常渊博，讲课很生动，把繁琐的法律讲的非常通俗易懂";300676;200675
 400890;MUSIC1310;Basic Musical Skills;"Difficulty 1, Hotness 4, 这节课很适合有一点点音乐基础的同学巩固和深入学习乐理知识，课堂氛围很轻松，也没什么课业压力";300077;200022
 400891;RELB2054;Tibetan Buddhism Introduction;"内容非常有意思，跟我们传统知道的佛教不太一样。阅读量还好，相比于其他课也不算很大。每周虽然有必须去的discussion，但老师grading比较容易，基本可以拿A. difficulty 2, hotness 5";300077;200082
 400892;PHIL1750;The Meaning of Life;"非常有趣的一节课，也非常适合这个阶段的我们。课程总体还是有些难的，discussions比较多，但是收获也不小。 difficulty 4, hotness 3";300523;200522
 400894;ECE2066;Science of Information:  How the iPhone Works;"你要不是真对信息技术感兴趣，那就别上了。很多人上是因为这是一个engineering的选修，但作业对大一的学生太有挑战了。difficulty 5, hotness 2";300893;200470
-400895;CS2110;Software Development Methods;"CS最早的必选课之一 ，没什么说的了 :)  enjoy!
-difficulty 3, hotness 2";300626;200120
+400895;CS2110;Software Development Methods;"CS最早的必选课之一 ，没什么说的了 :)  enjoy!difficulty 3, hotness 2";300626;200120
 400896;STAT3120;Introduction to Mathematical Statistics;"这是stats专业最难的课之一，主要在于老师都不怎么样，基本靠自学。Liu是现在的phd学生，所以学生提问有时候答不出来。这节课一靠书二靠自己，三靠cheat sheet。 difficulty 4, hotness 1";300520;200519
-400899;CS4740;Cloud Computing;"我最喜欢的cs课了，选到了话最好试试。最工作帮助挺大的。
-difficulty 3, hotness 4";300898;200897
+400899;CS4740;Cloud Computing;"我最喜欢的cs课了，选到了话最好试试。最工作帮助挺大的。difficulty 3, hotness 4";300898;200897
 400900;MATH2310;Calculus III;Difficulty 2.5 hotness1 教授水平很高就是不会上课;300327;200029
 400901;ECON2010;Principles of Economics: Microeconomics;"Difficulty 3,hotness 5 Elzinga 老爷爷上课很催眠";300037;200036
 400902;PHIL2660;Philosophy of Religion;"Difficulty 5 , hotness 5  教授超级nice，内容很有趣，论上帝到底存在不存在";300324;200323
@@ -491,7 +450,7 @@ difficulty 3, hotness 4";300898;200897
 400947;STAT3080;From Data to Knowledge; 学r编程的 老师是个大美女 可是结婚了 课设计的很好 但每周五有inclass assignment不能翘;300077;200278
 400949;PHYS1060;How Things Work; 物理入门课 还真不简单 考试和作业问题很tricky。lecture都会po在youtube上的所以可以不去上课;300077;200948
 400950;PHIL2660;Philosophy of Religion; Philosophy in Religion难以概括对这节课有多热爱，Prof Merricks简直是男神，是完美的。讲课超级engaging 和inspiring，充满智慧的光芒吗，而且人非常nice。内容不简单，但是付出时间理解透，考试就还好。平时没什么作业，reading也不多，主要是上课的内容，能学到很多，强烈安利！！！！";300324;200323
-400953;PSYCHOLOGY3410;Abnormal Psychology;：abnormal psychology教授有点碎碎念，上课有趣程度一般，内容很多，reading workload比较大，但有extra credit( 5 short paper) 拿分相对比较容易。能学到东西。";300077;200952
+400953;PSYC3410;Abnormal Psychology;：abnormal psychology教授有点碎碎念，上课有趣程度一般，内容很多，reading workload比较大，但有extra credit( 5 short paper) 拿分相对比较容易。能学到东西。";300077;200952
 400954;ECON3010;Intermediate Microeconomics;Marc Santuigini 超级负责又可爱的教授，内容有难度，算是econ里比较难的课，但能学到不少东西，推荐。";300070;200381
 400956;PSYC3559;New Course in Psychology; Science of Well Being只有一句话： 如果是Psyc major不要上，太无聊了 ，我不知道在学什么一节鸡汤课，别上真的。";300077;200955
 400958;PSYC3005;Research Methods and Data Analysis I;明年改成2005了好像。更喜欢Stat 2120，2120比较structured 但是3005是Psyc major 必修课，上课比较无聊，有iclicker，但是Smyth人很nice。 ";300756;200957
@@ -512,7 +471,7 @@ difficulty 3, hotness 4";300898;200897
 400989;STAT4260;Databases; database，没考试 只有作业 stat专业一定要上 gpa 保障 其他课没什么感觉;300945;200944
 400992;PHYS3420;Electricity and Magnetism I;，很难，教授教得很快，作业不算很多但很有难度;300991;200990
 400994;PHYS3210;Classical Mechanics;，难，教授水平一般，grade给得很坑，总的来说如果不是必须上的话不建议选;300077;200993
-400998;AMPMA3100;Probability;，中等难度，Li Meiqin教得很一般，前5个chapter非常简单，后5个chapter非常难;300997;200996
+400998;APMA3100;Probability;，中等难度，Li Meiqin教得很一般，前5个chapter非常简单，后5个chapter非常难;300997;200996
 400999;CS2102;Discrete Mathematics;，难度中，作业很简单，考试很难，但不需要特别花精力，grade给的很容易;300077;200017
 401001;STS2500;Science and Technology in Social and Global Context;，没有难度，没有考试，只要看reading和写作业而且不缺课的话肯定是easy A。Jason Jones的课非常好，上课附带冥想练习，压力很小很放松，强烈推荐;301000;200827
 401004;ARCH3020;Foundation Studio IV; with Michael Beaman: 建院的设计课，每年都不一样，没什么参考性，好玩但很有挑战性;301003;201002
@@ -618,7 +577,7 @@ difficulty 3, hotness 4";300898;200897
 401167;STS1500;Science, Technology, and Contemporary Issues; with Michale Gorman，学分信价比最值得几个课之一，教授一般但TA很好，作业不多考试也不难，但一定要复习期中期末啊，不然GPA就是代价;301166;200741
 401170;MUSI1620;History of the Wind Band; with M. Paese. 较为水的一节HHS，春季特供，个人很喜欢，如果你喜欢音乐那就上吧，作业量低考试不难，了解管乐团的起源";301169;201168
 401171;ECON2020;Principles of Economics: Macroeconomics; with Lee Coppock: 教授很负责教课很有条理，上课有powerpoint。有dutch knock-out. 考试考得挺细的，所以复习的时候除了看powerpoint，还得认真看书。";300042;200041
-401174;FRENCH2010;Intermediate French I; with Elizabeth Hall：material不难，但考试有难度。每节课后都有作业，有一定的workload。;301173;201172
+401174;FREN2010;Intermediate French I; with Elizabeth Hall：material不难，但考试有难度。每节课后都有作业，有一定的workload。;301173;201172
 401175;CS1110;Introduction to Programming; wtih Luther Tychonievich: CS intro class 对CS 有兴趣的同学可以上。";300177;200002
 401176;COMM1800;Foundations of Commerce; with Jeffrey Leopold: 成绩不一定会很高，但学到了很多。考试挺tricky。商院必修课。;300200;200014
 401177;MATH2310;Calculus III; with Prasit Bhattacharya: 老师挺负责，但交得一般。共两个midterm一个final。第一个midterm很难，但第二个巨简单。;300959;200029
@@ -650,8 +609,8 @@ difficulty 3, hotness 4";300898;200897
 401222;MATH1320;Calculus II; with Andrew Kobin 如果上了calculus ap 一定要换 上课太容易困 考试难 而且要比ap难一些;301221;200179
 401224;STAT2120;Introduction to Statistical Analysis; with Jefferey woo很多人说是水课 但其实也不是很水 需要effort;301223;200073
 401226;PLIR3310;Ethics and Human Rights in World Politics; with Michael Smith lecture很大 关于human rights ethics等和international relation 有时候会不按照outline说 比较发散 有时候会走神 但认真听还是有很多收获 professor smith很brilliant可以多去oh;301225;201023
-401229;FRENCH1020;Elementary French II; with Jean Herald 法语基础课一般都会需要花更多时间和effort去拿到比较好的成绩 老师很热情 英文不是很好;301228;201227
-401232;BIO2200;Introduction to Biology w/Laboratory: Organismal &amp; Evolutionary Biology; 教授讲的挺不错，但是考试有很多迷之wording，及其confusing。除非大家要生物major或者对生物真的有满腔热爱呵呵呵，否则不要选这门课;300077;201231
+401229;FREN1020;Elementary French II; with Jean Herald 法语基础课一般都会需要花更多时间和effort去拿到比较好的成绩 老师很热情 英文不是很好;301228;201227
+401232;BIOL2200;Introduction to Biology w/Laboratory: Organismal &amp; Evolutionary Biology; 教授讲的挺不错，但是考试有很多迷之wording，及其confusing。除非大家要生物major或者对生物真的有满腔热爱呵呵呵，否则不要选这门课;300077;201231
 401233;COMM2010;Introduction to Financial Accounting; 大水课，随便上;300077;200067
 401234;ECON2020;Principles of Economics: Macroeconomics; 比comm2010还要水，考试大家基本都是满分吧;300077;200041
 401235;PHIL2660;Philosophy of Religion; 来UVA不上会后悔的课 一个学期有三个考试，每个占总成绩的三分之一。比较难拿A但是教授很幽默，讲课思路很清楚。;300077;200323
@@ -731,7 +690,7 @@ difficulty 3, hotness 4";300898;200897
 401341;BIOL3420;Human Anatomy and Physiology II; with Mark.K 课程难度一般，但是多以背诵为主。教授水平一般，可能受限于课程内容无法发挥。作业很少;301340;201339
 401343;BIOL4390;Biological Therapy of Cancer; with David.K 课程难度大，以课堂讨论原始科学论文为主，教授水平很好，作业是每周阅读论文并准备课堂展示。;300167;201342
 401344;MATH1320;Calculus II; with Andrew.K 课程难度一般，老师水平一般，作业量大;301221;200179
-401345;PYSC2600;Introduction to Social Psychology;(Social Psychology) with Tim Wilson. 非常值得上的一课，可以说是心里学的核心。难度因人而异，3个考试2篇Paper，只要用心写能拿A";300592;200591
+401345;PSYC2600;Introduction to Social Psychology;(Social Psychology) with Tim Wilson. 非常值得上的一课，可以说是心里学的核心。难度因人而异，3个考试2篇Paper，只要用心写能拿A";300592;200591
 401346;ECON3030;Money and Banking; (Money and Banking) with Doyle. 如果你对金融感兴趣，讲的是银行系统和理财产品的走势。课比较难，需要花很多时间学习，但非常实用;300353;200735
 401348;ECON4210;International Trade: Theory and Policy; (Behavior Finance) with Professor Burton，这节课只有在UVa才有offer，论证了行为学在金融经济当中的作用，以及为什么多数金融模型失效的原因。很多概念和实验需要记住。平均分A-;301347;200974
 401349;ENWR1510;Writing and Critical Inquiry;. 不难，教授很水，作业中等";300077;200059
