@@ -1,48 +1,514 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body><h1>Department:CS</h1>
-<h3>This department has following classes(click link to navigate)</h3>
-<h5>CS1110:Introduction to Programming</h5><a  href="200002.html">CS1110</a>
-<h5>CS2102:Discrete Mathematics</h5><a  href="200017.html">CS2102</a>
-<h5>CS2110:Software Development Methods</h5><a  href="200120.html">CS2110</a>
-<h5>CS2150:Program and Data Representation</h5><a  href="200122.html">CS2150</a>
-<h5>CS4102:Algorithms</h5><a  href="200125.html">CS4102</a>
-<h5>CS3102:Theory of Computation</h5><a  href="200699.html">CS3102</a>
-<h5>CS4750:Database Systems</h5><a  href="200702.html">CS4750</a>
-<h5>CS1112:Introduction to Programming</h5><a  href="200789.html">CS1112</a>
-<h5>CS4740:Cloud Computing</h5><a  href="200897.html">CS4740</a>
-<h5>CS1113:Introduction to Programming</h5><a  href="201020.html">CS1113</a>
-<h5>CS1111:Introduction to Programming</h5><a  href="201036.html">CS1111</a>
-<h5>CS4501:Special Topics in Computer Science</h5><a  href="201038.html">CS4501</a>
-<h5>CS4630:Defense Against the Dark Arts</h5><a  href="201043.html">CS4630</a>
-<h5>CS4710:Artificial Intelligence</h5><a  href="201048.html">CS4710</a>
-<h5>CS4457:Computer Networks</h5><a  href="201184.html">CS4457</a>
-<h5>CS3330:Computer Architecture</h5><a  href="201210.html">CS3330</a>
-<h5>CS2120:Discrete Mathematics</h5><a  href="201326.html">CS2120</a>
-<h5>CS2010:Software Development Methods</h5><a  href="201405.html">CS2010</a>
-<h3>This department has following professors(click link to navigate)</h3>
-<h5>Mark Sherriff</h5><a  href="300003.html">Mark Sherriff</a>
-<h5>David Edwards</h5><a  href="300018.html">David Edwards</a>
-<h5>Aaron Bloomfield</h5><a  href="300123.html">Aaron Bloomfield</a>
-<h5>K C Wong</h5><a  href="300126.html">K C Wong</a>
-<h5>Luther Tychonievich</h5><a  href="300177.html">Luther Tychonievich</a>
-<h5>David Evans</h5><a  href="300474.html">David Evans</a>
-<h5>Upsorn Praphamontripong</h5><a  href="300555.html">Upsorn Praphamontripong</a>
-<h5>Nada Basit</h5><a  href="300626.html">Nada Basit</a>
-<h5>Gabriel Robins</h5><a  href="300700.html">Gabriel Robins</a>
-<h5>Abdeltawab Hendawi</h5><a  href="300703.html">Abdeltawab Hendawi</a>
-<h5>James Cohoon</h5><a  href="300790.html">James Cohoon</a>
-<h5>Marty Humphrey</h5><a  href="300898.html">Marty Humphrey</a>
-<h5>Yanjun Qi</h5><a  href="301039.html">Yanjun Qi</a>
-<h5>Yuan Tian</h5><a  href="301044.html">Yuan Tian</a>
-<h5>Nathan Brunelle</h5><a  href="301046.html">Nathan Brunelle</a>
-<h5>Michael Freenor</h5><a  href="301049.html">Michael Freenor</a>
-<h5>Mark Floryan</h5><a  href="301135.html">Mark Floryan</a>
-<h5>Bradford Campbell</h5><a  href="301185.html">Bradford Campbell</a>
-<h5>Charles Reiss</h5><a  href="301211.html">Charles Reiss</a>
-<h5>Vicente Ordonez</h5><a  href="301280.html">Vicente Ordonez</a>
-</body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CS</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light col-lg-12"><a class="navbar-brand" href="https://www.msnatuva.org/"><img src="LOGO.png" width="50" height="30" alt="msn logo"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"> <a class="nav-link" href="index.html">Hoos My Professor</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="departmetnts.html">Departments</a></li>
+			<li class="nav-item"> <a class="nav-link" href="professors.html">Professors</a></li>
+          <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 其他 </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#"></a> <a class="dropdown-item" href="#"></a><!drop down里的内容>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#"></a> <!drop down里的内容>
+            </div>
+          </li>
+          <li class="nav-item"> </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+  </nav>
+    <div class="container">
+      <hr>
+      <div class="row">
+        <div class="col-6 col-lg-9">
+          <h1 data_temp_dwid="1">Computer Science</h1><!--category name-->
+        </div>
+        <div class="col-6 col-lg-3">
+          <h></h>
+			<button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button>
+        </div>
+      </div>      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200002.html"><!--href--><h5 class="mt-0">CS1110</h5><!--class name-->
+			Introduction to Programming</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"A first course in programming, software development, and computer science.  Introduces computing fundamentals and an appreciation for computational thinking.  No previous programming experience required.  Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200017.html"><!--href--><h5 class="mt-0">CS2102</h5><!--class name-->
+			Discrete Mathematics</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include finite and infinite sets, elementary combinatorial problems, and graph theory. Development of tools and mechanisms for reasoning about discrete problems.   Prerequisite: CS 1110, 1111, 1112 or 1120 with a grade of C- or higher.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200118.html"><!--href--><h5 class="mt-0">CS2110</h5><!--class name-->
+			Software Development Methods</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"A second course in computing with an emphasis on modern software development and principles central to computer science.  Topics include software requirements, testing, object-oriented design, abstraction, encapsulation, recursion, and time-complexity.  Prerequisite: CS 1110, 1111, 1112, or 1120 with a grade of C- or higher.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200120.html"><!--href--><h5 class="mt-0">CS2150</h5><!--class name-->
+			Program and Data Representation</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduces programs and data representation at the machine level. Data structuring techniques and the representation of data structures during program execution. Operations and control structures and their representation during program execution. Representations of numbers, arithmetic operations, arrays, records, recursion, hashing, stacks, queues, trees, graphs, and related concepts.   Prerequisite: CS 2102 and  CS 2110, both with grades of C- or higher.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200123.html"><!--href--><h5 class="mt-0">CS4102</h5><!--class name-->
+			Algorithms</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduces the analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as sorting, searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, and dynamic programming. Data structures include heaps and search, splay, and spanning trees. Analysis techniques include asymtotic worst case, expected time, amortized analysis, and reductions between problems.     Prerequisite: CS 2102 and 2150 with grades of C- or higher.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200680.html"><!--href--><h5 class="mt-0">CS3102</h5><!--class name-->
+			Theory of Computation</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduces computation theory including grammars, finite state machines, pushdown automata, and Turing machines.  Prerequisites: CS 2102 and  CS 2110 both with grades of C- or higher""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200683.html"><!--href--><h5 class="mt-0">CS4750</h5><!--class name-->
+			Database Systems</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduces the fundamental concepts for design and development of database systems. Emphasizes relational data model and conceptual schema design using ER model, practical issues in commercial database systems, database design using functional dependencies, and other data models. Develops a working relational database for a realistic application.  Prerequisite: CS 2150 with grades of C- or higher.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200768.html"><!--href--><h5 class="mt-0">CS1112</h5><!--class name-->
+			Introduction to Programming</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"A first course in programming, software development, and computer science.  Introduces computing fundamentals and an appreciation for computational thinking.    Prerequisite: Students must have no previous programming experience.  Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200871.html"><!--href--><h5 class="mt-0">CS4740</h5><!--class name-->
+			Cloud Computing</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Investigates the architectural foundations of the various cloud platforms, as well as examining both current cloud computing platforms and modern cloud research. Student assignments utilize the major cloud platforms.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200990.html"><!--href--><h5 class="mt-0">CS1113</h5><!--class name-->
+			Introduction to Programming</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201006.html"><!--href--><h5 class="mt-0">CS1111</h5><!--class name-->
+			Introduction to Programming</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"A first course in programming, software development, and computer science.  Introduces computing fundamentals and an appreciation for computational thinking.  Prerequisite: Students should have some experience with programming.  Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201008.html"><!--href--><h5 class="mt-0">CS4501</h5><!--class name-->
+			Special Topics in Computer Science</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Content varies annually, depending on instructor interests and the needs of the department. Similar to CS 5501 and CS 7501, but taught strictly at the undergraduate level.  Prerequisite: Instructor permission; additional specific requirements vary with topics.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201013.html"><!--href--><h5 class="mt-0">CS4630</h5><!--class name-->
+			Defense Against the Dark Arts</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Viruses, worms, and other malicious software are an ever-increasing threat to computer systems. There is an escalating battle between computer security specialists and the designers of malicious software. This course provides an essential understanding of the techniques used by both sides of the computer security battle. Prerequisite: CS 2150 with a grade of C- or above.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201018.html"><!--href--><h5 class="mt-0">CS4710</h5><!--class name-->
+			Artificial Intelligence</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduces artificial intelligence. Covers fundamental concepts and techniques and surveys selected application areas. Core material includes state space search, logic, and resolution theorem proving. Application areas may include expert systems, natural language understanding, planning, machine learning, or machine perception. Provides exposure to AI implementation methods, emphasizing programming in Common LISP.  Prerequisite: CS 2150 with grade of C- or higher.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201154.html"><!--href--><h5 class="mt-0">CS4457</h5><!--class name-->
+			Computer Networks</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Topics include the design of modern communication networks; point-to-point and broadcast network solutions; advanced issues such as Gigabit networks; ATM networks; and real-time communications.   Cross-listed as ECE 4457.   Prerequisites: CS 2110 with grade of C- or higher, and CS 3330 or ECE 3430 with a grade of C- or higher.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201179.html"><!--href--><h5 class="mt-0">CS3330</h5><!--class name-->
+			Computer Architecture</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Includes the organization and architecture of computer systems hardware; instruction set architectures; addressing modes; register transfer notation; processor design and computer arithmetic; memory systems; hardware implementations of virtual memory, and input/output control and devices.   Prerequisite: CS 2110 with a grade of C- or higher. CS 2330 recommended. Students may not receive credit for both CS 3330 and ECE 3430.  CPE majors cannot use this course to fulfill their program of study.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201292.html"><!--href--><h5 class="mt-0">CS2120</h5><!--class name-->
+			Discrete Mathematics</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201371.html"><!--href--><h5 class="mt-0">CS2010</h5><!--class name-->
+			Software Development Methods</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		<h2 class="text-center">Professors</h2>
+    <hr>
+  <div class="container">
+      <div class="row text-center"><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300003.html"><h5 class="card-title">Mark Sherriff</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300018.html"><h5 class="card-title">David Edwards</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300121.html"><h5 class="card-title">Aaron Bloomfield</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300124.html"><h5 class="card-title">K C Wong</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300175.html"><h5 class="card-title">Luther Tychonievich</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300461.html"><h5 class="card-title">David Evans</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300539.html"><h5 class="card-title">Upsorn Praphamontripong</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300607.html"><h5 class="card-title">Nada Basit</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300681.html"><h5 class="card-title">Gabriel Robins</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300684.html"><h5 class="card-title">Abdeltawab Hendawi</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300769.html"><h5 class="card-title">James Cohoon</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300872.html"><h5 class="card-title">Marty Humphrey</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301009.html"><h5 class="card-title">Yanjun Qi</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301014.html"><h5 class="card-title">Yuan Tian</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301016.html"><h5 class="card-title">Nathan Brunelle</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301019.html"><h5 class="card-title">Michael Freenor</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301105.html"><h5 class="card-title">Mark Floryan</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301155.html"><h5 class="card-title">Bradford Campbell</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301180.html"><h5 class="card-title">Charles Reiss</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301246.html"><h5 class="card-title">Vicente Ordonez</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div></div>
+    </div>
+      <hr>
+      <hr>
+
+      <footer class="text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>HoosMyProfessor © 2018 v2.1.2. All rights reserved.</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.0.0.js"></script>
+  </body>
 </html>

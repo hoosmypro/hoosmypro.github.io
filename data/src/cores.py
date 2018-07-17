@@ -75,6 +75,7 @@ class Category:
 
     def populateData(self,id,list_class,list_instr):
         self.id = id
+        masterlist_of_Object[self.id] = self
         for item in list_class:
             self.list_of_Class.append(int(item))
         for item in list_instr:
@@ -108,6 +109,7 @@ class Class:
 
     def populateData(self, id, list_instr,list_section):
         self.id = id
+        masterlist_of_Object[self.id] = self
         for item in list_instr:
             self.list_of_Instructor.append(int(item))
         for item in list_section:
@@ -131,6 +133,7 @@ class Instructor:
 
     def populateData(self,id,list_class):
         self.id = id
+        masterlist_of_Object[self.id] = self
         for item in list_class:
             self.list_of_Class.append(int(item))
         populatingData[self.id] = self
@@ -150,23 +153,25 @@ class Section:
         self.difficult = difficult      #To be used in future
         self.hotness = hotness          #To be used in future
         self.belonged = belong          #The ID of class it belongs to
-        self.comments = [comments]
+        self.comments = [self.comment]
         masterlist_of_Object[self.id] = self
         masterlist_of_Section.append(self.id)
-        # debugCombine[self.number+masterlist_of_Object[self.instructor].name] = self
+        debugCombine[self.number + masterlist_of_Object[self.instructor].name] = self
 
     def output(self):
-        return str(self.id) +";"+ self.number +";"+ self.name +";"+ str(self.comments)  +";"+ str(self.instructor) + ";"+str(self.belonged)
+        return str(self.id) +";"+ self.number +";"+ self.name +";"+ str(self.comment)  +";"+ str(self.instructor) + ";"+str(self.belonged)
 
     def populateData(self,id):
         self.id = id
+        masterlist_of_Object[self.id] = self
         populatingData[self.id] = self
 
     def debug(self):
         debugDict.append(self)
 
-    def combineComments(self):
-        self.comments.append("s")
+    def combineComments(self,comment):
+        self.comments.append(comment)
+
 
 
 
@@ -278,15 +283,18 @@ def debug():
     masterlist_of_Section.clear()
     masterlist_of_Instructor.clear()
     masterlist_of_Class.clear()
+    debugCombine.clear()
     for item in debugDict:
         initializeClass(item.number, item.name, populatingData[item.instructor].name, item.comment)
+
     # for item in debugDict:
     #     key = item.number+populatingData[item.instructor].name
     #     if key not in debugCombine:
     #         initializeClass(item.number,item.name,populatingData[item.instructor].name,item.comment)
     #     else:
-    #         debugCombine[key].comments.append(item.comment)
+    #         debugCombine[key].combineComments(item.comment)
     iostream.generateFile("output2", masterlist_of_Object)
-
-repopulatingData("output/output")
-debug()
+#
+# repopulatingData("output/output")
+# debug()
+# print(masterlist_of_Object)

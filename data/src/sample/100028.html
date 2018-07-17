@@ -1,54 +1,529 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body><h1>Department:MATH</h1>
-<h3>This department has following classes(click link to navigate)</h3>
-<h5>MATH2310:Calculus III</h5><a  href="200029.html">MATH2310</a>
-<h5>MATH3351:Elementary Linear Algebra</h5><a  href="200032.html">MATH3351</a>
-<h5>MATH3351:Elementary Linear Algebra</h5><a  href="200244.html">MATH3351</a>
-<h5>MATH1310:Calculus I</h5><a  href="200100.html">MATH1310</a>
-<h5>MATH1320:Calculus II</h5><a  href="200179.html">MATH1320</a>
-<h5>MATH3100:Introduction to Probability</h5><a  href="200344.html">MATH3100</a>
-<h5>MATH3310:Basic Real Analysis</h5><a  href="200509.html">MATH3310</a>
-<h5>MATH3315:Advanced Calculus and Linear Algebra II</h5><a  href="200516.html">MATH3315</a>
-<h5>MATH2315:Advanced Calculus and Linear Algebra I</h5><a  href="200559.html">MATH2315</a>
-<h5>MATH3354:Survey of Algebra</h5><a  href="200656.html">MATH3354</a>
-<h5>MATH3350:Applied Linear Algebra</h5><a  href="201034.html">MATH3350</a>
-<h5>MATH4330:Advanced Multivariate Calculus</h5><a  href="201103.html">MATH4330</a>
-<h5>MATH4110:Introduction to Stochastic Processes</h5><a  href="201106.html">MATH4110</a>
-<h5>MATH4840:Introduction to Mathematical Research</h5><a  href="201108.html">MATH4840</a>
-<h5>MATH3250:Ordinary Differential Equations</h5><a  href="201157.html">MATH3250</a>
-<h5>MATH1210:A survey of Calculus I</h5><a  href="201254.html">MATH1210</a>
-<h5>MATH1220:A Survey of Calculus II</h5><a  href="201358.html">MATH1220</a>
-<h3>This department has following professors(click link to navigate)</h3>
-<h5>Leonid Petrov</h5><a  href="300030.html">Leonid Petrov</a>
-<h5>Craig Huneke</h5><a  href="300033.html">Craig Huneke</a>
-<h5>Peter Johnson</h5><a  href="300101.html">Peter Johnson</a>
-<h5>Xiang Wan</h5><a  href="300105.html">Xiang Wan</a>
-<h5>Lois Pierra</h5><a  href="300169.html">Lois Pierra</a>
-<h5>Jonathan Simone</h5><a  href="300180.html">Jonathan Simone</a>
-<h5>Craig Hunke</h5><a  href="300245.html">Craig Hunke</a>
-<h5>Ira Herbst</h5><a  href="300327.html">Ira Herbst</a>
-<h5>Tai Melcher</h5><a  href="300345.html">Tai Melcher</a>
-<h5>Lloyd West</h5><a  href="300407.html">Lloyd West</a>
-<h5>Nicholas Kuhn</h5><a  href="300510.html">Nicholas Kuhn</a>
-<h5>Andrei Rapinchuk</h5><a  href="300517.html">Andrei Rapinchuk</a>
-<h5>Abdelmalek Abdesselam</h5><a  href="300549.html">Abdelmalek Abdesselam</a>
-<h5>Yen Do</h5><a  href="300600.html">Yen Do</a>
-<h5>Lennart Meier</h5><a  href="300657.html">Lennart Meier</a>
-<h5>Michael Willis</h5><a  href="300717.html">Michael Willis</a>
-<h5>Ramanujan Santharoubane</h5><a  href="300737.html">Ramanujan Santharoubane</a>
-<h5>Sara Maloni</h5><a  href="300786.html">Sara Maloni</a>
-<h5>Prasit Bhattacharya</h5><a  href="300959.html">Prasit Bhattacharya</a>
-<h5>Zezhou Zhang</h5><a  href="301063.html">Zezhou Zhang</a>
-<h5>Francesco Di</h5><a  href="301067.html">Francesco Di</a>
-<h5>James Phillips</h5><a  href="301079.html">James Phillips</a>
-<h5>Benjamin Hayes</h5><a  href="301104.html">Benjamin Hayes</a>
-<h5>Weiqiang Wang</h5><a  href="301109.html">Weiqiang Wang</a>
-<h5>Andrew Obus</h5><a  href="301144.html">Andrew Obus</a>
-<h5>Andrew Kobin</h5><a  href="301221.html">Andrew Kobin</a>
-<h5>Julia Bergner</h5><a  href="301289.html">Julia Bergner</a>
-</body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CS</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light col-lg-12"><a class="navbar-brand" href="https://www.msnatuva.org/"><img src="LOGO.png" width="50" height="30" alt="msn logo"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"> <a class="nav-link" href="index.html">Hoos My Professor</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="departmetnts.html">Departments</a></li>
+			<li class="nav-item"> <a class="nav-link" href="professors.html">Professors</a></li>
+          <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 其他 </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#"></a> <a class="dropdown-item" href="#"></a><!drop down里的内容>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#"></a> <!drop down里的内容>
+            </div>
+          </li>
+          <li class="nav-item"> </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+  </nav>
+    <div class="container">
+      <hr>
+      <div class="row">
+        <div class="col-6 col-lg-9">
+          <h1 data_temp_dwid="1">Mathematics</h1><!--category name-->
+        </div>
+        <div class="col-6 col-lg-3">
+          <h></h>
+			<button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button>
+        </div>
+      </div>      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200029.html"><!--href--><h5 class="mt-0">MATH2310</h5><!--class name-->
+			Calculus III</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Studies functions of several variables including lines and planes in space, differentiation of functions of several variables, maxima and minima, multiple integration, line integrals, and volume.  Prerequisite: MATH 1320 or its equivalent.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200032.html"><!--href--><h5 class="mt-0">MATH3351</h5><!--class name-->
+			Elementary Linear Algebra</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Includes matrices, elementary row operations, inverses, vector spaces and bases, inner products and Gram-Schmidt orthogonalization, orthogonal matrices, linear transformations and change of basis, eigenvalues, eigenvectors, and symmetric matrices. Credit is not given for both MATH 3350 and 3351. Prerequisite: MATH 1320.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200098.html"><!--href--><h5 class="mt-0">MATH1310</h5><!--class name-->
+			Calculus I</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduces calculus with emphasis on techniques and applications. Recommended for natural science majors and students planning additional work in mathematics. The differential and integral calculus for functions of a single variable is developed through the fundamental theorem of calculus. Credit is not given for both MATH 1210, 1212, and 1310.  Prerequisite: Background in algebra, trigonometry, exponentials, logarithms, and analytic geometry.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200177.html"><!--href--><h5 class="mt-0">MATH1320</h5><!--class name-->
+			Calculus II</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Continuation of 1310. Applications of the integral, techniques of integration, infinite series, vectors. Credit is not given for both MATH 1220 and 1320.  Prerequisite: MATH 1310 or equivalent, or instructor permission.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200334.html"><!--href--><h5 class="mt-0">MATH3100</h5><!--class name-->
+			Introduction to Probability</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Includes sample spaces, combinatorial analysis, discrete and continuous random variables, classical distributions, expectation, Chebyshev theorem, independence, central limit theorem, conditional probability, and generating functions.  Prerequisite: MATH 1320. A knowledge of double integrals is recommended.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200496.html"><!--href--><h5 class="mt-0">MATH3310</h5><!--class name-->
+			Basic Real Analysis</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Concentrates on proving the basic theorems of calculus, with due attention to the beginner with little or no experience in the techniques of proof. Includes limits, continuity, differentiability, the Bolzano-Weierstrass theorem, Taylor's theorem, integrability of continuous functions, and uniform convergence.  Prerequisite: MATH 1320.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200502.html"><!--href--><h5 class="mt-0">MATH3315</h5><!--class name-->
+			Advanced Calculus and Linear Algebra II</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200543.html"><!--href--><h5 class="mt-0">MATH2315</h5><!--class name-->
+			Advanced Calculus and Linear Algebra I</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Covers the material from Math 2310 (multivariable calculus) plus topics from complex numbers, set theory and linear algebra. Prepares students for taking advanced mathematics classes at an early stage.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200637.html"><!--href--><h5 class="mt-0">MATH3354</h5><!--class name-->
+			Survey of Algebra</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Surveys major topics of modern algebra: groups, rings, and fields. Presents applications to areas such as geometry and number theory; explores rational, real, and complex number systems, and the algebra of polynomials.  Prerequisite: MATH 1320 or equivalent.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201004.html"><!--href--><h5 class="mt-0">MATH3350</h5><!--class name-->
+			Applied Linear Algebra</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Topics will include systems of linear equations, matrix operations and inverses, vector spaces and subspaces, determinants, eigenvalues and eigenvectors, matrix factorizations, inner products and orthogonality, and linear transformations.  Emphasis will be on applications, with computer software integrated throughout the course.  The target audience for MATH 3350 is non-math majors from disciplines that apply tools from linear algebra. Credit is not given for both MATH 3350 and 3351.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201073.html"><!--href--><h5 class="mt-0">MATH4330</h5><!--class name-->
+			Advanced Multivariate Calculus</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201076.html"><!--href--><h5 class="mt-0">MATH4110</h5><!--class name-->
+			Introduction to Stochastic Processes</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Topics in probability selected from Random walks, Markov processes, Brownian motion, Poisson processes, branching processes, stationary time series, linear filtering and prediction, queuing processes, and renewal theory.  Prerequisite: MATH 3100 or APMA 3100; and a knowledge of matrix algebra""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201078.html"><!--href--><h5 class="mt-0">MATH4840</h5><!--class name-->
+			Introduction to Mathematical Research</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201127.html"><!--href--><h5 class="mt-0">MATH3250</h5><!--class name-->
+			Ordinary Differential Equations</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduces the methods, theory, and applications of differential equations. Includes first-order, second and higher-order linear equations, series solutions, linear systems of first-order differential equations, and the associated matrix theory. May include numerical methods, non-linear systems, boundary value problems, and additional applications.  Prerequisite: MATH 1320 or its equivalent.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201220.html"><!--href--><h5 class="mt-0">MATH1210</h5><!--class name-->
+			A survey of Calculus I</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Topics include limits and continuity; differentiation and integration of algebraic and elementary transcendental functions; and applications to maximum-minimum problems, curve sketching and exponential growth. Credit is not given for both MATH 1210, 1212, and 1310.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201324.html"><!--href--><h5 class="mt-0">MATH1220</h5><!--class name-->
+			A Survey of Calculus II</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"A second calculus course for business, biology, and social science students. Analyzes functions of several variables, their graphs, partial derivatives and optimization; multiple integrals. Reviews basic single variable calculus and introduces differential equations and infinite series. Credit is not given for both MATH 1220 and 1320.  Prerequisite: MATH 1210 or equivalent.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		<h2 class="text-center">Professors</h2>
+    <hr>
+  <div class="container">
+      <div class="row text-center"><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300030.html"><h5 class="card-title">Leonid Petrov</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300033.html"><h5 class="card-title">Craig Huneke</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300099.html"><h5 class="card-title">Peter Johnson</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300103.html"><h5 class="card-title">Xiang Wan</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300167.html"><h5 class="card-title">Lois Pierra</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300178.html"><h5 class="card-title">Jonathan Simone</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300236.html"><h5 class="card-title">Craig Hunke</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300317.html"><h5 class="card-title">Ira Herbst</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300335.html"><h5 class="card-title">Tai Melcher</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300396.html"><h5 class="card-title">Lloyd West</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300497.html"><h5 class="card-title">Nicholas Kuhn</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300503.html"><h5 class="card-title">Andrei Rapinchuk</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300535.html"><h5 class="card-title">Abdelmalek Abdesselam</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300581.html"><h5 class="card-title">Yen Do</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300638.html"><h5 class="card-title">Lennart Meier</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300698.html"><h5 class="card-title">Michael Willis</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300718.html"><h5 class="card-title">Ramanujan Santharoubane</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300765.html"><h5 class="card-title">Sara Maloni</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300930.html"><h5 class="card-title">Prasit Bhattacharya</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301033.html"><h5 class="card-title">Zezhou Zhang</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301037.html"><h5 class="card-title">Francesco Di</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301049.html"><h5 class="card-title">James Phillips</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301074.html"><h5 class="card-title">Benjamin Hayes</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301079.html"><h5 class="card-title">Weiqiang Wang</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301114.html"><h5 class="card-title">Andrew Obus</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301190.html"><h5 class="card-title">Andrew Kobin</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301255.html"><h5 class="card-title">Julia Bergner</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div></div>
+    </div>
+      <hr>
+      <hr>
+
+      <footer class="text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>HoosMyProfessor © 2018 v2.1.2. All rights reserved.</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.0.0.js"></script>
+  </body>
 </html>

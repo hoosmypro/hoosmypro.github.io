@@ -1,36 +1,353 @@
 <!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body><h1>Department:STAT</h1>
-<h3>This department has following classes(click link to navigate)</h3>
-<h5>STAT2120:Introduction to Statistical Analysis</h5><a  href="200073.html">STAT2120</a>
-<h5>STAT3080:From Data to Knowledge</h5><a  href="200278.html">STAT3080</a>
-<h5>STAT3120:Introduction to Mathematical Statistics</h5><a  href="200519.html">STAT3120</a>
-<h5>STAT3120:Introduction to Mathematical Statistics</h5><a  href="200598.html">STAT3120</a>
-<h5>STAT3250:Data Analysis with Python</h5><a  href="200649.html">STAT3250</a>
-<h5>STAT3130:Design and Analysis of Sample Surveys</h5><a  href="200764.html">STAT3130</a>
-<h5>STAT4260:Databases</h5><a  href="200944.html">STAT4260</a>
-<h5>STAT4630:Statistical Machine Learning</h5><a  href="200977.html">STAT4630</a>
-<h5>STAT3210:Introduction to Mathematical Statistics</h5><a  href="200979.html">STAT3210</a>
-<h5>STAT6130:Applied Multivariate Statistics</h5><a  href="200987.html">STAT6130</a>
-<h5>STAT3220:Introduction to Regression Analysis</h5><a  href="201071.html">STAT3220</a>
-<h5>STAT5120:Applied Linear Models</h5><a  href="201189.html">STAT5120</a>
-<h3>This department has following professors(click link to navigate)</h3>
-<h5>Jeffery Woo</h5><a  href="300074.html">Jeffery Woo</a>
-<h5>Jeffrey Woo</h5><a  href="300238.html">Jeffrey Woo</a>
-<h5>Heather Cook</h5><a  href="300279.html">Heather Cook</a>
-<h5>Alice Liu</h5><a  href="300520.html">Alice Liu</a>
-<h5>Amber Tomas</h5><a  href="300544.html">Amber Tomas</a>
-<h5>Spizner</h5><a  href="300631.html">Spizner</a>
-<h5>Jeffrey Holt</h5><a  href="300650.html">Jeffrey Holt</a>
-<h5>Gretchen Martinet</h5><a  href="300856.html">Gretchen Martinet</a>
-<h5>Taylor Brown</h5><a  href="300867.html">Taylor Brown</a>
-<h5>Caitlin Steiner</h5><a  href="300945.html">Caitlin Steiner</a>
-<h5>Jordan Rodu</h5><a  href="301041.html">Jordan Rodu</a>
-<h5>Jefferey Woo</h5><a  href="301223.html">Jefferey Woo</a>
-<h5>Maria Ferrara</h5><a  href="301276.html">Maria Ferrara</a>
-<h5>Daniel Keenan</h5><a  href="301413.html">Daniel Keenan</a>
-</body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CS</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light col-lg-12"><a class="navbar-brand" href="https://www.msnatuva.org/"><img src="LOGO.png" width="50" height="30" alt="msn logo"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active"> <a class="nav-link" href="index.html">Hoos My Professor</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="departmetnts.html">Departments</a></li>
+			<li class="nav-item"> <a class="nav-link" href="professors.html">Professors</a></li>
+          <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 其他 </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#"></a> <a class="dropdown-item" href="#"></a><!drop down里的内容>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#"></a> <!drop down里的内容>
+            </div>
+          </li>
+          <li class="nav-item"> </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+  </nav>
+    <div class="container">
+      <hr>
+      <div class="row">
+        <div class="col-6 col-lg-9">
+          <h1 data_temp_dwid="1">Statistics</h1><!--category name-->
+        </div>
+        <div class="col-6 col-lg-3">
+          <h></h>
+			<button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button>
+        </div>
+      </div>      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200073.html"><!--href--><h5 class="mt-0">STAT2120</h5><!--class name-->
+			Introduction to Statistical Analysis</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Introduction to the probability and statistical theory underlying the estimation of parameters and testing of statistical hypotheses, including those arising in the context of simple and multiple regression models. Students will use computers and statistical programs to analyze data. Examples and applications are drawn from economics, business, and other fields. Students will not receive credit for both STAT 2120 and ECON 3710.  Prerequisite: MATH 1210 or equivalent; co-requisite: Concurrent enrollment in a discussion section of STAT 2120.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200269.html"><!--href--><h5 class="mt-0">STAT3080</h5><!--class name-->
+			From Data to Knowledge</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>Most elementary statistics courses start with a technique & present various surface level examples. This course will use relatively complicated data sets and approach them from multiple angles with elementary statistical techniques. Simulation techniques such as the bootstrap will also be used.  Conceptual discussion in lectures is supplemented with hands-on practice in applied data-analysis tasks using R statistical software.  Prerequisite: An introductory statistics course."<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200505.html"><!--href--><h5 class="mt-0">STAT3120</h5><!--class name-->
+			Introduction to Mathematical Statistics</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"This course provides a calculus-based introduction to mathematical statistics with some applications. Topics include: sampling theory, point estimation, interval estimation, testing hypotheses, linear regression, correlation, analysis of variance, and categorical data.   Prerequisite: MATH 3100 or APMA 3100.""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200630.html"><!--href--><h5 class="mt-0">STAT3250</h5><!--class name-->
+			Data Analysis with Python</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200743.html"><!--href--><h5 class="mt-0">STAT3130</h5><!--class name-->
+			Design and Analysis of Sample Surveys</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200917.html"><!--href--><h5 class="mt-0">STAT4260</h5><!--class name-->
+			Databases</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200948.html"><!--href--><h5 class="mt-0">STAT4630</h5><!--class name-->
+			Statistical Machine Learning</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200950.html"><!--href--><h5 class="mt-0">STAT3210</h5><!--class name-->
+			Introduction to Mathematical Statistics</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="200958.html"><!--href--><h5 class="mt-0">STAT6130</h5><!--class name-->
+			Applied Multivariate Statistics</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201041.html"><!--href--><h5 class="mt-0">STAT3220</h5><!--class name-->
+			Introduction to Regression Analysis</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12 col-lg-3">
+          <div class="media">
+		<div class="media-body"><a href="201159.html"><!--href--><h5 class="mt-0">STAT5120</h5><!--class name-->
+			Applied Linear Models</a></div>
+          </div>
+        	</div>
+        <div class="col-md-4 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-around m-1">
+
+            <strong>难度:2.2 热度: 4.9</strong><br>"Linear regression models, inferences in regression analysis, model validation, selection of independent variables, multicollinearity, influential observations, autocorrelation in time series data, polynomial regression, and nonlinear regression.  Conceptual discussion in lectures is supplemented with hands-on practice in applied data-analysis tasks using SAS or R statistical software.   Prerequisite:STAT 3120, and either MATH 3351 or APMA 3080""<br><!--class describtion-->
+
+          </div>
+        </div>
+      </div>
+      <hr>
+		<h2 class="text-center">Professors</h2>
+    <hr>
+  <div class="container">
+      <div class="row text-center"><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300074.html"><h5 class="card-title">Jeffery Woo</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300231.html"><h5 class="card-title">Jeffrey Woo</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300270.html"><h5 class="card-title">Heather Cook</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300506.html"><h5 class="card-title">Alice Liu</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300530.html"><h5 class="card-title">Amber Tomas</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300612.html"><h5 class="card-title">Spizner</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300631.html"><h5 class="card-title">Jeffrey Holt</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300835.html"><h5 class="card-title">Gretchen Martinet</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300846.html"><h5 class="card-title">Taylor Brown</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="300918.html"><h5 class="card-title">Caitlin Steiner</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301011.html"><h5 class="card-title">Jordan Rodu</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301192.html"><h5 class="card-title">Jefferey Woo</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301242.html"><h5 class="card-title">Maria Ferrara</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div><div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+
+            <div class="card-body"><a href="301379.html"><h5 class="card-title">Daniel Keenan</h5></a><!--href and professor name-->
+
+            </div>
+          </div>
+        </div></div>
+    </div>
+      <hr>
+      <hr>
+
+      <footer class="text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>HoosMyProfessor © 2018 v2.1.2. All rights reserved.</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.0.0.js"></script>
+  </body>
 </html>

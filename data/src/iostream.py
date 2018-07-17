@@ -2,9 +2,33 @@
 # University of Virginia
 # hc4pa@virginia.edu
 
+# stores functions specifically for reading and storing files
 import re
 
-def readClassFile(file,dict): # file = name of file to read; dict = {class number:[names of professors]}
+def readCourseDescription(file,dict):
+    file = open(file, "r")
+    for line in file:
+        temp = line.split(",",1)
+        if(len(temp) <2):
+            dict["".join(temp[0].split(" "))] = ""
+        else:
+            dict["".join(temp[0].split(" "))] = temp[1].strip("\n")
+    print("Class descriptions have been loaded")
+
+def readCourseAbbr(file,dict):
+    file = open(file,"r")
+    bool = True
+    temp = ''
+    for line in file:
+        line = line.strip().strip("\n")
+        if bool:
+            bool = False
+            temp = line
+        else:
+            bool = True
+            dict[line] = temp
+
+def readClassFile(file,dict): # file = name of file to read; dict = {class number:[names of classes]}
     file = open(file, 'r')
     for line in file:
         dict[line.split(" ", 1)[0]] = line.split(" ", 1)[1]
