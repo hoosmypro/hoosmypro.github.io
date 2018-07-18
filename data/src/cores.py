@@ -3,7 +3,7 @@
 # hc4pa@virginia.edu
 
 # Bugs to fix
-# 1. when importing category data, duplicates are not handled
+# 1. when importing category data, duplicates are not deleted
 # 2. when repopulating data from a generated file, objects id is regenerated. Now this is handled by using a dict called populatingData and populateData() object method. In future it needs to be incorporated into masterlist_of_Object
 
 # ID is a six-digits code unique to a class/instructor/section/department. It is also used as an identifier when we create HTML pages
@@ -159,7 +159,7 @@ class Section:
         debugCombine[self.number + masterlist_of_Object[self.instructor].name] = self
 
     def output(self):
-        return str(self.id) +";"+ self.number +";"+ self.name +";"+ str(self.comment)  +";"+ str(self.instructor) + ";"+str(self.belonged)
+        return str(self.id) +";"+ self.number +";"+ self.name +";"+ str(self.comments)  +";"+ str(self.instructor) + ";"+str(self.belonged)
 
     def populateData(self,id):
         self.id = id
@@ -284,17 +284,20 @@ def debug():
     masterlist_of_Instructor.clear()
     masterlist_of_Class.clear()
     debugCombine.clear()
-    for item in debugDict:
-        initializeClass(item.number, item.name, populatingData[item.instructor].name, item.comment)
-
     # for item in debugDict:
-    #     key = item.number+populatingData[item.instructor].name
-    #     if key not in debugCombine:
-    #         initializeClass(item.number,item.name,populatingData[item.instructor].name,item.comment)
-    #     else:
-    #         debugCombine[key].combineComments(item.comment)
-    iostream.generateFile("output2", masterlist_of_Object)
+    #     initializeClass(item.number, item.name, populatingData[item.instructor].name, item.comment)
+
+    for item in debugDict:
+        key = item.number+populatingData[item.instructor].name
+        if key not in debugCombine:
+            initializeClass(item.number,item.name,populatingData[item.instructor].name,item.comment)
+        else:
+            debugCombine[key].combineComments(item.comment)
+
+
+    # iostream.generateFile("output2", masterlist_of_Object)
 #
 # repopulatingData("output/output")
 # debug()
+# track()
 # print(masterlist_of_Object)

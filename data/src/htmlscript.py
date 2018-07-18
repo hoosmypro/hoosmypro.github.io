@@ -261,12 +261,33 @@ temp_end3 = """<hr>
   </body>
 </html>"""
 
+def sortByNumber(list,dict):
+    # takes a list of IDs and returns a list of IDs based on order of names
+    temp = []
+    ret = []
+    for id in list:
+        temp.append(dict[id])
+    temp.sort(key=lambda x: x.number, reverse=False)
+    for item in temp:
+        ret.append(item.id)
+    return ret
+
+def sortByName(list,dict):
+    # takes a list of IDs and returns a list of IDs based on order of names
+    temp = []
+    ret = []
+    for id in list:
+        temp.append(dict[id])
+    temp.sort(key=lambda x: x.name, reverse=False)
+    for item in temp:
+        ret.append(item.id)
+    return ret
 
 def generateHTMLCategory(file,index,obj,dict,categoryInfo,classDescription):
     index.write("""<tr>
         <td class="IndexTable4"><a href="""+'"'+str(obj.id)+ '.html">' + obj.name + " - "+ categoryInfo[obj.name])
     file.write(temp_begin1 + categoryInfo[obj.name] + temp_begin1_2)
-    for item in obj.list_of_Class:
+    for item in sortByNumber(obj.list_of_Class,dict):
 
         file.write("""      <hr>
       <div class="row">
@@ -296,7 +317,7 @@ def generateHTMLCategory(file,index,obj,dict,categoryInfo,classDescription):
     <hr>
   <div class="container">
       <div class="row text-center">""")
-    for item in obj.list_of_Instructor:
+    for item in sortByName(obj.list_of_Instructor,dict):
         file.write("""<div class="col-md-4 pb-1 pb-md-0">
           <div class="card">
 
@@ -388,7 +409,7 @@ def generateHTMLInstr(file,index,obj,dict,categoryInfo,classDescription):
 			<button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button>
         </div>
       </div>""")
-    for id in obj.list_of_Class:
+    for id in sortByNumber(obj.list_of_Class,dict):
         file.write("""<hr>
       <div class="row">
         <div class="col-md-8 col-sm-12 col-lg-3">

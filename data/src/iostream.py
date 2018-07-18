@@ -8,11 +8,12 @@ import re
 def readCourseDescription(file,dict):
     file = open(file, "r")
     for line in file:
-        temp = line.split(",",1)
+        temp = line.split(" ",1)
         if(len(temp) <2):
-            dict["".join(temp[0].split(" "))] = ""
+            print(temp)
+            dict[temp[0]] = ""
         else:
-            dict["".join(temp[0].split(" "))] = temp[1].strip("\n")
+            dict[temp[0]] = temp[1]
     print("Class descriptions have been loaded")
 
 def readCourseAbbr(file,dict):
