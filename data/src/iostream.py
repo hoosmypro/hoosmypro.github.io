@@ -5,10 +5,10 @@
 # stores functions specifically for reading and storing files
 import re
 
-def readCourseDescription(file,dict):
+def generalReader(file, dict,split = " "):
     file = open(file, "r")
     for line in file:
-        temp = line.split(" ",1)
+        temp = line.split(split,1)
         if(len(temp) <2):
             print(temp)
             dict[temp[0]] = ""
