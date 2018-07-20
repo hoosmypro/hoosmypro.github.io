@@ -4,14 +4,8 @@
 #This file is used to store bulky python scripts
 
 version = "v2.1.3"
-temp_begin0 = """<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Departments</title>
-    <!-- Bootstrap -->
+footer = """"""
+bootstrap = """<!-- Bootstrap -->
     <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
   </head>
   <body>
@@ -20,7 +14,7 @@ temp_begin0 = """<!DOCTYPE html>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active"> <a class="nav-link" href="index.html">Hoos My Professor<span class="sr-only"></span></a> </li>
-          <li class="nav-item"> <a class="nav-link" href="departmetnts.html">Departments<span class="sr-only">(current)</span></a></li>
+          <li class="nav-item"> <a class="nav-link" href="departments.html">Departments<span class="sr-only">(current)</span></a></li>
 			<li class="nav-item"> <a class="nav-link" href="professors.html">Professors</a></li>
           <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 其他 </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -32,13 +26,18 @@ temp_begin0 = """<!DOCTYPE html>
           <li class="nav-item"> </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <input class="form-control mr-sm-2" type="search" placeholder="Feature not yet available" aria-label="Search">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
       </div>
-  </nav>
-
-    <hr>
+  </nav>"""
+temp_begin0 = """<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Departments</title>"""+ bootstrap +"""<hr>
     <h2 class="text-center">Departments</h2>
     <hr>
 
@@ -57,7 +56,7 @@ temp_end0 = """</table>
       <div class="container">
         <div class="row">
           <div class="col-12">
-            <p>HoosMyProfessor © 2018 """ + version+ """All rights reserved.</p>
+            <p>HoosMyProfessor © 2018 """ + version+ """ All rights reserved.</p>
           </div>
         </div>
       </div>
@@ -75,34 +74,7 @@ temp_begin1 = """<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CS</title>
-    <!-- Bootstrap -->
-    <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
-  </head>
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light col-lg-12"><a class="navbar-brand" href="https://www.msnatuva.org/"><img src="LOGO.png" width="50" height="30" alt="msn logo"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active"> <a class="nav-link" href="index.html">Hoos My Professor</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="departmetnts.html">Departments</a></li>
-			<li class="nav-item"> <a class="nav-link" href="professors.html">Professors</a></li>
-          <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 其他 </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#"></a> <a class="dropdown-item" href="#"></a><!drop down里的内容>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#"></a> <!drop down里的内容>
-            </div>
-          </li>
-          <li class="nav-item"> </li>
-        </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
-      </div>
-  </nav>
-    <div class="container">
+    <title>CS</title>""" + bootstrap + """<div class="container">
       <hr>
       <div class="row">
         <div class="col-6 col-lg-9">
@@ -111,7 +83,7 @@ temp_begin1_2 = """</h1><!--category name-->
         </div>
         <div class="col-6 col-lg-3">
           <h></h>
-			<button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button>
+			<a href="https://goo.gl/forms/tPhBt82YJy7SPW5j2"><button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button></a>
         </div>
       </div>"""
 temp_end1 = """</div>
@@ -143,34 +115,7 @@ temp_begin2 = """<!DOCTYPE html>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>"""
-temp_begin2_2 = """</title>
-    <!-- Bootstrap -->
-    <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
-  </head>
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light col-lg-12"><a class="navbar-brand" href="https://www.msnatuva.org/"><img src="LOGO.png" width="50" height="30" alt="msn logo"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active"> <a class="nav-link" href="index.html">Hoos My Professor<span class="sr-only">(current)</span></a> </li>
-          <li class="nav-item"> <a class="nav-link" href="departmetnts.html">Departments</a></li>
-			<li class="nav-item"> <a class="nav-link" href="professors.html">Professors<span class="sr-only">(current)</span></a></li>
-          <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 其他 </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#"></a> <a class="dropdown-item" href="#"></a><!drop down里的内容>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#"></a> <!drop down里的内容>
-            </div>
-          </li>
-          <li class="nav-item"> </li>
-        </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
-      </div>
-  </nav>
-  <hr>
+temp_begin2_2 = """</title>""" + bootstrap + """<hr>
 	  <div class="container">
 	  	<div class="row">
         	<div class="col-6 col-lg-9">
@@ -183,7 +128,6 @@ temp_end2 = """</div>
 
 
     </div>
-<hr>
 <hr>
 	<footer class="text-center">
         <div class="container">
@@ -210,34 +154,7 @@ temp_begin3 = """<!DOCTYPE html>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>"""
-temp_begin3_2 = """</title>
-    <!-- Bootstrap -->
-    <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
-  </head>
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light col-lg-12"><a class="navbar-brand" href="https://www.msnatuva.org/"><img src="LOGO.png" width="50" height="30" alt="msn logo"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active"> <a class="nav-link" href="index.html">Hoos My Professor</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="departmetnts.html">Departments</a></li>
-			<li class="nav-item"> <a class="nav-link" href="professors.html">Professors</a></li>
-          <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 其他 </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#"></a> <a class="dropdown-item" href="#"></a><!drop down里的内容>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#"></a> <!drop down里的内容>
-            </div>
-          </li>
-          <li class="nav-item"> </li>
-        </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
-      </div>
-  </nav>
-    <div class="container">
+temp_begin3_2 = """</title>""" + bootstrap + """<div class="container">
       <hr>
       <div class="row">
         <div class="col-6 col-lg-9">
@@ -260,7 +177,6 @@ temp_end3 = """<hr>
     <script src="js/bootstrap-4.0.0.js"></script>
   </body>
 </html>"""
-
 temp_begin4 = """<!DOCTYPE html>
 <html lang="en">
   <head>
@@ -268,40 +184,11 @@ temp_begin4 = """<!DOCTYPE html>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>"""
-
-temp_begin4_2 = """</title>
-    <!-- Bootstrap -->
-    <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
-  </head>
-  <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light col-lg-12"><a class="navbar-brand" href="https://www.msnatuva.org/"><img src="LOGO.png" width="50" height="30" alt="msn logo"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active"> <a class="nav-link" href="index.html">Hoos My Professor<span class="sr-only"></span></a> </li>
-          <li class="nav-item"> <a class="nav-link" href="departmetnts.html">Departments</a></li>
-			<li class="nav-item"> <a class="nav-link" href="professors.html">Professors</a></li>
-          <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 其他 </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#"></a> <a class="dropdown-item" href="#"></a><!drop down里的内容>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#"></a> <!drop down里的内容>
-            </div>
-          </li>
-          <li class="nav-item"> </li>
-        </ul>
-        <form class="form-inline my-2 my-lg-0">
-          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
-      </div>
-  </nav>
-    <div class="container">
+temp_begin4_2 = """</title>""" + bootstrap + """<div class="container">
       <hr>
     <div class="row">
       <div class="col-6 col-lg-10">
           <h1>"""
-
 temp_end4 = """</div>
       <hr>
 
@@ -310,7 +197,6 @@ temp_end4 = """</div>
 
 
     </div>
-<hr>
 <hr>
 	<footer class="text-center">
         <div class="container">
@@ -331,6 +217,13 @@ temp_end4 = """</div>
 </body>
 </html>"""
 
+temp_begin_pro = """<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Departments</title>"""+ bootstrap
 def sortByNumber(list,dict):
     # takes a list of IDs and returns a sorted list of IDs based on alphabetical order of names
     temp = []
@@ -353,9 +246,44 @@ def sortByName(list,dict):
         ret.append(item.id)
     return ret
 
+def generateProfessorsPages(output):
+    index = open(output + "professors.html", "w")
+    index.write(temp_begin_pro)
+    index.write("""<hr>
+    <h2 class="text-center">Find your professor by name</h2>
+    <hr>
+  <div class="container">
+      <div class="row text-center">""")
+    for i in range(0,26):
+        page = open(output + str(chr(i+97))+'.html', "w")
+        index.write("""<div class="col-md-4 pb-1 pb-md-0">
+                  <div class="card">
+
+                    <div class="card-body">""")
+        index.write('<a href="' + str(chr(i+65)) + """.html"><h5 class="card-title">""" + str(chr(i+65)) + """</h5></a><!--href and professor name-->
+
+                    </div>
+                  </div>
+                </div>""")
+        page.write(temp_begin_pro)
+        page.write("""<hr>
+          <h2 class="text-center">"""+ "Professors starting with "+str(chr(i+65))+"""</h2>
+          <hr>
+        <div class="container">
+            <div class="row text-center">""")
+    index.write(temp_end0)
+
+def professorsPageWrapUp(output):
+    for i in range(0,26):
+        page = open(output + str(chr(i+97))+'.html', "a")
+        page.write(temp_end0)
+
+
+
+
 def generateHTMLCategory(file,index,obj,dict,categoryInfo,classDescription):
-    index.write("""<tr>
-        <td class="IndexTable4"><a href="""+'"'+str(obj.id)+ '.html">' + obj.name + " - "+ categoryInfo[obj.name])
+    index.write("""
+        <td class="IndexTable4"><a href="""+'"'+str(obj.id)+ '.html">' + obj.name + " - "+ categoryInfo[obj.name] + """</a></td>""")
     file.write(temp_begin1 + categoryInfo[obj.name] + temp_begin1_2)
     for item in sortByNumber(obj.list_of_Class,dict):
 
@@ -371,7 +299,7 @@ def generateHTMLCategory(file,index,obj,dict,categoryInfo,classDescription):
         <div class="col-md-4 col-sm-12 col-lg-9">
           <div class="row justify-content-md-around m-1">
 
-            <strong>难度:2.2 热度: 4.9</strong><br>""")
+            <strong></strong><br>""")
         try:
             file.write(classDescription[dict[item].number])
         except:
@@ -405,7 +333,7 @@ def generateHTMLClass(file,index,obj,dict,categoryInfo,classDescription):
         	</div>
         <div class="col-6 col-lg-3">
           <h></h>
-			<button type="submit" id="feedbackSubmit" class="btn btn-primary btn-md"> write review</button>
+			<a href="https://goo.gl/forms/tPhBt82YJy7SPW5j2"><button type="submit" id="feedbackSubmit" class="btn btn-primary btn-md"> write review</button></a>
         </div>
       	</div>
       <hr>
@@ -450,12 +378,12 @@ def generateHTMLClass(file,index,obj,dict,categoryInfo,classDescription):
 
     file.write(temp_end2)
 
-def generateHTMLInstr(file,index,obj,dict,categoryInfo,classDescription):
+def generateHTMLInstr(file,index,obj,dict,categoryInfo,classDescription,output):
     file.write(temp_begin3 + obj.name + temp_begin3_2 + obj.name + """</h1><!--category name-->
         </div>
         <div class="col-6 col-lg-3">
           <h></h>
-			<button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button>
+			<a href="https://goo.gl/forms/tPhBt82YJy7SPW5j2"><button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button></a>
         </div>
       </div>""")
     for id in sortByNumber(obj.list_of_Class,dict):
@@ -470,7 +398,7 @@ def generateHTMLInstr(file,index,obj,dict,categoryInfo,classDescription):
         <div class="col-md-4 col-sm-12 col-lg-9">
           <div class="row justify-content-md-around m-1">
 
-            <strong>难度:2.2 热度: 4.9</strong><br>""" )
+            <strong></strong><br>""" )
         try:
             file.write(classDescription[dict[id].number])
         except:
@@ -478,8 +406,18 @@ def generateHTMLInstr(file,index,obj,dict,categoryInfo,classDescription):
         file.write("""</div>
         </div>
       </div>
-<hr>""")
+""")
     file.write(temp_end3)
+    page = open(output + obj.name[0] + '.html', "a")
+    page.write("""<div class="col-md-4 pb-1 pb-md-0">
+                      <div class="card">
+
+                        <div class="card-body">""")
+    page.write('<a href="' + str(obj.id) + """.html"><h5 class="card-title">""" + obj.name + """</h5></a><!--href and professor name-->
+
+                        </div>
+                      </div>
+                    </div>""")
 
 def generateHTMLSection(file,index,obj,dict,categoryInfo,classDescription,courseURL,categoryWeb):
     file.write(temp_begin4 + obj.name + "-" + dict[obj.instructor].name + temp_begin4_2+ obj.name + "-" + dict[obj.instructor].name)
@@ -490,7 +428,7 @@ def generateHTMLSection(file,index,obj,dict,categoryInfo,classDescription,course
       <hr>
       <div class="row">
         <div class="col-md-8 col-sm-12 col-lg-12"> </div>
-		  <button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button>
+		  <a href="https://goo.gl/forms/tPhBt82YJy7SPW5j2"><button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button></a>
         <div class="col-md-4 col-sm-12">
           <div class="row justify-content-md-around m-1"> </div>
         </div>
@@ -527,10 +465,10 @@ def generateHTMLSection(file,index,obj,dict,categoryInfo,classDescription,course
           <h2>Rating</h2>
           <hr>
           <div class="progress mt-4" lang="zh">
-            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="21.5" aria-valuemin="0" aria-valuemax="100" style="width: 21.5%"> 难度：2.2</div>
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="21.5" aria-valuemin="0" aria-valuemax="100" style="width: 100%"> 难度：N/A</div>
           </div>
           <div class="progress mt-4" lang="zh">
-            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 98%"> 热度：4.9</div>
+            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 100%"> 热度：N/A</div>
           </div>""")
     temp = obj.comments
     temp.sort(key = len, reverse= True)
@@ -551,10 +489,10 @@ def generateHTMLSection(file,index,obj,dict,categoryInfo,classDescription,course
             </div>
             <div class="col-5"> </div>
             <div class="col-5" lang="zh">
-              <h5>难度: 1</h5>
+              <h5></h5>
             </div>
             <div class="col-6 offset-lg-1" lang="zh">
-              <h5 class="text-left"><span aria-hidden="true"></span> 热度: 5</h5>
+              <h5 class="text-left"><span aria-hidden="true"></span> </h5>
             </div>
           </div>
           <h5><span class="badge badge-secondary"></span></h5><!--以后可以加入tag-->
@@ -568,10 +506,10 @@ def generateHTMLSection(file,index,obj,dict,categoryInfo,classDescription,course
             file.write("""<div class="col-md-6 col-sm-12 col-lg-12" lang="zh">
           <div class="row">
             <div class="col-5">
-              <h5>难度: 3</h5>
+              <h5></h5>
             </div>
             <div class="col-6 offset-lg-1">
-              <h5 class="text-left"><span aria-hidden="true"></span>热度: 4</h5>
+              <h5 class="text-left"><span aria-hidden="true"></span></h5>
             </div>
           </div>
           <h5><span class="badge badge-secondary"></span></h5><!--tag-->
@@ -579,6 +517,6 @@ def generateHTMLSection(file,index,obj,dict,categoryInfo,classDescription,course
             file.write(comment)
             file.write("""</p><!--评价内容-->
 			<hr>
-			<hr>
+
         </div>""")
     file.write(temp_end4)

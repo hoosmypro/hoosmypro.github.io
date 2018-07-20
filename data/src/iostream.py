@@ -5,6 +5,7 @@
 # stores functions specifically for reading and storing files
 import re
 
+
 def generalReader(file, dict,split = " "):
     file = open(file, "r")
     for line in file:
@@ -14,7 +15,7 @@ def generalReader(file, dict,split = " "):
             dict[temp[0]] = ""
         else:
             dict[temp[0]] = temp[1]
-    print("Class descriptions have been loaded")
+    print(file , " has been loaded")
 
 def readCourseAbbr(file,dict):
     file = open(file,"r")
