@@ -3,7 +3,7 @@
 
 #This file is used to store bulky python scripts
 
-version = "v2.1.3"
+version = "v2.1.4"
 footer = """"""
 bootstrap = """<!-- Bootstrap -->
     <link href="css/bootstrap-4.0.0.css" rel="stylesheet">
@@ -77,13 +77,12 @@ temp_begin1 = """<!DOCTYPE html>
     <title>CS</title>""" + bootstrap + """<div class="container">
       <hr>
       <div class="row">
-        <div class="col-6 col-lg-9">
+        <div class="col-sm-12 col-lg-10">
           <h1 data_temp_dwid="1">"""
 temp_begin1_2 = """</h1><!--category name-->
         </div>
-        <div class="col-6 col-lg-3">
-          <h></h>
-			<a href="https://goo.gl/forms/tPhBt82YJy7SPW5j2"><button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button></a>
+        <div class="col-sm-12 col-lg-2">
+			<a class="btn btn-primary btn-lg" href="https://goo.gl/forms/tPhBt82YJy7SPW5j2" role="button" > write review</a><!--google form link-->
         </div>
       </div>"""
 temp_end1 = """</div>
@@ -118,10 +117,9 @@ temp_begin2 = """<!DOCTYPE html>
 temp_begin2_2 = """</title>""" + bootstrap + """<hr>
 	  <div class="container">
 	  	<div class="row">
-        	<div class="col-6 col-lg-9">
+        	<div class="col-sm-12 col-lg-10">
          	 <h1 data_temp_dwid="1">"""
 temp_end2 = """</div>
-      <hr>
 
 <hr>
 
@@ -157,7 +155,7 @@ temp_begin3 = """<!DOCTYPE html>
 temp_begin3_2 = """</title>""" + bootstrap + """<div class="container">
       <hr>
       <div class="row">
-        <div class="col-6 col-lg-9">
+        <div class="col-sm-12 col-lg-10">
           <h1 data_temp_dwid="1">"""
 temp_end3 = """<hr>
       <footer class="text-center">
@@ -187,12 +185,10 @@ temp_begin4 = """<!DOCTYPE html>
 temp_begin4_2 = """</title>""" + bootstrap + """<div class="container">
       <hr>
     <div class="row">
-      <div class="col-6 col-lg-10">
+      <div class="col-sm-12 col-md-10">
           <h1>"""
 temp_end4 = """</div>
-      <hr>
 
-<hr>
 
 
 
@@ -289,17 +285,18 @@ def generateHTMLCategory(file,index,obj,dict,categoryInfo,classDescription):
 
         file.write("""      <hr>
       <div class="row">
-        <div class="col-md-8 col-sm-12 col-lg-3">
+        <div class="col-md-3 col-sm-12 col-lg-3">
           <div class="media">
 		<div class="media-body">""")
         file.write('<a href="'+ str(item) +""".html"><!--href--><h5 class="mt-0">""" + dict[item].number + """</h5><!--class name-->
 			""" + dict[item].name + """</a></div>
           </div>
         	</div>
-        <div class="col-md-4 col-sm-12 col-lg-9">
-          <div class="row justify-content-md-around m-1">
-
-            <strong></strong><br>""")
+        <div class="col-md-9 col-sm-12 col-lg-9">
+		  <div class="row justify-content-md-start m-1"><!--评分-->
+			  <strong></strong><br>
+		  </div>
+          <div class="row justify-content-md-start m-1">""")
         try:
             file.write(classDescription[dict[item].number])
         except:
@@ -331,24 +328,21 @@ def generateHTMLClass(file,index,obj,dict,categoryInfo,classDescription):
     file.write(temp_begin2+obj.number + " - " + obj.name+temp_begin2_2)
     file.write(obj.number + " - " + obj.name + """</h1><!--class name-->
         	</div>
-        <div class="col-6 col-lg-3">
-          <h></h>
-			<a href="https://goo.gl/forms/tPhBt82YJy7SPW5j2"><button type="submit" id="feedbackSubmit" class="btn btn-primary btn-md"> write review</button></a>
+        <div class="col-sm-12 col-lg-2">
+			<a class="btn btn-primary btn-lg" href="https://goo.gl/forms/tPhBt82YJy7SPW5j2" role="button" > write review</a><!--google form link-->
         </div>
       	</div>
       <hr>
       <div class="row">
-        <div class="col-md-8 col-sm-12 col-lg-3">
+        <div class="col-md-3 col-sm-12 col-lg-3"><!--mobile compatible-->
           <div class="media">
 		<div class="media-body">
           <h3 class="mt-4">Course Description</h3>
 			</div>
           </div>
         	</div>
-        <div class="col-md-4 col-sm-12 col-lg-9">
-          <div class="row justify-content-md-around m-1">
-
-            <br>""")
+                <div class="col-md-9 col-sm-12 col-lg-9">
+          <div class="row justify-content-md-start m-1">""")
     try:
          file.write('<p>'+classDescription[obj.number])
     except:
@@ -381,24 +375,25 @@ def generateHTMLClass(file,index,obj,dict,categoryInfo,classDescription):
 def generateHTMLInstr(file,index,obj,dict,categoryInfo,classDescription,output):
     file.write(temp_begin3 + obj.name + temp_begin3_2 + obj.name + """</h1><!--category name-->
         </div>
-        <div class="col-6 col-lg-3">
-          <h></h>
-			<a href="https://goo.gl/forms/tPhBt82YJy7SPW5j2"><button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button></a>
+        <div class="col-sm-12 col-lg-2">
+          <div class="col-md-12 col-sm-0 col-lg-12"> </div>
+			<a class="btn btn-primary btn-lg" href="https://goo.gl/forms/tPhBt82YJy7SPW5j2" role="button" > write review</a><!--google form link-->
         </div>
       </div>""")
     for id in sortByNumber(obj.list_of_Class,dict):
         file.write("""<hr>
       <div class="row">
-        <div class="col-md-8 col-sm-12 col-lg-3">
+        <div class="col-md-3 col-sm-12 col-lg-3">
           <div class="media">
 		<div class="media-body">
           <a href=""" + '"' +str(id) + '.html"><!--href--><h5 class="mt-0">' + dict[id].number + '</h5><!--class name-->' + dict[id].name + """</a></div>
           </div>
         	</div>
-        <div class="col-md-4 col-sm-12 col-lg-9">
-          <div class="row justify-content-md-around m-1">
-
-            <strong></strong><br>""" )
+        <div class="col-md-9 col-sm-12 col-lg-9"><!--mobile compatible-->
+          <div class="row justify-content-md-start m-1"><!--评分-->
+            <strong></strong>
+		  </div>
+		  <div class="row justify-content-md-start m-1">""" )
         try:
             file.write(classDescription[dict[id].number])
         except:
@@ -423,18 +418,16 @@ def generateHTMLSection(file,index,obj,dict,categoryInfo,classDescription,course
     file.write(temp_begin4 + obj.name + "-" + dict[obj.instructor].name + temp_begin4_2+ obj.name + "-" + dict[obj.instructor].name)
     file.write("""</h1><!--name-->
 		  <a href=""" + '"' + str(obj.instructor) + """.html" ><p>"""+dict[obj.instructor].name+"""</p></a><!--instructor-->
+      </div>
 
-      </div>
+      <div class="col-md-2 col-sm-12 col-lg-2">
+		  <div class="col-md-12 col-sm-0 col-lg-12"> </div>
+			<a class="btn btn-primary btn-lg" href="https://goo.gl/forms/tPhBt82YJy7SPW5j2" role="button"> write review</a>
+		</div>
+	</div>
       <hr>
-      <div class="row">
-        <div class="col-md-8 col-sm-12 col-lg-12"> </div>
-		  <a href="https://goo.gl/forms/tPhBt82YJy7SPW5j2"><button type="submit" id="feedbackSubmit" class="btn btn-primary btn-sm"> write review</button></a>
-        <div class="col-md-4 col-sm-12">
-          <div class="row justify-content-md-around m-1"> </div>
-        </div>
-      </div>
-      <hr>
-      <div class="row">
+
+		<div class="row">
         <div class="col-md-6 col-sm-12">
           <h4>课程介绍</h4>
 
@@ -480,35 +473,34 @@ def generateHTMLSection(file,index,obj,dict,categoryInfo,classDescription,course
       </div>
       <hr>
 <hr>
-
-      <div class="row">
-        <div class="col-md-6 col-sm-12 col-lg-12">
-          <div class="row">
-            <div class="col-5">
+	<div class="row">
+		<div class="col-12">
               <h4>Reviews:</h4>
-            </div>
-            <div class="col-5"> </div>
-            <div class="col-5" lang="zh">
+			<hr>
+        </div>
+
+        <div class="col-md-12 col-sm-12 col-lg-12" lang="zh">
+          <div class="row">
+            <div class="col-6">
               <h5></h5>
             </div>
-            <div class="col-6 offset-lg-1" lang="zh">
-              <h5 class="text-left"><span aria-hidden="true"></span> </h5>
+            <div class="col-6">
+              <h5 class="text-left"><span aria-hidden="true"></span></h5>
             </div>
           </div>
           <h5><span class="badge badge-secondary"></span></h5><!--以后可以加入tag-->
           <p>""")
             file.write(comment)
             file.write("""</p><!--评价内容-->
- 			<hr>
 			<hr>
 		</div>""")
         else:
-            file.write("""<div class="col-md-6 col-sm-12 col-lg-12" lang="zh">
+            file.write("""<div class="col-md-12 col-sm-12 col-lg-12" lang="zh">
           <div class="row">
-            <div class="col-5">
+            <div class="col-6">
               <h5></h5>
             </div>
-            <div class="col-6 offset-lg-1">
+            <div class="col-6">
               <h5 class="text-left"><span aria-hidden="true"></span></h5>
             </div>
           </div>
